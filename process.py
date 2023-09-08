@@ -10,20 +10,25 @@ with open(file_path, 'r') as file:
     urls = file.readlines()
 
 # Iterate through each URL and open it in a web browser
+count = 0
 for url in urls:
     # Strip any leading/trailing whitespaces or newline characters
     if url[0] == "#":
         continue
+    count +=  1
     url = url.strip()
+    url = re.sub('\(.*\)', '', url)
     s = re.sub('[^0-9a-zA-Z]+', ' ', url)
 
+    print(url)
     # Open the URL in the default web browser
     webbrowser.open(f"https://magnetdl.torrentbay.net/search/?q={s}&m")
 
-    print(url)
-    x = input('Continue?')
-    if x in ['x', 'n']:
-        print("stop")
-        break
+    if count >= 10:
+        x = input('Continue?')
+        count = 0
+        if x in ['x', 'n']:
+            print("stop")
+            break
     print("next")
     # break
