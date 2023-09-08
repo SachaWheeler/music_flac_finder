@@ -290,71 +290,71 @@
 # David Byrne/The Catherine Wheel (The Complete Score from the Broadway Production)
 # David McCallum/A Part of Me _ A Bit More of Me
 # Death Cab for Cutie/You Can Play These Songs With Chords
-Death In Vegas/Dead Elvis_Int'l version
-Deep Purple/Machine Head (Remastered)
-Department of Eagles/In Ear Park
-Devendra Banhart/Cripple Crow
-Devendra Banhart/Nino Rojo
-Devendra Banhart/Rejoicing in the Hands
-Devendra Banhart/Smokey Rolls Down Thunder Canyon
-Dickon Hinchliffe/Winter's Bone (Original Score)
-Dinosaur Jr_/Where You Been (Expanded Edition)
-Dirty Three/Cinder
-Do Make Say Think/Winter Hymn Country Hymn Secret Hymn
-Doves/Lost Sides
-Doves/Lost Souls
-Down/Nola
-Dr. Dre/Compton
-Dream Widow & Foo Fighters/Dream Widow
-Dua Lipa/Future Nostalgia
-Dávila 666/Pa Que Vives - Single
-Dávila 666/Tan Bajo
-Eagles of Death Metal/Heart On
-Earth/Pentastar - In the Style of Demons
-Earthless/Black Heaven
-Echo & The Bunnymen/Songs to Learn & Sing
-Ed Harcourt/Here Be Monsters
-Eddie Hazel/Game, Dames and Guitar Thangs
-Eddie Vedder/Ukulele Songs
-Edie Brickell & New Bohemians/Ghost of a Dog
-Edwyn Collins/Gorgeous George
-Eels/Daisies of the Galaxy
-Eels/Earth to Dora
-Eels/End Times
-Eels/Extreme Witchcraft
-Eels/Hombre Lobo
-Eels/Shootenanny!
-Eels/Souljacker
-Eels/The Cautionary Tales of Mark Oliver Everett (Deluxe Version)
-Eels/Tomorrow Morning
-Elastica/Singles
-Elbow/Leaders of the Free World ((Deluxe Edition))
-Elder/Dead Roots Stirring
-Elder/Lore
-Elder/Omens
-Electric Wizard/Dopethrone
-Elephant Tree/Habits
-Elisabeth Schwarzkopf & Philharmonia Orchestra/Orff_ Die Kluge & Der Mond
-Elliott Smith/An Introduction To Elliott Smith
-Elliott Smith/Either_Or (20th Anniversary Expanded Edition) [2017 Remaster]
-Elliott Smith/Either_Or (Expanded Edition)
-Elliott Smith/Figure 8 (Deluxe Edition)
-Elliott Smith/From a Basement On the Hill
-Elliott Smith/Roman Candle
-Elliott Smith/XO (Deluxe Edition)
-Elton John/Madman Across the Water
-Elton John/Tumbleweed Connection
-Elusion/Show and Tell (feat. Limon Wilson)
-Elvis Costello & The Attractions/All This Useless Beauty
-Elvis Costello/King of America
-Elvis Costello/North
-Elvis Perkins/Ash Wednesday
-Embrace/The Good Will Out
-Emily Jane White/Dark Undercoat
-Endless Boogie/Admonitions
-Ennio Morricone/The Mission
-Eric Clapton & J.J. Cale/The Road to Escondido
-Espers/III
+# Death In Vegas/Dead Elvis_Int'l version
+# Deep Purple/Machine Head (Remastered)
+# Department of Eagles/In Ear Park
+# Devendra Banhart/Cripple Crow
+# Devendra Banhart/Nino Rojo
+# Devendra Banhart/Rejoicing in the Hands
+# Devendra Banhart/Smokey Rolls Down Thunder Canyon
+# Dickon Hinchliffe/Winter's Bone (Original Score)
+# Dinosaur Jr_/Where You Been (Expanded Edition)
+# Dirty Three/Cinder
+# Do Make Say Think/Winter Hymn Country Hymn Secret Hymn
+# Doves/Lost Sides
+# Doves/Lost Souls
+# Down/Nola
+# Dr. Dre/Compton
+# Dream Widow & Foo Fighters/Dream Widow
+# Dua Lipa/Future Nostalgia
+# Dávila 666/Pa Que Vives - Single
+# Dávila 666/Tan Bajo
+# Eagles of Death Metal/Heart On
+# Earth/Pentastar - In the Style of Demons
+# Earthless/Black Heaven
+# Echo & The Bunnymen/Songs to Learn & Sing
+# Ed Harcourt/Here Be Monsters
+# Eddie Hazel/Game, Dames and Guitar Thangs
+# Eddie Vedder/Ukulele Songs
+# Edie Brickell & New Bohemians/Ghost of a Dog
+# Edwyn Collins/Gorgeous George
+# Eels/Daisies of the Galaxy
+# Eels/Earth to Dora
+# Eels/End Times
+# Eels/Extreme Witchcraft
+# Eels/Hombre Lobo
+# Eels/Shootenanny!
+# Eels/Souljacker
+# Eels/The Cautionary Tales of Mark Oliver Everett (Deluxe Version)
+# Eels/Tomorrow Morning
+# Elastica/Singles
+# Elbow/Leaders of the Free World ((Deluxe Edition))
+# Elder/Dead Roots Stirring
+# Elder/Lore
+# Elder/Omens
+# Electric Wizard/Dopethrone
+# Elephant Tree/Habits
+# Elisabeth Schwarzkopf & Philharmonia Orchestra/Orff_ Die Kluge & Der Mond
+# Elliott Smith/An Introduction To Elliott Smith
+# Elliott Smith/Either_Or (20th Anniversary Expanded Edition) [2017 Remaster]
+# Elliott Smith/Either_Or (Expanded Edition)
+# Elliott Smith/Figure 8 (Deluxe Edition)
+# Elliott Smith/From a Basement On the Hill
+# Elliott Smith/Roman Candle
+# Elliott Smith/XO (Deluxe Edition)
+# Elton John/Madman Across the Water
+# Elton John/Tumbleweed Connection
+# Elusion/Show and Tell (feat. Limon Wilson)
+# Elvis Costello & The Attractions/All This Useless Beauty
+# Elvis Costello/King of America
+# Elvis Costello/North
+# Elvis Perkins/Ash Wednesday
+# Embrace/The Good Will Out
+# Emily Jane White/Dark Undercoat
+# Endless Boogie/Admonitions
+# Ennio Morricone/The Mission
+# Eric Clapton & J.J. Cale/The Road to Escondido
+# Espers/III
 Evgeny Mravinsky & Leningrad Philharmonic Orchestra/Tchaikovsky_ Symphony No. 6 _Pathétique_
 Fairground Saints/Nothing Breaks Like a Heart - Single
 Faith No More/Angel Dust
