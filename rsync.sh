@@ -21,6 +21,7 @@ find . -type f -name "*.png" -delete
 find . -type f -name "*.gif" -delete
 find . -type f -name "*.pdf" -delete
 find . -type f -name "Thumbs.db" -delete
+find . -type f -name "*.rar" -delete
 
 rmdir */*/*/*
 rmdir */*/*
