@@ -24,7 +24,8 @@ for url in urls:
 
     print(url)
     # Open the URL in the default web browser
-    webbrowser.open(f"https://magnetdl.torrentbay.net/search/?q={s}&m")
+    # webbrowser.open(f"https://magnetdl.torrentbay.net/search/?q={s}&m")
+    webbrowser.open(f"https://1337x.torrentbay.net/category-search/be%20good%20tanyas/Music/1/")
 
     if count >= COUNT:
         x = input('Continue?')

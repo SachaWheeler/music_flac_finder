@@ -1,1 +1,9 @@
 find . -name *.mp3 | cut -d"/" -f3,4 | sort | uniq -c | sort -nr | less
+
+cd /Users/happy/Music/Music2023/Media.localized
+# for finding lists fo file types
+find ./Apple\ Music/ -name "*.m4p" | cut -d"/" -f4,5| sort -u > m4p_list.txt
+find ./Apple\ Music/ -name "*.m4p" | cut -d"/" -f4,5| uniq -c | sort -rn | less
+
+
+find ./Music/ -name "*.mp3" | cut -d"/" -f4,5| sort -u > mp3_list.txt
