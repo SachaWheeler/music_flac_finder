@@ -37,13 +37,15 @@ with open('/home/sacha/work/music/output_links.txt', 'a') as the_file:
                             shutil.move(m4p_dir, removed_dir)
                             # exit(0)
                     else:
-                        continue
-                        x = input(f"get {artist}/{album}?")
+                        # continue
+                        # x = input(f"get {artist}/{album}?")
+                        x = 'y'
                         if x == 'y':
                             the_file.write('https:' + urllib.parse.quote(f"//1337x.torrentbay.net/category-search/{artist} {album}/Music/1/") + '\n')
                         # break
             else:
                 # the m4p dir is NOT in the mp3 path
-                the_file.write('https:' + urllib.parse.quote(f"//1337x.torrentbay.net/category-search/{artist}/Music/1/") + '\n')
+                pass
+                # the_file.write('https:' + urllib.parse.quote(f"//1337x.torrentbay.net/category-search/{artist}/Music/1/") + '\n')
 
 
