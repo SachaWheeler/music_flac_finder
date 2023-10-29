@@ -7,7 +7,9 @@ os.chdir('/home/sacha/happy_share/Music/Music2023/Media.localized')
 directory = 'Apple Music'
 removed_dir = 'removed/'
 
-with open('/home/sacha/work/music/output_links.txt', 'a') as the_file:
+# FILENAME = "/home/sacha/work/music/output_links.txt"
+FILENAME = "/home/sacha/work/music/output_artists.txt"
+with open(FILENAME, 'w+') as the_file:
     # iterate over files in the directory
     for filename in os.listdir(directory):
         f = os.path.join(directory, filename)
@@ -39,13 +41,13 @@ with open('/home/sacha/work/music/output_links.txt', 'a') as the_file:
                     else:
                         # continue
                         # x = input(f"get {artist}/{album}?")
-                        x = 'y'
+                        x = ''
                         if x == 'y':
                             the_file.write('https:' + urllib.parse.quote(f"//1337x.torrentbay.net/category-search/{artist} {album}/Music/1/") + '\n')
                         # break
             else:
                 # the m4p dir is NOT in the mp3 path
-                pass
                 # the_file.write('https:' + urllib.parse.quote(f"//1337x.torrentbay.net/category-search/{artist}/Music/1/") + '\n')
+                the_file.write(artist  + '\n')
 
 
