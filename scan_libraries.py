@@ -25,9 +25,6 @@ with open(FILENAME, 'w+') as the_file:
         mp3_path = os.path.join(mp3_directory, artist)
         if os.path.isdir(mp3_path):
             mp3_albums = album_tuples(os.listdir(mp3_path))
-            # print(artist)
-            # print("m4p:   ", m4p_albums)
-            # print("mp3:   ", mp3_albums)
 
             for (name1, album1) in m4p_albums:
                 album_matched = False
@@ -40,8 +37,6 @@ with open(FILENAME, 'w+') as the_file:
                             os.rmdir(m4p_path + "/" + album1)
                             continue
                         mp3s = os.listdir(mp3_path + "/" + album2)
-                        # print("m4p: ", m4ps)
-                        # print("mp3: ", mp3s)
 
                         # check if the m4ps exist as mp3s
                         for m4p in m4ps:
