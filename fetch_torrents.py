@@ -12,9 +12,12 @@ with open(ARTISTS_FILE) as file:
         print(artist)
         count += 1
 
-        for torrent in t.search(artist, category=CATEGORIES.AUDIO.MUSIC).order(ORDERS.SEEDERS.DES):
-            print(torrent.info)
-            if count > 2:
-                break
-        break
+        try:
+            for torrent in t.search(
+                    artist,
+                    category=CATEGORIES.AUDIO.MUSIC
+                    ).order(ORDERS.SEEDERS.DES):
+                print(torrent.info)
+        except Exception as e:
+            print(e)
 

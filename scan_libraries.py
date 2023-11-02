@@ -4,24 +4,43 @@ import urllib.parse
 import shutil
 
 os.chdir('/home/sacha/happy_share/Music/Music2023/Media.localized')
-directory = 'Apple Music'
+m4p_directory = 'Apple Music'
 removed_dir = 'removed/'
+
+def album_tuples(album_dirs):
+    albums = []
+    for album in album_dirs:
+        name = re.sub('[\(\[].*[\)\]]', '', album)
+        albums.append((name, album))
+    return albums
 
 # FILENAME = "/home/sacha/work/music/output_links.txt"
 FILENAME = "/home/sacha/work/music/output_artists.txt"
 with open(FILENAME, 'w+') as the_file:
     # iterate over files in the directory
-    for filename in os.listdir(directory):
-        f = os.path.join(directory, filename)
-        # checking if it is a file
-        if os.path.isdir(f):
-            artist = f.split('/')[1]
+    for filename in os.listdir(m4p_directory):
+
+        m4p_path = os.path.join(m4p_directory, filename)
+        artist = m4p_path.split('/')[1]
+        m4p_albums = album_tuples(os.listdir(m4p_path))
+
+        mp3_path = f"Music/{artist}/"
+        if os.path.isdir(mp3_path):
+            # print(mp3_path)
+            mp3_albums = album_tuples(os.listdir(mp3_path))
             print(artist)
-            albums = os.listdir(f)
-            mp3_path = f"Music/{artist}/"
-            if os.path.isdir(mp3_path):
-                # print(mp3_path)
-                mp3_albums = os.listdir(mp3_path)
+            print("m4p:   ", m4p_albums)
+            print("mp3:   ", mp3_albums)
+
+            continue
+            for album in mp3_albums:
+                print(album)
+                print(mp3_albums)
+
+
+                # check the mp3 dir
+                """
+                continue
                 for album in albums:
                     album  = re.sub('\(.*\)', '', album)
                     print(album)
@@ -51,3 +70,4 @@ with open(FILENAME, 'w+') as the_file:
                 the_file.write(artist  + '\n')
 
 
+                """
