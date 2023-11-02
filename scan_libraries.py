@@ -10,7 +10,7 @@ removed_dir = 'removed/'
 def album_tuples(album_dirs):
     albums = []
     for album in album_dirs:
-        name = re.sub('[\(\[].*[\)\]]', '', album)
+        name = re.sub('[\(\[].*[\)\]]', '', album).strip()
         albums.append((name, album))
     return albums
 
