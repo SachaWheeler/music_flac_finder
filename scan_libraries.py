@@ -11,7 +11,7 @@ removed_dir = 'removed/'
 def album_tuples(album_dirs):
     return [(re.sub('[\(\[].*[\)\]]', '', album).strip(), album) for album in album_dirs]
 
-FILENAME = "/home/sacha/work/music/output_artists.txt"
+FILENAME = "/home/sacha/work/music/to_fetch.txt"
 with open(FILENAME, 'w+') as the_file:
     # iterate over artists in the m4p directory
     for artist in os.listdir(m4p_directory):
@@ -25,30 +25,48 @@ with open(FILENAME, 'w+') as the_file:
         mp3_path = os.path.join(mp3_directory, artist)
         if os.path.isdir(mp3_path):
             mp3_albums = album_tuples(os.listdir(mp3_path))
-            print(artist)
-            print("m4p:   ", m4p_albums)
-            print("mp3:   ", mp3_albums)
+            # print(artist)
+            # print("m4p:   ", m4p_albums)
+            # print("mp3:   ", mp3_albums)
 
             for (name1, album1) in m4p_albums:
+                album_matched = False
                 for (name2, album2) in mp3_albums:
                     if name1 == name2:
-                        print(album1, "matches", album2)
+                        album_matched = True
+                        # print(album1, "matches", album2)
                         m4ps = os.listdir(m4p_path + "/" + album1)
                         if len(m4ps) == 0:
                             os.rmdir(m4p_path + "/" + album1)
+                            continue
                         mp3s = os.listdir(mp3_path + "/" + album2)
-                        print("m4p: ", m4ps)
-                        print("mp3: ", mp3s)
+                        # print("m4p: ", m4ps)
+                        # print("mp3: ", mp3s)
 
                         # check if the m4ps exist as mp3s
                         for m4p in m4ps:
                             title = re.sub('^[0-9\-\ ]+', '', m4p).split('.')[0]
                             mp3_matches = [s for s in mp3s if title in s]
-                            print(m4p, title)
-                            print(mp3_matches)
-                        exit(0)
+                            if len(mp3_matches) == 0:
+                                # fetch the album
+                                pass
+                                continue
+                            print(artist, album1)
+                            print("m4p:   ", m4p)
+                            print("mp3:   ", mp3_matches)
+                            if len(mp3_matches) ==  1:
+                                mp3_matches = mp3_matches[0]
+                            # x = input(f"\nreplace '{m4p}' with '{mp3_matches}'")
+                            if True:  #'y' in x.lower():
+                                print(f"removing {m4p_path}/{album1}/{m4p}")
+                                shutil.move(f"{m4p_path}/{album1}/{m4p}", removed_dir)
+                if not album_matched:
+                    # write to the file
+                    the_file.write('https:' + urllib.parse.quote(f"//1337x.torrentbay.net/category-search/{artist} {name1}/Music/1/") + '\n')
 
-        else:  # mp3 album dir does njot exist
+        else:  # mp3 artist dir does njot exist
+            # add mp4 album to torrent list
+            the_file.write('https:' + urllib.parse.quote(f"//1337x.torrentbay.net/category-search/{artist}/Music/1/") + '\n')
             pass
 
 
