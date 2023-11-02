@@ -5,41 +5,57 @@ import shutil
 
 os.chdir('/home/sacha/happy_share/Music/Music2023/Media.localized')
 m4p_directory = 'Apple Music'
+mp3_directory = 'Music'
 removed_dir = 'removed/'
 
 def album_tuples(album_dirs):
-    albums = []
-    for album in album_dirs:
-        name = re.sub('[\(\[].*[\)\]]', '', album).strip()
-        albums.append((name, album))
-    return albums
+    return [(re.sub('[\(\[].*[\)\]]', '', album).strip(), album) for album in album_dirs]
 
-# FILENAME = "/home/sacha/work/music/output_links.txt"
 FILENAME = "/home/sacha/work/music/output_artists.txt"
 with open(FILENAME, 'w+') as the_file:
-    # iterate over files in the directory
-    for filename in os.listdir(m4p_directory):
+    # iterate over artists in the m4p directory
+    for artist in os.listdir(m4p_directory):
 
-        m4p_path = os.path.join(m4p_directory, filename)
-        artist = m4p_path.split('/')[1]
+        m4p_path = os.path.join(m4p_directory, artist)
         m4p_albums = album_tuples(os.listdir(m4p_path))
+        if len(m4p_albums) == 0:
+            os.rmdir(m4p_path)
+            continue
 
-        mp3_path = f"Music/{artist}/"
+        mp3_path = os.path.join(mp3_directory, artist)
         if os.path.isdir(mp3_path):
-            # print(mp3_path)
             mp3_albums = album_tuples(os.listdir(mp3_path))
             print(artist)
             print("m4p:   ", m4p_albums)
             print("mp3:   ", mp3_albums)
 
-            continue
-            for album in mp3_albums:
-                print(album)
-                print(mp3_albums)
+            for (name1, album1) in m4p_albums:
+                for (name2, album2) in mp3_albums:
+                    if name1 == name2:
+                        print(album1, "matches", album2)
+                        m4ps = os.listdir(m4p_path + "/" + album1)
+                        if len(m4ps) == 0:
+                            os.rmdir(m4p_path + "/" + album1)
+                        mp3s = os.listdir(mp3_path + "/" + album2)
+                        print("m4p: ", m4ps)
+                        print("mp3: ", mp3s)
+
+                        # check if the m4ps exist as mp3s
+                        for m4p in m4ps:
+                            title = re.sub('^[0-9\-\ ]+', '', m4p).split('.')[0]
+                            mp3_matches = [s for s in mp3s if title in s]
+                            print(m4p, title)
+                            print(mp3_matches)
+                        exit(0)
+
+        else:  # mp3 album dir does njot exist
+            pass
 
 
-                # check the mp3 dir
-                """
+
+
+
+            """
                 continue
                 for album in albums:
                     album  = re.sub('\(.*\)', '', album)
@@ -70,4 +86,4 @@ with open(FILENAME, 'w+') as the_file:
                 the_file.write(artist  + '\n')
 
 
-                """
+            """
