@@ -40,7 +40,7 @@ with open(FILENAME, 'w+') as the_file:
 
                         # check if the m4ps exist as mp3s
                         for m4p in m4ps:
-                            title = re.sub('^[0-9\-\ ]+', '', m4p).split('.')[0]
+                            title = re.sub('^[0-9\-\ ]+', '', m4p).split('.')[:-2]
                             mp3_matches = [s for s in mp3s if title in s]
                             if len(mp3_matches) == 0:
                                 # fetch the album
