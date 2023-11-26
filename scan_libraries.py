@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import os
 import re
 import urllib.parse
@@ -40,7 +41,7 @@ with open(FILENAME, 'w+') as the_file:
 
                         # check if the m4ps exist as mp3s
                         for m4p in m4ps:
-                            title = re.sub('^[0-9\-\ ]+', '', m4p).split('.')[:-2]
+                            title = "".join(re.sub('^[0-9\-\ ]+', '', m4p).split('.')[:-1])
                             mp3_matches = [s for s in mp3s if title in s]
                             if len(mp3_matches) == 0:
                                 # fetch the album
@@ -54,7 +55,11 @@ with open(FILENAME, 'w+') as the_file:
                             # x = input(f"\nreplace '{m4p}' with '{mp3_matches}'")
                             if True:  #'y' in x.lower():
                                 print(f"removing {m4p_path}/{album1}/{m4p}")
-                                shutil.move(f"{m4p_path}/{album1}/{m4p}", removed_dir)
+                                try:
+                                    shutil.move(f"{m4p_path}/{album1}/{m4p}", removed_dir)
+                                except:
+                                    os.remove(f"{m4p_path}/{album1}/{m4p}")
+
                 if not album_matched:
                     # write to the file
                     the_file.write('https:' + urllib.parse.quote(f"//1337x.torrentbay.net/category-search/{artist} {name1}/Music/1/") + '\n')

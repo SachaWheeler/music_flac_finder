@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from tpb import TPB
 from tpb import CATEGORIES, ORDERS
 
