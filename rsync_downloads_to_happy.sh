@@ -5,7 +5,8 @@ cd ~/Downloads
 
 HOST='happy.local'
 USER='happy'
-INCOMING_DIR='/Users/happy/Music/Music2023/Media.localized/incoming/'
+# INCOMING_DIR='/Users/happy/Music/Music2023/Media.localized/incoming/'
+INCOMING_DIR='/Volumes/moshpit/Music/incoming/'
 
 rsync -zav --remove-source-files --prune-empty-dirs /home/sacha/Downloads/ $USER@$HOST:$INCOMING_DIR --include "*/" --include="*.m4a" --include="*.mp3" --include="*.flac" --include="*.ogg" --exclude="*"
 

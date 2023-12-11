@@ -4,7 +4,8 @@ import re
 import urllib.parse
 import shutil
 
-os.chdir('/home/sacha/happy_share/Music/Music2023/Media.localized')
+# os.chdir('/home/sacha/happy_share/Music/Music2023/Media.localized')
+os.chdir('/home/sacha/happy_share')
 m4p_directory = 'Apple Music'
 mp3_directory = 'Music'
 removed_dir = 'removed/'
