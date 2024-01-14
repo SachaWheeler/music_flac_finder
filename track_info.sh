@@ -23,19 +23,19 @@ if [ "$command" == "fetch" ]; then
             else
               say \"already liked\" using \"${voice}\"
             end if
-             set trackName to name of current track
-             set artistName to artist of current track
-             set albumName to album of current track
+            set trackName to name of current track
+            set artistName to artist of current track
+            set albumName to album of current track
 
-             set musicFolderPath to POSIX path of \"/Volumes/moshpit/Music/\"
-             set filePath to musicFolderPath & \"${app}/\" & artistName & \"/\" & albumName & \"/\"
+            set musicFolderPath to POSIX path of \"/Volumes/moshpit/Music/\"
+            set filePath to musicFolderPath & \"${app}/\" & artistName & \"/\" & albumName & \"/\"
 
-             set albumDirExists to (do shell script \"[ -e \" & quoted form of filePath & \" ] && echo 'true' || echo 'false'\")
+            set albumDirExists to (do shell script \"[ -e \" & quoted form of filePath & \" ] && echo 'true' || echo 'false'\")
 
-             if albumDirExists is not \"true\" then
-               display dialog \"File does not exist on disk. Shall I fetch \" & artistName & \", \" & albumName
-               display dialog filePath
-             end if
+            if albumDirExists is not \"true\" then
+              display dialog \"File does not exist on disk. Shall I fetch \" & artistName & \", \" & albumName
+              display dialog filePath
+            end if
           else -- otherwise start a playlist
             play playlist named \"${default_playlist}\"
           end if"
