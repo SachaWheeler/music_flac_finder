@@ -26,6 +26,11 @@ if [ "$command" == "fetch" ]; then
             set trackName to name of current track
             set artistName to artist of current track
             set albumName to album of current track
+            try
+              set thePath to POSIX path of (get location of current track)
+            on error
+              set thePath to "Not playing from local library."
+            end try
 
             set musicFolderPath to POSIX path of \"/Volumes/moshpit/Music/\"
             set filePath to musicFolderPath & \"${app}/\" & artistName & \"/\" & albumName & \"/\"
