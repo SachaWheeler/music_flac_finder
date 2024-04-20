@@ -54,12 +54,14 @@ with open(FILENAME, 'w+') as the_file:
                             if len(mp3_matches) ==  1:
                                 mp3_matches = mp3_matches[0]
                             # x = input(f"\nreplace '{m4p}' with '{mp3_matches}'")
+                            """
                             if False:  #  :  #'y' in x.lower():
                                 print(f"removing {m4p_path}/{album1}/{m4p}")
                                 try:
                                     shutil.move(f"{m4p_path}/{album1}/{m4p}", removed_dir)
                                 except:
                                     os.remove(f"{m4p_path}/{album1}/{m4p}")
+                            """
 
                 if not album_matched:
                     # write to the file
