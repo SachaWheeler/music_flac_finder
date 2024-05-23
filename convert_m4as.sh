@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Directory containing m4a files
-directory="/home/sacha/happy_share/Music/Aimee Mann/Mental Illness"
+directory="/home/sacha/happy_share/Music"
 
 # Find all m4a files recursively in the directory
 find "$directory" -type f -name "*.m4a" -print0 | while IFS= read -r -d '' file; do
