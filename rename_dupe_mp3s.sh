@@ -20,24 +20,12 @@ process_directory() {
     echo "Directory: $dir"
     echo "Files ending with ' 1.mp3':"
     ls "$dir"
-    # for file in "${files[@]}"; do
-            # echo $file
-        # echo "$(basename "$file")"
-    # done
 
-    read -p "Do you want to rename the files in this directory? (yes/no): " choice
-    if [[ $choice == "yes" ]]; then
-        for file in "${files[@]}"; do
-            newfile="${file// 1.mp3/.mp3}"
-            # mv "$file" "$newfile"
-            echo "Renamed: $(basename "$file") to $(basename "$newfile")"
-        done
-    else
-        for file in "${files[@]}"; do
-            # rm "$file"
-            echo "Deleted: $(basename "$file")"
-        done
-    fi
+    for file in "${files[@]}"; do
+        newfile="${file// 1.mp3/.mp3}"
+        mv "$file" "$newfile"
+        echo "Renamed: $(basename "$file") to $(basename "$newfile")"
+    done
 }
 
 # Main script
