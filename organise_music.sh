@@ -1,7 +1,7 @@
 #!/bin/bash
 
-SOURCE_DIR="/home/sacha/happy_share/incoming"
-DEST_DIR="/home/sacha/happy_share/Music"
+SOURCE_DIR="/music/incoming"
+DEST_DIR="/music/Music"
 
 # Create the destination directory if it doesn't exist
 mkdir -p "$DEST_DIR"

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MUSIC_DIR="/home/sacha/happy_share"
+MUSIC_DIR="/music"
 SOURCE_DIR="$MUSIC_DIR/incoming"
 DEST_DIR="$MUSIC_DIR/Music"
 
