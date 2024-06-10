@@ -1,7 +1,7 @@
 #!/bin/bash
 
-SOURCE_DIR="/music/incoming"
-DEST_DIR="/music/Music"
+SOURCE_DIR="/moshpit/Music/incoming"
+DEST_DIR="/moshpit/Music/Music"
 
 # Create the destination directory if it doesn't exist
 mkdir -p "$DEST_DIR"

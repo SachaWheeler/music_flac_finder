@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MUSIC_DIR="/music"
+MUSIC_DIR="/moshpit/Music"
 SOURCE_DIR="$MUSIC_DIR/incoming"
 DEST_DIR="$MUSIC_DIR/Music"
 
