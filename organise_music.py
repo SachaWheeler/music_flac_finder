@@ -55,6 +55,12 @@ def process_audio_files(directory, music_directory):
             shutil.move(file_path, new_file_path)
             print(f"Moved {file_path} to {new_file_path}")
 
+            # Check if the original directory is empty and remove it if it is
+            original_dir = os.path.dirname(file_path)
+            if not os.listdir(original_dir):
+                os.rmdir(original_dir)
+                print(f"Removed empty directory: {original_dir}")
+
 # Define the directory to scan and the music directory
 directory_to_scan = '/home/sacha/incoming_music'
 music_directory = '/moshpit/Music/Music'
