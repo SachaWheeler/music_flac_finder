@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import os
 import shutil
 from mutagen.mp3 import MP3
