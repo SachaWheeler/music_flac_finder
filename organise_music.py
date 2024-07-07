@@ -30,6 +30,7 @@ def process_audio_files(directory, music_directory):
         for file in files:
             file_path = os.path.join(root, file)
             if not file.lower().endswith('.mp3'):
+                continue
                 # Convert non-MP3 files to MP3
                 mp3_path = os.path.splitext(file_path)[0] + '.mp3'
                 try:
