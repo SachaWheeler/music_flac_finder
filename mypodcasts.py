@@ -1,11 +1,17 @@
 #! /usr/bin/env python3
 
 import getpodcast
+import datetime
 
-# https://pypi.org/project/getpodcast/
+from_date = datetime.date.today() - datetime.timedelta(days=30)
+
+
 opt = getpodcast.options(
-    date_from='2024-05-01',
-    root_dir='/moshpit/podcast')
+    date_from=from_date.isoformat(),
+    root_dir='/moshpit/podcast',
+    # only_new=True,
+    deleteold=True,
+    )
 
 # get podcast feed url here
 # https://www.labnol.org/podcast/
