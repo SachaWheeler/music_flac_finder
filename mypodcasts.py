@@ -9,7 +9,7 @@ from_date = datetime.date.today() - datetime.timedelta(days=30)
 opt = getpodcast.options(
     date_from=from_date.isoformat(),
     root_dir='/moshpit/podcast',
-    # only_new=True,
+    only_new=True,
     deleteold=True,
     )
 
