@@ -16,7 +16,7 @@ else
 fi
 
 # convert flacs to mp3
-find "$INCOMING_DIR" -name "*.flac" -exec ffmpeg -n -i {} -ab 320k -map_metadata 0 -id3v2_version 3 {}.mp3 \;
+find "$INCOMING_DIR" -type f -name "*.flac" -exec ffmpeg -n -i {} -ab 320k -map_metadata 0 -id3v2_version 3 {}.mp3 \;
 find "$INCOMING_DIR" -type f -name "*.flac" -exec rm {} \;
 
 # move mp3s to MUSIC_DEST_DIR
