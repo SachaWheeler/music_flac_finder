@@ -16,17 +16,23 @@ else
 fi
 
 # convert flacs to mp3
-find "$INCOMING_DIR" -type f -name "*.flac" -exec ffmpeg -n -i {} -ab 320k -map_metadata 0 -id3v2_version 3 {}.mp3 \;
-find "$INCOMING_DIR" -type f -name "*.flac" -exec rm {} \;
+find "$INCOMING_DIR" -type f -name "*.flac" \
+        -exec ffmpeg -n -i {} -ab 320k -map_metadata 0 -id3v2_version 3 {}.mp3 \;
+find "$INCOMING_DIR" -type f -name "*.flac" \
+        -exec rm {} \;
 
 # move mp3s to MUSIC_DEST_DIR
-find "$INCOMING_DIR" -type f -name "*.mp3" -exec cp --no-preserve=mode,ownership {} "$MUSIC_DEST_DIR" \;
-find "$INCOMING_DIR" -type f -name "*.mp3" -exec rm {} \;
+find "$INCOMING_DIR" -type f -name "*.mp3" \
+        -exec mv {} "$MUSIC_DEST_DIR" \;
 
 # move TV shows
-find "$INCOMING_DIR" -type f -regextype posix-egrep -regex '.*S[0-9]{2}E[0-9]{2}.*\.(mp4|mkv|avi|mov|flv|wmv|m4v)' -exec mv {} "$TV_DEST_DIR" \;
+find "$INCOMING_DIR" -type f -regextype posix-egrep \
+        -regex '.*S[0-9]{2}E[0-9]{2}.*\.(mp4|mkv|avi)' \
+        -exec mv {} "$TV_DEST_DIR" \;
 
 # and any other video files
-find "$INCOMING_DIR" -type f -regextype posix-egrep -regex '.*\.(mp4|mkv|avi|mov|flv|wmv|m4v)' -exec mv {} "$MOVIE_DEST_DIR" \;
+find "$INCOMING_DIR" -type f -regextype posix-egrep \
+        -regex '.*\.(mp4|mkv|avi)' \
+        -exec mv {} "$MOVIE_DEST_DIR" \;
 
 echo 'Done'
