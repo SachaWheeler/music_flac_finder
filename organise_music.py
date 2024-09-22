@@ -62,13 +62,14 @@ def process_audio_files(directory, music_directory):
 
             # Check if the original directory is empty and remove it if it is
             original_dir = os.path.dirname(file_path)
-            if not os.listdir(original_dir):
+            if not os.listdir(original_dir) and not "/incoming" in original_dir:
                 os.rmdir(original_dir)
                 print(f"Removed empty directory: {original_dir}")
 
 # Define the directory to scan and the music directory
-directory_to_scan = '/home/sacha/incoming_music'
-music_directory = '/moshpit/Music/Music'
+root = '/media/sacha/moshpit/Music'
+directory_to_scan = f'{root}/incoming'
+music_directory = f'{root}/Music'
 
 # Process the audio files
 process_audio_files(directory_to_scan, music_directory)
