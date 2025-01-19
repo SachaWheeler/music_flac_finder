@@ -2,7 +2,7 @@
 
 # Ensure the script receives two arguments
 if [[ $# -ne 2 ]]; then
-    echo "Usage: $0 <dir1> <dir2>"
+    echo "Usage: $0 <destination> <source>"
     exit 1
 fi
 

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Directory to search within
-search_dir="/moshpit/Music/Music"
+search_dir="/moshpit/Music/upgrades"
 
 # Find all directory names and store them in an array
 mapfile -t dir_names < <(find "$search_dir" -type d -exec basename {} \; | sort)
