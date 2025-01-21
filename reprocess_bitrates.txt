@@ -1,0 +1,1680 @@
+mp3val "/moshpit/Music/Music/Marlena Shaw/60s Soul Classics/03 California Soul.mp3" -f
+mp3val "/moshpit/Music/Music/Propaganda/A Secret Wish/09 Das Testament Des Mabuse.mp3" -f
+mp3val "/moshpit/Music/Music/Propaganda/A Secret Wish/04 Duel.mp3" -f
+mp3val "/moshpit/Music/Music/Propaganda/A Secret Wish/06 P_Machinery.mp3" -f
+mp3val "/moshpit/Music/Music/Propaganda/A Secret Wish/08 The Chase.mp3" -f
+mp3val "/moshpit/Music/Music/Propaganda/A Secret Wish/07 Sorry For Laughing.mp3" -f
+mp3val "/moshpit/Music/Music/Propaganda/A Secret Wish/03 Jewel.mp3" -f
+mp3val "/moshpit/Music/Music/Propaganda/A Secret Wish/02 The Murder Of Love.mp3" -f
+mp3val "/moshpit/Music/Music/Propaganda/A Secret Wish/05 Frozen Faces.mp3" -f
+mp3val "/moshpit/Music/Music/Propaganda/A Secret Wish/01 Dream Within A Dream.mp3" -f
+mp3val "/moshpit/Music/Music/Fever Ray/Radical Romantics/02 Shiver.mp3" -f
+mp3val "/moshpit/Music/Music/Fever Ray/Radical Romantics/09 Tapping Fingers.mp3" -f
+mp3val "/moshpit/Music/Music/Fever Ray/Radical Romantics/10 Bottom of the Ocean.mp3" -f
+mp3val "/moshpit/Music/Music/Fever Ray/Radical Romantics/06 Looking for a Ghost.mp3" -f
+mp3val "/moshpit/Music/Music/Fever Ray/Radical Romantics/07 Carbon Dioxide.mp3" -f
+mp3val "/moshpit/Music/Music/Fever Ray/Radical Romantics/01 What They Call Us.mp3" -f
+mp3val "/moshpit/Music/Music/Fever Ray/Radical Romantics/03 New Utensils.mp3" -f
+mp3val "/moshpit/Music/Music/Fever Ray/Radical Romantics/05 Even It Out.mp3" -f
+mp3val "/moshpit/Music/Music/Fever Ray/Radical Romantics/08 North.mp3" -f
+mp3val "/moshpit/Music/Music/Fever Ray/Radical Romantics/04 Kandy.mp3" -f
+mp3val "/moshpit/Music/Music/Ultravox/The Best Of Ultravox/14 All Fall Down.mp3" -f
+mp3val "/moshpit/Music/Music/Ultravox/The Best Of Ultravox/07 Hymn.mp3" -f
+mp3val "/moshpit/Music/Music/Ultravox/The Best Of Ultravox/02 Waiting.mp3" -f
+mp3val "/moshpit/Music/Music/Ultravox/The Best Of Ultravox/10 Dancing With Tears In My Eyes.mp3" -f
+mp3val "/moshpit/Music/Music/Ultravox/The Best Of Ultravox/11 Reap The Wild Wind.mp3" -f
+mp3val "/moshpit/Music/Music/Ultravox/The Best Of Ultravox/06 The Voice.mp3" -f
+mp3val "/moshpit/Music/Music/Ultravox/The Best Of Ultravox/09 We Came To Dance.mp3" -f
+mp3val "/moshpit/Music/Music/Ultravox/The Best Of Ultravox/04 Vienna.mp3" -f
+mp3val "/moshpit/Music/Music/Ultravox/The Best Of Ultravox/03 Passing Strangers.mp3" -f
+mp3val "/moshpit/Music/Music/Ultravox/The Best Of Ultravox/16 All In One Day.mp3" -f
+mp3val "/moshpit/Music/Music/Ultravox/The Best Of Ultravox/13 White China.mp3" -f
+mp3val "/moshpit/Music/Music/Ultravox/The Best Of Ultravox/05 Passionate Reply.mp3" -f
+mp3val "/moshpit/Music/Music/Beth Gibbons/Out Of Season/01 Mysteries.mp3" -f
+mp3val "/moshpit/Music/Music/Beth Gibbons/Out Of Season/02 Tom The Model.mp3" -f
+mp3val "/moshpit/Music/Music/Sleep/Volume Two/04 Anguish (alternate).mp3" -f
+mp3val "/moshpit/Music/Music/Sleep/Volume Two/01 Lord of This World.mp3" -f
+mp3val "/moshpit/Music/Music/Sleep/Volume Two/02 The Druid (demo).mp3" -f
+mp3val "/moshpit/Music/Music/Sleep/Volume Two/05 The Suffering (alternate).mp3" -f
+mp3val "/moshpit/Music/Music/Ghost Woman/Ghost Woman/02 Do You.mp3" -f
+mp3val "/moshpit/Music/Music/Ghost Woman/Ghost Woman/10 Comes On.mp3" -f
+mp3val "/moshpit/Music/Music/Ghost Woman/Ghost Woman/01 All the Time.mp3" -f
+mp3val "/moshpit/Music/Music/Ghost Woman/Ghost Woman/07 All Your Love.mp3" -f
+mp3val "/moshpit/Music/Music/Ghost Woman/Ghost Woman/09 Good.mp3" -f
+mp3val "/moshpit/Music/Music/Ghost Woman/Ghost Woman/05 Clockwork.mp3" -f
+mp3val "/moshpit/Music/Music/Ghost Woman/Ghost Woman/08 Jreaming.mp3" -f
+mp3val "/moshpit/Music/Music/Ghost Woman/Ghost Woman/04 Along.mp3" -f
+mp3val "/moshpit/Music/Music/Ghost Woman/Ghost Woman/03 Dead & Gone.mp3" -f
+mp3val "/moshpit/Music/Music/Ghost Woman/Ghost Woman/06 Behind Your Eyes.mp3" -f
+mp3val "/moshpit/Music/Music/Gomez/Liquid Skin/02 Revolutionary Kind.mp3" -f
+mp3val "/moshpit/Music/Music/Gomez/Liquid Skin/01 Hangover.mp3" -f
+mp3val "/moshpit/Music/Music/Gomez/Liquid Skin/06 We Haven't Turned Around.mp3" -f
+mp3val "/moshpit/Music/Music/Gomez/Liquid Skin/04 Blue Moon Rising.mp3" -f
+mp3val "/moshpit/Music/Music/Gomez/Liquid Skin/07 Fill My Cup.mp3" -f
+mp3val "/moshpit/Music/Music/Gomez/Liquid Skin/11 Devil Will Ride.mp3" -f
+mp3val "/moshpit/Music/Music/Gomez/Liquid Skin/05 Las Vegas Dealer.mp3" -f
+mp3val "/moshpit/Music/Music/Gomez/Liquid Skin/09 Rosalita.mp3" -f
+mp3val "/moshpit/Music/Music/Gomez/Liquid Skin/10 California.mp3" -f
+mp3val "/moshpit/Music/Music/Gomez/Liquid Skin/08 Rhythm & Blues Alibi.mp3" -f
+mp3val "/moshpit/Music/Music/Gomez/Liquid Skin/03 Bring It On.mp3" -f
+mp3val "/moshpit/Music/Music/Slo Burn/Amusing the Amazing/09 Snake Hips.mp3" -f
+mp3val "/moshpit/Music/Music/Slo Burn/Amusing the Amazing/03 Pilot the Dune.mp3" -f
+mp3val "/moshpit/Music/Music/Slo Burn/Amusing the Amazing/01 The Prizefighter.mp3" -f
+mp3val "/moshpit/Music/Music/Slo Burn/Amusing the Amazing/04 July.mp3" -f
+mp3val "/moshpit/Music/Music/Slo Burn/Amusing the Amazing/05 Slo Burn.mp3" -f
+mp3val "/moshpit/Music/Music/Slo Burn/Amusing the Amazing/02 Muezli.mp3" -f
+mp3val "/moshpit/Music/Music/Slo Burn/Amusing the Amazing/08 Round Trip.mp3" -f
+mp3val "/moshpit/Music/Music/Slo Burn/Amusing the Amazing/06 Positiva.mp3" -f
+mp3val "/moshpit/Music/Music/Slo Burn/Amusing the Amazing/07 Cactus Jumper.mp3" -f
+mp3val "/moshpit/Music/Music/Mazzy Star/Still EP/04 So Tonight That I Might See (.ascension version).mp3" -f
+mp3val "/moshpit/Music/Music/Mazzy Star/Still EP/02 That Way Again.mp3" -f
+mp3val "/moshpit/Music/Music/Mazzy Star/Still EP/01 Quiet, The Winter Harbor.mp3" -f
+mp3val "/moshpit/Music/Music/Mazzy Star/Still EP/03 Still.mp3" -f
+mp3val "/moshpit/Music/Music/The Isley Brothers/Super Hits/01 It's Your Thing.mp3" -f
+mp3val "/moshpit/Music/Music/Lisa Gerrard/The Mirror Pool/13 Venteles.mp3" -f
+mp3val "/moshpit/Music/Music/Lisa Gerrard/The Mirror Pool/01 Violina_ The Last Embrace.mp3" -f
+mp3val "/moshpit/Music/Music/Lisa Gerrard/The Mirror Pool/16 Gloradin.mp3" -f
+mp3val "/moshpit/Music/Music/Lisa Gerrard/The Mirror Pool/02 La Bas_ Song of the Drowned.mp3" -f
+mp3val "/moshpit/Music/Music/Lisa Gerrard/The Mirror Pool/04 Sanvean_ I Am Your Shadow.mp3" -f
+mp3val "/moshpit/Music/Music/Lisa Gerrard/The Mirror Pool/14 Swans.mp3" -f
+mp3val "/moshpit/Music/Music/Lisa Gerrard/The Mirror Pool/11 Laurelei.mp3" -f
+mp3val "/moshpit/Music/Music/Lisa Gerrard/The Mirror Pool/07 Glorafin.mp3" -f
+mp3val "/moshpit/Music/Music/Lisa Gerrard/The Mirror Pool/08 Majhnavea's Music Box.mp3" -f
+mp3val "/moshpit/Music/Music/Lisa Gerrard/The Mirror Pool/03 Persian Love Song_ The Silver Gun.mp3" -f
+mp3val "/moshpit/Music/Music/Lisa Gerrard/The Mirror Pool/05 The Rite.mp3" -f
+mp3val "/moshpit/Music/Music/Lisa Gerrard/The Mirror Pool/12 Celon.mp3" -f
+mp3val "/moshpit/Music/Music/Lisa Gerrard/The Mirror Pool/10 Werd.mp3" -f
+mp3val "/moshpit/Music/Music/Lisa Gerrard/The Mirror Pool/06 Ajhon.mp3" -f
+mp3val "/moshpit/Music/Music/Lisa Gerrard/The Mirror Pool/15 Nilleshna.mp3" -f
+mp3val "/moshpit/Music/Music/Lisa Gerrard/The Mirror Pool/09 Largo.mp3" -f
+mp3val "/moshpit/Music/Music/Placebo/Battle For The Sun/For What It's Worth.mp3" -f
+mp3val "/moshpit/Music/Music/Joan As Police Woman/Real Life/05 I Defy.mp3" -f
+mp3val "/moshpit/Music/Music/Joan As Police Woman/Real Life/04 The Ride.mp3" -f
+mp3val "/moshpit/Music/Music/Beck/Guero/07 Hell Yes.mp3" -f
+mp3val "/moshpit/Music/Music/Beck/Guero/11 Farewell Ride.mp3" -f
+mp3val "/moshpit/Music/Music/Beck/Guero/10 Go It Alone.mp3" -f
+mp3val "/moshpit/Music/Music/Beck/Guero/04 Missing.mp3" -f
+mp3val "/moshpit/Music/Music/Beck/Guero/15 Chain Reaction.mp3" -f
+mp3val "/moshpit/Music/Music/Beck/Sea Change/11 Little One.mp3" -f
+mp3val "/moshpit/Music/Music/Beck/Sea Change/04 Lonesome Tears.mp3" -f
+mp3val "/moshpit/Music/Music/Beck/Sea Change/02 Paper Tiger.mp3" -f
+mp3val "/moshpit/Music/Music/Beck/Sea Change/07 It's All In Your Mind.mp3" -f
+mp3val "/moshpit/Music/Music/Beck/Sea Change/08 Round The Bend.mp3" -f
+mp3val "/moshpit/Music/Music/Beck/Sea Change/10 Sunday Sun.mp3" -f
+mp3val "/moshpit/Music/Music/Beck/Sea Change/06 End Of The Day.mp3" -f
+mp3val "/moshpit/Music/Music/Beck/Sea Change/12 Side Of The Road.mp3" -f
+mp3val "/moshpit/Music/Music/Beck/Sea Change/01 The Golden Age.mp3" -f
+mp3val "/moshpit/Music/Music/Beck/Sea Change/09 Already Dead.mp3" -f
+mp3val "/moshpit/Music/Music/Beck/Sea Change/03 Guess I'm Doing Fine.mp3" -f
+mp3val "/moshpit/Music/Music/Beck/Sea Change/05 Lost Cause.mp3" -f
+mp3val "/moshpit/Music/Music/Jimmy Page & Robert Plant/Walking Into Clarksdale/05 Please Read The Letter.mp3" -f
+mp3val "/moshpit/Music/Music/Jimmy Page & Robert Plant/Walking Into Clarksdale/02 When The World Was Young.mp3" -f
+mp3val "/moshpit/Music/Music/Jimmy Page & Robert Plant/Walking Into Clarksdale/12 Sons Of Freedom.mp3" -f
+mp3val "/moshpit/Music/Music/Jimmy Page & Robert Plant/Walking Into Clarksdale/11 House Of Love.mp3" -f
+mp3val "/moshpit/Music/Music/Jimmy Page & Robert Plant/Walking Into Clarksdale/03 Upon A Golden Horse.mp3" -f
+mp3val "/moshpit/Music/Music/Jimmy Page & Robert Plant/Walking Into Clarksdale/07 Heart In Your Hand.mp3" -f
+mp3val "/moshpit/Music/Music/Jimmy Page & Robert Plant/Walking Into Clarksdale/09 Burning Up.mp3" -f
+mp3val "/moshpit/Music/Music/Jimmy Page & Robert Plant/Walking Into Clarksdale/10 When I Was A Child.mp3" -f
+mp3val "/moshpit/Music/Music/Jimmy Page & Robert Plant/Walking Into Clarksdale/04 Blue Train.mp3" -f
+mp3val "/moshpit/Music/Music/Jimmy Page & Robert Plant/Walking Into Clarksdale/01 Shining In The Light.mp3" -f
+mp3val "/moshpit/Music/Music/Jimmy Page & Robert Plant/Walking Into Clarksdale/06 Most High.mp3" -f
+mp3val "/moshpit/Music/Music/Jimmy Page & Robert Plant/Walking Into Clarksdale/08 Walking Into Clarksdale.mp3" -f
+mp3val "/moshpit/Music/Music/Fink/2011 - Perfect Darkness/05 Wheels.mp3" -f
+mp3val "/moshpit/Music/Music/Fink/2011 - Perfect Darkness/08 Who Says.mp3" -f
+mp3val "/moshpit/Music/Music/Fink/2011 - Perfect Darkness/04 Honesty.mp3" -f
+mp3val "/moshpit/Music/Music/Fink/2011 - Perfect Darkness/06 Warm Shadow.mp3" -f
+mp3val "/moshpit/Music/Music/Fink/2011 - Perfect Darkness/09 Foot In The Door.mp3" -f
+mp3val "/moshpit/Music/Music/Fink/2011 - Perfect Darkness/10 Berlin Sunrise.mp3" -f
+mp3val "/moshpit/Music/Music/Fink/2011 - Perfect Darkness/02 Fear Is Like Fire.mp3" -f
+mp3val "/moshpit/Music/Music/Fink/2011 - Perfect Darkness/01 Perfect Darkness.mp3" -f
+mp3val "/moshpit/Music/Music/Fink/2011 - Perfect Darkness/03 Yesterday Was Hard On All Of Us.mp3" -f
+mp3val "/moshpit/Music/Music/Wim Mertens/The Belly Of An Architect/06 Close Cover.mp3" -f
+mp3val "/moshpit/Music/Music/Wim Mertens/The Belly Of An Architect/04 Struggle for Pleasure.mp3" -f
+mp3val "/moshpit/Music/Music/Wim Mertens/The Belly Of An Architect/08 Tourtour.mp3" -f
+mp3val "/moshpit/Music/Music/Wim Mertens/The Belly Of An Architect/07 Time Passing.mp3" -f
+mp3val "/moshpit/Music/Music/Wim Mertens/The Belly Of An Architect/02 Birds for the Mind.mp3" -f
+mp3val "/moshpit/Music/Music/Wim Mertens/The Belly Of An Architect/05 4 Mains.mp3" -f
+mp3val "/moshpit/Music/Music/Wim Mertens/The Belly Of An Architect/03 The Aural Trick.mp3" -f
+mp3val "/moshpit/Music/Music/Wim Mertens/The Belly Of An Architect/09 And With Them.mp3" -f
+mp3val "/moshpit/Music/Music/Wim Mertens/Double Entendre/08 Simple Repose.mp3" -f
+mp3val "/moshpit/Music/Music/Wim Mertens/Double Entendre/03 Choral Graphs.mp3" -f
+mp3val "/moshpit/Music/Music/Wim Mertens/Double Entendre/09 Salernes.mp3" -f
+mp3val "/moshpit/Music/Music/Wim Mertens/Double Entendre/02 Sieve Coverings.mp3" -f
+mp3val "/moshpit/Music/Music/Wim Mertens/Double Entendre/10 Families of Characters.mp3" -f
+mp3val "/moshpit/Music/Music/Wim Mertens/Double Entendre/12 Cryptic Reserve.mp3" -f
+mp3val "/moshpit/Music/Music/Wim Mertens/Double Entendre/01 Line Bundeles.mp3" -f
+mp3val "/moshpit/Music/Music/Wim Mertens/Double Entendre/06 Undwinding Nests.mp3" -f
+mp3val "/moshpit/Music/Music/Wim Mertens/Double Entendre/07 Without Fioritures.mp3" -f
+mp3val "/moshpit/Music/Music/Wim Mertens/Double Entendre/11 Rings of Invariants.mp3" -f
+mp3val "/moshpit/Music/Music/Wim Mertens/Double Entendre/05 Gentleman of Leisure.mp3" -f
+mp3val "/moshpit/Music/Music/Wim Mertens/Double Entendre/04 Suite Exacte.mp3" -f
+mp3val "/moshpit/Music/Music/Joan Armatrading/Joan Armatrading/05 Save Me.mp3" -f
+mp3val "/moshpit/Music/Music/Joan Armatrading/Joan Armatrading/10 Tall In The Saddle.mp3" -f
+mp3val "/moshpit/Music/Music/Joan Armatrading/Joan Armatrading/04 Love And Affection.mp3" -f
+mp3val "/moshpit/Music/Music/Joan Armatrading/Joan Armatrading/03 Water with The wine.mp3" -f
+mp3val "/moshpit/Music/Music/Joan Armatrading/Joan Armatrading/01 Down To Zero.mp3" -f
+mp3val "/moshpit/Music/Music/Joan Armatrading/Joan Armatrading/08 Somebody Who Loves You.mp3" -f
+mp3val "/moshpit/Music/Music/Joan Armatrading/Joan Armatrading/02 Help Yourself.mp3" -f
+mp3val "/moshpit/Music/Music/Joan Armatrading/Joan Armatrading/09 Like Fire.mp3" -f
+mp3val "/moshpit/Music/Music/Joan Armatrading/Joan Armatrading/07 People.mp3" -f
+mp3val "/moshpit/Music/Music/Joan Armatrading/Joan Armatrading/06 Join The Boys.mp3" -f
+mp3val "/moshpit/Music/Music/All Them Witches/Baker's Dozen/10 Holding Your Breath Across the River.mp3" -f
+mp3val "/moshpit/Music/Music/All Them Witches/Baker's Dozen/02 Fall Into Place.mp3" -f
+mp3val "/moshpit/Music/Music/All Them Witches/Baker's Dozen/13 Real Hippies Are Cowboys.mp3" -f
+mp3val "/moshpit/Music/Music/All Them Witches/Baker's Dozen/04 Slow City.mp3" -f
+mp3val "/moshpit/Music/Music/All Them Witches/Baker's Dozen/11 Hush, I'm on TV.mp3" -f
+mp3val "/moshpit/Music/Music/All Them Witches/Baker's Dozen/05 Acid Face.mp3" -f
+mp3val "/moshpit/Music/Music/All Them Witches/Baker's Dozen/08 Tiger's Pit.mp3" -f
+mp3val "/moshpit/Music/Music/All Them Witches/Baker's Dozen/06 L'hotel Serein.mp3" -f
+mp3val "/moshpit/Music/Music/All Them Witches/Baker's Dozen/07 6969 WXL THE CAGE.mp3" -f
+mp3val "/moshpit/Music/Music/All Them Witches/Baker's Dozen/03 Silver To Rust.mp3" -f
+mp3val "/moshpit/Music/Music/All Them Witches/Baker's Dozen/09 Tour Death Song.mp3" -f
+mp3val "/moshpit/Music/Music/All Them Witches/Baker's Dozen/12 Mama Is a Shining Star.mp3" -f
+mp3val "/moshpit/Music/Music/All Them Witches/Baker's Dozen/01 Blacksnake Blues.mp3" -f
+mp3val "/moshpit/Music/Music/Mattafix/Signs Of A Struggle/03 Passer By.mp3" -f
+mp3val "/moshpit/Music/Music/Los Natas/Los Natas - Dragonauta Split/01 Xanadú.mp3" -f
+mp3val "/moshpit/Music/Music/Los Natas/Los Natas - Dragonauta Split/06 Ride with Me.mp3" -f
+mp3val "/moshpit/Music/Music/Los Natas/Los Natas - Dragonauta Split/03 El Convoy.mp3" -f
+mp3val "/moshpit/Music/Music/Los Natas/Los Natas - Dragonauta Split/02 El Pappo.mp3" -f
+mp3val "/moshpit/Music/Music/Los Natas/Los Natas - Dragonauta Split/05 Bodokentorten.mp3" -f
+mp3val "/moshpit/Music/Music/Los Natas/Los Natas - Dragonauta Split/04 Tiempos Violentos.mp3" -f
+mp3val "/moshpit/Music/Music/Los Natas/Unreleased Dopes/05 Asteroides.mp3" -f
+mp3val "/moshpit/Music/Music/Los Natas/Unreleased Dopes/07 Viento Dorado.mp3" -f
+mp3val "/moshpit/Music/Music/Los Natas/Unreleased Dopes/06 Division Miami.mp3" -f
+mp3val "/moshpit/Music/Music/Los Natas/Unreleased Dopes/08 El Resplandor.mp3" -f
+mp3val "/moshpit/Music/Music/Los Natas/Unreleased Dopes/09 Alohawaii.mp3" -f
+mp3val "/moshpit/Music/Music/Camila Cabello/Familia/07 Boys Don't Cry.mp3" -f
+mp3val "/moshpit/Music/Music/Camila Cabello/Familia/01 Familia.mp3" -f
+mp3val "/moshpit/Music/Music/Camila Cabello/Familia/05 La Buena Vida.mp3" -f
+mp3val "/moshpit/Music/Music/Camila Cabello/Familia/04 Bam Bam.mp3" -f
+mp3val "/moshpit/Music/Music/Camila Cabello/Familia/08 Hasta Los Dientes.mp3" -f
+mp3val "/moshpit/Music/Music/Camila Cabello/Familia/12 everyone at this party.mp3" -f
+mp3val "/moshpit/Music/Music/Camila Cabello/Familia/11 Lola.mp3" -f
+mp3val "/moshpit/Music/Music/Camila Cabello/Familia/03 psychofreak.mp3" -f
+mp3val "/moshpit/Music/Music/Camila Cabello/Familia/06 Quiet.mp3" -f
+mp3val "/moshpit/Music/Music/Camila Cabello/Familia/09 No Doubt.mp3" -f
+mp3val "/moshpit/Music/Music/Camila Cabello/Familia/02 Celia.mp3" -f
+mp3val "/moshpit/Music/Music/Camila Cabello/Familia/10 Don't Go Yet.mp3" -f
+mp3val "/moshpit/Music/Music/Control Machete/Uno dos bandera/06 Nostalgia.mp3" -f
+mp3val "/moshpit/Music/Music/Control Machete/Uno dos bandera/10 Ahora (feat randy ebrigth of molotov).mp3" -f
+mp3val "/moshpit/Music/Music/Control Machete/Uno dos bandera/07 En el camino (feat. caballeros del plan g & sekreto).mp3" -f
+mp3val "/moshpit/Music/Music/Control Machete/Uno dos bandera/09 De.mp3" -f
+mp3val "/moshpit/Music/Music/Control Machete/Uno dos bandera/03 Como ves (feat. anita tijoux ex-makiza).mp3" -f
+mp3val "/moshpit/Music/Music/Control Machete/Uno dos bandera/11 Nociones (en alta).mp3" -f
+mp3val "/moshpit/Music/Music/Control Machete/Uno dos bandera/13 El genio del dub (feat. blanquito man).mp3" -f
+mp3val "/moshpit/Music/Music/Control Machete/Uno dos bandera/02 Bien, bien.mp3" -f
+mp3val "/moshpit/Music/Music/Control Machete/Uno dos bandera/05 Toda la casa.mp3" -f
+mp3val "/moshpit/Music/Music/Control Machete/Uno dos bandera/12 Verbos.mp3" -f
+mp3val "/moshpit/Music/Music/Control Machete/Uno dos bandera/08 El apostador (feat. natalia lafourcada).mp3" -f
+mp3val "/moshpit/Music/Music/Control Machete/Uno dos bandera/04 Paciencia.mp3" -f
+mp3val "/moshpit/Music/Music/Neko Case/Wild Creatures/07 The Next Time You Say _Forever_.mp3" -f
+mp3val "/moshpit/Music/Music/Neko Case/Wild Creatures/05 Star Witness.mp3" -f
+mp3val "/moshpit/Music/Music/Neko Case/Wild Creatures/19 Maybe Sparrow.mp3" -f
+mp3val "/moshpit/Music/Music/Neko Case/Wild Creatures/18 Night Still Comes.mp3" -f
+mp3val "/moshpit/Music/Music/Neko Case/Wild Creatures/13 Furnace Room Lullaby.mp3" -f
+mp3val "/moshpit/Music/Music/Neko Case/Wild Creatures/09 Hell-On.mp3" -f
+mp3val "/moshpit/Music/Music/Neko Case/Wild Creatures/04 Man.mp3" -f
+mp3val "/moshpit/Music/Music/Neko Case/Wild Creatures/21 The Tigers Have Spoken.mp3" -f
+mp3val "/moshpit/Music/Music/Neko Case/Wild Creatures/22 Set Out Running.mp3" -f
+mp3val "/moshpit/Music/Music/Neko Case/Wild Creatures/16 This Tornado Loves You.mp3" -f
+mp3val "/moshpit/Music/Music/Neko Case/Wild Creatures/10 Hold On, Hold On.mp3" -f
+mp3val "/moshpit/Music/Music/Neko Case/Wild Creatures/12 Wild Creatures.mp3" -f
+mp3val "/moshpit/Music/Music/Neko Case/Wild Creatures/17 Winnie.mp3" -f
+mp3val "/moshpit/Music/Music/Neko Case/Wild Creatures/11 Polar Nettles.mp3" -f
+mp3val "/moshpit/Music/Music/Neko Case/Wild Creatures/06 I Wish I Was the Moon.mp3" -f
+mp3val "/moshpit/Music/Music/Neko Case/Wild Creatures/01 I'm An Animal.mp3" -f
+mp3val "/moshpit/Music/Music/Neko Case/Wild Creatures/23 Oh, Shadowless.mp3" -f
+mp3val "/moshpit/Music/Music/Neko Case/Wild Creatures/20 Things That Scare Me.mp3" -f
+mp3val "/moshpit/Music/Music/Neko Case/Wild Creatures/03 Halls of Sarah.mp3" -f
+mp3val "/moshpit/Music/Music/Neko Case/Wild Creatures/08 Favorite.mp3" -f
+mp3val "/moshpit/Music/Music/Neko Case/Wild Creatures/14 A Widow's Toast.mp3" -f
+mp3val "/moshpit/Music/Music/Neko Case/Wild Creatures/02 Lady Pilot.mp3" -f
+mp3val "/moshpit/Music/Music/Neko Case/Wild Creatures/15 Deep Red Bells.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/Led Zeppelin III/02 Friends.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/Led Zeppelin III/10 Hats Off To (Roy) Harper.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/Led Zeppelin III/01 Immigrant Song.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/Led Zeppelin III/03 Celebration Day.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/Led Zeppelin III/07 Tangerine.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/Led Zeppelin III/04 Since I've Been Loving You.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/Led Zeppelin III/06 Gallows Pole.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/Led Zeppelin III/09 Bron-Y-Aur Stomp.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/Led Zeppelin III/08 That's The Way.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/Led Zeppelin III/05 Out On The Tiles.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/Led Zeppelin I/06 Black Mountain Side.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/Led Zeppelin I/03 You Shook Me.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/Led Zeppelin I/05 Your Time Is Gonna Come.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/Led Zeppelin I/07 Communication Breakdown.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/Led Zeppelin I/04 Dazed And Confused.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/Led Zeppelin I/02 Babe I'm Gonna Leave You.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/Led Zeppelin I/08 I Can't Quit You Baby.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/Led Zeppelin I/01 Good Times Bad Times.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/Led Zeppelin I/09 How Many More Times.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/Led Zeppelin II/03 The Lemon Song.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/Led Zeppelin II/08 Moby Dick.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/Led Zeppelin II/05 Heartbreaker.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/Led Zeppelin II/07 Ramble On.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/Led Zeppelin II/02 What Is And What Should Never.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/Led Zeppelin II/04 Thank You.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/Led Zeppelin II/09 Bring It On Home.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/Led Zeppelin II/01 Whole Lotta Love.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/IV/06 Four Sticks.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/IV/03 The Battle Of Evermore.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/IV/04 Stairway To Heaven.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/IV/02 Rock And Roll.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/IV/08 When The Levee Breaks.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/IV/01 Black Dog.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/IV/05 Misty Mountain Hop.mp3" -f
+mp3val "/moshpit/Music/Music/Led Zeppelin/IV/07 Going To California.mp3" -f
+mp3val "/moshpit/Music/Music/Red Snapper/Making Bones/03 Image Of You.mp3" -f
+mp3val "/moshpit/Music/Music/Red Snapper/Making Bones/04 Bogeyman.mp3" -f
+mp3val "/moshpit/Music/Music/Red Snapper/Making Bones/08 Seeing Red.mp3" -f
+mp3val "/moshpit/Music/Music/Red Snapper/Making Bones/07 Spitalfields.mp3" -f
+mp3val "/moshpit/Music/Music/Red Snapper/Making Bones/01 The Sleepless.mp3" -f
+mp3val "/moshpit/Music/Music/Red Snapper/Making Bones/05 The Tunnel.mp3" -f
+mp3val "/moshpit/Music/Music/Red Snapper/Making Bones/11 Quick Temper (Bonus Track Japan Only).mp3" -f
+mp3val "/moshpit/Music/Music/Red Snapper/Making Bones/09 Suckerpunch.mp3" -f
+mp3val "/moshpit/Music/Music/Red Snapper/Making Bones/02 Crease.mp3" -f
+mp3val "/moshpit/Music/Music/Red Snapper/Making Bones/10 4 Dead Monks.mp3" -f
+mp3val "/moshpit/Music/Music/Red Snapper/Making Bones/06 Like A Moving Truck.mp3" -f
+mp3val "/moshpit/Music/Music/Eurythmics/Greatest Hits - The Ultimate Collection Disc 1/18 I Need A Man (1987).mp3" -f
+mp3val "/moshpit/Music/Music/Eurythmics/Greatest Hits - The Ultimate Collection Disc 1/17 Missionary Man (7'' Mix, 1986).mp3" -f
+mp3val "/moshpit/Music/Music/Eurythmics/Greatest Hits - The Ultimate Collection Disc 1/12 Sex Crime (Nineteen Eighty-Four) (1984).mp3" -f
+mp3val "/moshpit/Music/Music/Eurythmics/Greatest Hits - The Ultimate Collection Disc 1/04 Right By Your Side (7'' Mix, 1983).mp3" -f
+mp3val "/moshpit/Music/Music/Eurythmics/Greatest Hits - The Ultimate Collection Disc 1/11 The Miracle Of Love (7'' Mix, 1986).mp3" -f
+mp3val "/moshpit/Music/Music/Eurythmics/Greatest Hits - The Ultimate Collection Disc 1/06 There Must Be An Angel (Playing With My Heart) (7'' Mix, 1985).mp3" -f
+mp3val "/moshpit/Music/Music/Eurythmics/Greatest Hits - The Ultimate Collection Disc 1/15 Angel (Edit, 1989).mp3" -f
+mp3val "/moshpit/Music/Music/Eurythmics/Greatest Hits - The Ultimate Collection Disc 1/02 Sweet Dreams (Are Made Of This) (7'' Remix, 1983).mp3" -f
+mp3val "/moshpit/Music/Music/Eurythmics/Greatest Hits - The Ultimate Collection Disc 1/14 Don't Ask Me Why (Edit, 1989).mp3" -f
+mp3val "/moshpit/Music/Music/Eurythmics/Greatest Hits - The Ultimate Collection Disc 1/10 You Have Placed A Chill In My Heart (1987).mp3" -f
+mp3val "/moshpit/Music/Music/Eurythmics/Greatest Hits - The Ultimate Collection Disc 1/07 Sisters Are Doin' It For Themselves (7'' Mix, 1985).mp3" -f
+mp3val "/moshpit/Music/Music/Eurythmics/Greatest Hits - The Ultimate Collection Disc 1/01 Love Is A Stranger (1982).mp3" -f
+mp3val "/moshpit/Music/Music/Eurythmics/Greatest Hits - The Ultimate Collection Disc 1/03 Who's That Girl (7'' Mix, 1983).mp3" -f
+mp3val "/moshpit/Music/Music/Eurythmics/Greatest Hits - The Ultimate Collection Disc 1/08 It's Alright (Baby's Coming Back) (1985).mp3" -f
+mp3val "/moshpit/Music/Music/Eurythmics/Greatest Hits - The Ultimate Collection Disc 1/09 When Tomorrow Comes (1986).mp3" -f
+mp3val "/moshpit/Music/Music/Eurythmics/Greatest Hits - The Ultimate Collection Disc 1/05 Here Comes The Rain Again (1983).mp3" -f
+mp3val "/moshpit/Music/Music/Eurythmics/Greatest Hits - The Ultimate Collection Disc 1/16 Would I Lie To You (1985).mp3" -f
+mp3val "/moshpit/Music/Music/Eurythmics/Greatest Hits - The Ultimate Collection Disc 1/13 Thorn In My Side (1986).mp3" -f
+mp3val "/moshpit/Music/Music/Oh Sees/Orc/01 The Static God.mp3" -f
+mp3val "/moshpit/Music/Music/Oh Sees/Orc/04 Keys to the Castle.mp3" -f
+mp3val "/moshpit/Music/Music/Oh Sees/Orc/06 Cadaver Dog.mp3" -f
+mp3val "/moshpit/Music/Music/Oh Sees/Orc/09 Drowned Beast.mp3" -f
+mp3val "/moshpit/Music/Music/Oh Sees/Orc/02 Nite Expo.mp3" -f
+mp3val "/moshpit/Music/Music/Oh Sees/Orc/03 Animated Violence.mp3" -f
+mp3val "/moshpit/Music/Music/Oh Sees/Orc/10 Raw Optics.mp3" -f
+mp3val "/moshpit/Music/Music/Oh Sees/Orc/05 Jettisoned.mp3" -f
+mp3val "/moshpit/Music/Music/VISTA CHINO/PEACE/07 Mas Vino.mp3" -f
+mp3val "/moshpit/Music/Music/VISTA CHINO/PEACE/01 Good Morning Wasteland.mp3" -f
+mp3val "/moshpit/Music/Music/VISTA CHINO/PEACE/03 Sweet Remain.mp3" -f
+mp3val "/moshpit/Music/Music/VISTA CHINO/PEACE/08 Dark and Lovely.mp3" -f
+mp3val "/moshpit/Music/Music/VISTA CHINO/PEACE/04 As You Wish.mp3" -f
+mp3val "/moshpit/Music/Music/VISTA CHINO/PEACE/09 Barcelonian.mp3" -f
+mp3val "/moshpit/Music/Music/VISTA CHINO/PEACE/10 Acidize_ The Gambling Moose.mp3" -f
+mp3val "/moshpit/Music/Music/VISTA CHINO/PEACE/05 Planets 1 & 2.mp3" -f
+mp3val "/moshpit/Music/Music/VISTA CHINO/PEACE/06 Adara.mp3" -f
+mp3val "/moshpit/Music/Music/R.E.M_/The Very Best Of R.E.M_/04 Everybody Hurts.mp3" -f
+mp3val "/moshpit/Music/Music/Soulsavers/It's Not How Far You Fall, It's The Way You Land/09 Jesus of Nothing.mp3" -f
+mp3val "/moshpit/Music/Music/Soulsavers/It's Not How Far You Fall, It's The Way You Land/06 Kingdoms of Rain.mp3" -f
+mp3val "/moshpit/Music/Music/Soulsavers/It's Not How Far You Fall, It's The Way You Land/08 Arizona Bay.mp3" -f
+mp3val "/moshpit/Music/Music/Soulsavers/It's Not How Far You Fall, It's The Way You Land/01 Revival.mp3" -f
+mp3val "/moshpit/Music/Music/Soulsavers/It's Not How Far You Fall, It's The Way You Land/03 Paper Money.mp3" -f
+mp3val "/moshpit/Music/Music/Soulsavers/It's Not How Far You Fall, It's The Way You Land/07 Through My Sails.mp3" -f
+mp3val "/moshpit/Music/Music/Soulsavers/It's Not How Far You Fall, It's The Way You Land/04 Ask the Dust.mp3" -f
+mp3val "/moshpit/Music/Music/Soulsavers/It's Not How Far You Fall, It's The Way You Land/02 Ghosts of You & Me.mp3" -f
+mp3val "/moshpit/Music/Music/Soulsavers/It's Not How Far You Fall, It's The Way You Land/05 Spiritual.mp3" -f
+mp3val "/moshpit/Music/Music/Soulsavers/It's Not How Far You Fall, It's The Way You Land/10 No Expectations.mp3" -f
+mp3val "/moshpit/Music/Music/Add N to (X)/Revenge of the Black Regent/04 The March of Pure Mathematical Evil That Ends and Results in War.mp3" -f
+mp3val "/moshpit/Music/Music/Grinderman/Grinderman/05 Don't Set Me Free.mp3" -f
+mp3val "/moshpit/Music/Music/Grinderman/Grinderman/07 Love Bomb.mp3" -f
+mp3val "/moshpit/Music/Music/Grinderman/Grinderman/04 Chain Of Flowers.mp3" -f
+mp3val "/moshpit/Music/Music/Grinderman/Grinderman/01 Get It On.mp3" -f
+mp3val "/moshpit/Music/Music/Grinderman/Grinderman/06 Decoration Day.mp3" -f
+mp3val "/moshpit/Music/Music/Grinderman/Grinderman/02 No Pussy Blues.mp3" -f
+mp3val "/moshpit/Music/Music/Grinderman/Grinderman/03 Electric Alice _ Grinderman.mp3" -f
+mp3val "/moshpit/Music/Music/Grinderman/Grinderman/10 Go Tell The Women.mp3" -f
+mp3val "/moshpit/Music/Music/Grinderman/Grinderman/08 Honey Bee.mp3" -f
+mp3val "/moshpit/Music/Music/Grinderman/Grinderman/12 Rise.mp3" -f
+mp3val "/moshpit/Music/Music/Grinderman/Grinderman/09 Man On The Moon.mp3" -f
+mp3val "/moshpit/Music/Music/Grinderman/Grinderman/11 Vortex.mp3" -f
+mp3val "/moshpit/Music/Music/Grinderman/Grinderman/13 Get It On (New Vocal).mp3" -f
+mp3val "/moshpit/Music/Music/Tame Impala/Lonerism/12 Sun_s Coming Up.mp3" -f
+mp3val "/moshpit/Music/Music/Tame Impala/Lonerism/08 Keep on Lying.mp3" -f
+mp3val "/moshpit/Music/Music/Tame Impala/Lonerism/07 Feels Like We Only Go Backwards.mp3" -f
+mp3val "/moshpit/Music/Music/Tame Impala/Lonerism/03 Apocalypse Dreams.mp3" -f
+mp3val "/moshpit/Music/Music/Tame Impala/Lonerism/05 Music to Walk Home By.mp3" -f
+mp3val "/moshpit/Music/Music/Tame Impala/Lonerism/04 Mind Mischief.mp3" -f
+mp3val "/moshpit/Music/Music/Tame Impala/Lonerism/01 Be Above It.mp3" -f
+mp3val "/moshpit/Music/Music/Tame Impala/Lonerism/09 Elephant.mp3" -f
+mp3val "/moshpit/Music/Music/Tame Impala/Lonerism/11 Nothing That Has Happened So Far Has Been Anything We Could Control.mp3" -f
+mp3val "/moshpit/Music/Music/Tame Impala/Lonerism/10 She Just Won_t Believe Me.mp3" -f
+mp3val "/moshpit/Music/Music/Tame Impala/Lonerism/06 Why Won_t They Talk to Me_.mp3" -f
+mp3val "/moshpit/Music/Music/Tame Impala/Lonerism/02 Endors Toi.mp3" -f
+mp3val "/moshpit/Music/Music/Grace Jones/Nightclubbing (Deluxe Edition)/02 Pull Up To The Bumper.mp3" -f
+mp3val "/moshpit/Music/Music/Grace Jones/Nightclubbing (Deluxe Edition)/01 Walking In The Rain.mp3" -f
+mp3val "/moshpit/Music/Music/Grace Jones/Nightclubbing (Deluxe Edition)/08 Demolition Man.mp3" -f
+mp3val "/moshpit/Music/Music/Grace Jones/Nightclubbing (Deluxe Edition)/06 I've Seen That Face Before (Libertango).mp3" -f
+mp3val "/moshpit/Music/Music/Grace Jones/Nightclubbing (Deluxe Edition)/04 Nightclubbing.mp3" -f
+mp3val "/moshpit/Music/Music/Grace Jones/Nightclubbing (Deluxe Edition)/07 Feel Up.mp3" -f
+mp3val "/moshpit/Music/Music/Grace Jones/Nightclubbing (Deluxe Edition)/09 I've Done It Again.mp3" -f
+mp3val "/moshpit/Music/Music/Grace Jones/Nightclubbing (Deluxe Edition)/05 Art Groupie.mp3" -f
+mp3val "/moshpit/Music/Music/Grace Jones/Nightclubbing (Deluxe Edition)/03 Use Me.mp3" -f
+mp3val "/moshpit/Music/Music/Grace Jones/Warm Leatherette/06 Bullshit.mp3" -f
+mp3val "/moshpit/Music/Music/Grace Jones/Warm Leatherette/02 Private Life.mp3" -f
+mp3val "/moshpit/Music/Music/Grace Jones/Warm Leatherette/04 Love Is The Drug.mp3" -f
+mp3val "/moshpit/Music/Music/Grace Jones/Warm Leatherette/07 Breakdown.mp3" -f
+mp3val "/moshpit/Music/Music/Grace Jones/Warm Leatherette/03 A Rolling Stone.mp3" -f
+mp3val "/moshpit/Music/Music/Grace Jones/Warm Leatherette/01 Warm Leatherette.mp3" -f
+mp3val "/moshpit/Music/Music/Grace Jones/Warm Leatherette/08 Pars.mp3" -f
+mp3val "/moshpit/Music/Music/Grace Jones/Warm Leatherette/05 The Hunter Gets Captured By The Game.mp3" -f
+mp3val "/moshpit/Music/Music/Grace Jones/Island Life/03 Do Or Die.mp3" -f
+mp3val "/moshpit/Music/Music/Grace Jones/Island Life/07 Pull Up To The Bumper.mp3" -f
+mp3val "/moshpit/Music/Music/Grace Jones/Island Life/09 My Jamaican Guy.mp3" -f
+mp3val "/moshpit/Music/Music/Grace Jones/Island Life/08 Walking In The Rain.mp3" -f
+mp3val "/moshpit/Music/Music/Grace Jones/Island Life/10 Slave To The Rhythm.mp3" -f
+mp3val "/moshpit/Music/Music/Grace Jones/Island Life/06 I've Seen That Face Before (Libertango).mp3" -f
+mp3val "/moshpit/Music/Music/Grace Jones/Island Life/01 La Vie En Rose.mp3" -f
+mp3val "/moshpit/Music/Music/Grace Jones/Island Life/02 I Need A Man.mp3" -f
+mp3val "/moshpit/Music/Music/Grace Jones/Island Life/05 Love Is The Drug.mp3" -f
+mp3val "/moshpit/Music/Music/Grace Jones/Island Life/04 Private Life.mp3" -f
+mp3val "/moshpit/Music/Music/Mark Lanegan/Scraps at Midnight/09 Praying Ground.mp3" -f
+mp3val "/moshpit/Music/Music/Mark Lanegan/Scraps at Midnight/06 Wheels.mp3" -f
+mp3val "/moshpit/Music/Music/Mark Lanegan/Scraps at Midnight/08 Day and Night.mp3" -f
+mp3val "/moshpit/Music/Music/Mark Lanegan/Scraps at Midnight/01 Hospital Roll Call.mp3" -f
+mp3val "/moshpit/Music/Music/Mark Lanegan/Scraps at Midnight/03 Stay.mp3" -f
+mp3val "/moshpit/Music/Music/Mark Lanegan/Scraps at Midnight/10 Because of This.mp3" -f
+mp3val "/moshpit/Music/Music/Mark Lanegan/Scraps at Midnight/04 Bell Black Ocean.mp3" -f
+mp3val "/moshpit/Music/Music/Mark Lanegan/Scraps at Midnight/05 Last One in the World.mp3" -f
+mp3val "/moshpit/Music/Music/Mark Lanegan/Scraps at Midnight/07 Waiting on a Train.mp3" -f
+mp3val "/moshpit/Music/Music/Mark Lanegan/Scraps at Midnight/02 Hotel.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/1-10 Requiem for six voices_ Introitus. Requiem aeternam.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/2-26 Requiem for Six Voices- Responsorium. Libera me.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/1-03 Missa Pro defunctis II, for 6 voices_ Graduale. Requiem aeternam.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/2-31 Versa est in Luctum.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/1-14 Requiem for six voices_ Offertorium. Domine, Iesu Christe.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/1-01 Missa Pro defunctis II, for 6 voices_ Introitus. Requiem aeternam.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/1-13 Requiem for six voices_ Sequentia pro defunctis. Dies irae.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/2-19 Requiem for Six Voices- Introitus. Requiem aeternam.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/1-17 Requiem for six voices_ Communio. Lux aeterna.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/2-32 Credo Quod Redemptor, motet.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/1-18 Requiem for six voices_ Responsorium. Memento mei.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/1-16 Requiem for six voices_ Agnus Dei.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/2-29 Mulier quae erat, motet.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/1-06 Missa Pro defunctis II, for 6 voices_ Agnus Dei.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/1-11 Requiem for six voices_ Kyrie.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/1-12 Requiem for six voices_ Graduale. Requiem aeternam.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/1-15 Requiem for six voices_ Sanctus & Benedictus.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/2-33 Vivo Ego, Dicit Dominus, motet.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/1-05 Missa Pro defunctis II, for 6 voices_ Sanctus & Benedictus.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/1-08 Missa Pro defunctis II, for 6 voices_ Responsorium. Libera me.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/2-22 Requiem for Six Voices- Offertorium. Domine, Iesu Christe.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/2-20 Requiem for Six Voices- Kyrie.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/2-28 Sitivit anima mea, motet.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/2-27 Non mortui, motet.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/1-07 Missa Pro defunctis II, for 6 voices_ Communio. Lux aeterna.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/2-23 Requiem for Six Voices- Sanctus & Benedictus.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/2-21 Requiem for Six Voices- Graduale. Requiem aeternam.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/2-24 Requiem for Six Voices- Agnus Dei.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/1-02 Missa Pro defunctis II, for 6 voices_ Kyrie.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/2-25 Requiem for Six Voices- Communio. Lux aeterna.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/1-09 Versa est in luctum, motet for 6 voices (Missa Pro defunctis II).mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/2-34 Ave Maria, motet.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/2-30 Nos autem gloriari, motet.mp3" -f
+mp3val "/moshpit/Music/Music/The Tallis Scholars/Requiem/1-04 Missa Pro defunctis II, for 6 voices_ Offertorium. Domine, Iesu Christe.mp3" -f
+mp3val "/moshpit/Music/Music/AC_DC/Black Ice/02 Skies on Fire.mp3" -f
+mp3val "/moshpit/Music/Music/AC_DC/Black Ice/14 Rocking All The Way.mp3" -f
+mp3val "/moshpit/Music/Music/AC_DC/Black Ice/03 Big Jack.mp3" -f
+mp3val "/moshpit/Music/Music/AC_DC/Black Ice/09 Decibel.mp3" -f
+mp3val "/moshpit/Music/Music/AC_DC/Black Ice/11 She Likes Rock 'N' Roll.mp3" -f
+mp3val "/moshpit/Music/Music/AC_DC/Black Ice/05 War Machine.mp3" -f
+mp3val "/moshpit/Music/Music/AC_DC/Black Ice/12 Money Made.mp3" -f
+mp3val "/moshpit/Music/Music/AC_DC/Black Ice/07 Spoilin' for a Fight.mp3" -f
+mp3val "/moshpit/Music/Music/AC_DC/Black Ice/13 Rock 'n' Roll Dream.mp3" -f
+mp3val "/moshpit/Music/Music/AC_DC/Black Ice/04 Anything Goes.mp3" -f
+mp3val "/moshpit/Music/Music/AC_DC/Black Ice/10 Stormy May Day.mp3" -f
+mp3val "/moshpit/Music/Music/AC_DC/Black Ice/01 Rock 'N Roll Train.mp3" -f
+mp3val "/moshpit/Music/Music/AC_DC/Black Ice/08 Wheels.mp3" -f
+mp3val "/moshpit/Music/Music/AC_DC/Black Ice/15 Black Ice.mp3" -f
+mp3val "/moshpit/Music/Music/AC_DC/Black Ice/06 Smash 'n' Grab.mp3" -f
+mp3val "/moshpit/Music/Music/Admiral Freebee/Admiral Freebee/1-01 Get Out of Town.mp3" -f
+mp3val "/moshpit/Music/Music/Shellac/To All Trains/02 Girl From Outside.mp3" -f
+mp3val "/moshpit/Music/Music/Shellac/To All Trains/05 Wednesday.mp3" -f
+mp3val "/moshpit/Music/Music/Shellac/To All Trains/10 I Don't Fear Hell.mp3" -f
+mp3val "/moshpit/Music/Music/Shellac/To All Trains/03 Chick New Wave.mp3" -f
+mp3val "/moshpit/Music/Music/Shellac/To All Trains/04 Tattoos.mp3" -f
+mp3val "/moshpit/Music/Music/Shellac/To All Trains/07 Days Are Dogs.mp3" -f
+mp3val "/moshpit/Music/Music/Shellac/To All Trains/06 Scrappers.mp3" -f
+mp3val "/moshpit/Music/Music/Shellac/To All Trains/08 How I Wrote How I Wrote Elastic Man (Cock & Bull).mp3" -f
+mp3val "/moshpit/Music/Music/Shellac/To All Trains/09 Scabby the Rat.mp3" -f
+mp3val "/moshpit/Music/Music/Shellac/To All Trains/01 WSOD.mp3" -f
+mp3val "/moshpit/Music/Music/Shellac/Terraform/07 House Full of Garbage.mp3" -f
+mp3val "/moshpit/Music/Music/J Mascis/Martin and Me/09 On The Run.mp3" -f
+mp3val "/moshpit/Music/Music/J Mascis/Martin and Me/04 Blowin It.mp3" -f
+mp3val "/moshpit/Music/Music/J Mascis/Martin and Me/05 Repulsion.mp3" -f
+mp3val "/moshpit/Music/Music/J Mascis/Martin and Me/11 Flying Cloud.mp3" -f
+mp3val "/moshpit/Music/Music/J Mascis/Martin and Me/10 Keeblin.mp3" -f
+mp3val "/moshpit/Music/Music/J Mascis/Martin and Me/14 Every Mothers Son.mp3" -f
+mp3val "/moshpit/Music/Music/J Mascis/Martin and Me/12 Anticipation.mp3" -f
+mp3val "/moshpit/Music/Music/J Mascis/Martin and Me/02 Thumb.mp3" -f
+mp3val "/moshpit/Music/Music/J Mascis/Martin and Me/13 Drawerings.mp3" -f
+mp3val "/moshpit/Music/Music/J Mascis/Martin and Me/01 So What Else Is New.mp3" -f
+mp3val "/moshpit/Music/Music/J Mascis/Martin and Me/03 Get Me.mp3" -f
+mp3val "/moshpit/Music/Music/J Mascis/Martin and Me/08 Not You Again.mp3" -f
+mp3val "/moshpit/Music/Music/J Mascis/Martin and Me/06 Goin Home.mp3" -f
+mp3val "/moshpit/Music/Music/J Mascis/Martin and Me/07 The Boy With The Thorn In His Side.mp3" -f
+mp3val "/moshpit/Music/Music/Jolie Holland/Catalpa/08 Catalpa Waltz.mp3" -f
+mp3val "/moshpit/Music/Music/Jolie Holland/Catalpa/11 Periphery Waltz.mp3" -f
+mp3val "/moshpit/Music/Music/Jolie Holland/Catalpa/07 Demon Lover Improv.mp3" -f
+mp3val "/moshpit/Music/Music/Jolie Holland/Catalpa/02 All The Morning Birds.mp3" -f
+mp3val "/moshpit/Music/Music/Jolie Holland/Catalpa/01 Alley Flowers.mp3" -f
+mp3val "/moshpit/Music/Music/Jolie Holland/Catalpa/04 Black Hand Blues.mp3" -f
+mp3val "/moshpit/Music/Music/Jolie Holland/Catalpa/03 Roll My Blues.mp3" -f
+mp3val "/moshpit/Music/Music/Jolie Holland/Catalpa/09 The Littlest Birds.mp3" -f
+mp3val "/moshpit/Music/Music/Jolie Holland/Catalpa/12 Ghost Waltz.mp3" -f
+mp3val "/moshpit/Music/Music/Jolie Holland/Catalpa/06 I Wanna Die.mp3" -f
+mp3val "/moshpit/Music/Music/Jolie Holland/Catalpa/05 December, 1999.mp3" -f
+mp3val "/moshpit/Music/Music/Jolie Holland/Catalpa/10 Wandering Angus.mp3" -f
+mp3val "/moshpit/Music/Music/The Flaming Lips/The Soft Bulletin/07 The Observer.mp3" -f
+mp3val "/moshpit/Music/Music/The Flaming Lips/The Soft Bulletin/06 What Is the Light.mp3" -f
+mp3val "/moshpit/Music/Music/The Flaming Lips/The Soft Bulletin/01 Race For The Prize (Remix).mp3" -f
+mp3val "/moshpit/Music/Music/The Flaming Lips/The Soft Bulletin/02 A Spoonful Weighs a Ton.mp3" -f
+mp3val "/moshpit/Music/Music/The Flaming Lips/The Soft Bulletin/03 The Spark That Bled.mp3" -f
+mp3val "/moshpit/Music/Music/The Flaming Lips/The Soft Bulletin/04 The Spiderbite Song.mp3" -f
+mp3val "/moshpit/Music/Music/The Flaming Lips/The Soft Bulletin/08 Waitin' for a Superman.mp3" -f
+mp3val "/moshpit/Music/Music/The Flaming Lips/The Soft Bulletin/05 Buggin' (Remix).mp3" -f
+mp3val "/moshpit/Music/Music/The Flaming Lips/At War with the Mystics/03 The Sound of Failure.mp3" -f
+mp3val "/moshpit/Music/Music/The Flaming Lips/At War with the Mystics/12 Goin' On.mp3" -f
+mp3val "/moshpit/Music/Music/The Flaming Lips/At War with the Mystics/04 My Cosmic Autumn Rebellion.mp3" -f
+mp3val "/moshpit/Music/Music/The Flaming Lips/At War with the Mystics/01 The Yeah Yeah Yeah Song.mp3" -f
+mp3val "/moshpit/Music/Music/The Flaming Lips/At War with the Mystics/05 Vein of Stars.mp3" -f
+mp3val "/moshpit/Music/Music/The Flaming Lips/At War with the Mystics/09 Haven't Got a Clue.mp3" -f
+mp3val "/moshpit/Music/Music/The Flaming Lips/At War with the Mystics/11 Pompeii Am Götterdämmerung.mp3" -f
+mp3val "/moshpit/Music/Music/The Flaming Lips/At War with the Mystics/10 The W.A.N.D..mp3" -f
+mp3val "/moshpit/Music/Music/The Flaming Lips/At War with the Mystics/08 Mr. Ambulance Driver.mp3" -f
+mp3val "/moshpit/Music/Music/The Flaming Lips/At War with the Mystics/06 The Wizard Turns On....mp3" -f
+mp3val "/moshpit/Music/Music/The Flaming Lips/At War with the Mystics/02 Free Radicals.mp3" -f
+mp3val "/moshpit/Music/Music/The Flaming Lips/At War with the Mystics/07 It Overtakes Me.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Exile on Main St_/1-03 Shake Your Hips.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Exile on Main St_/1-05 Tumbling Dice.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Exile on Main St_/1-09 Loving Cup.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Exile on Main St_/2-02 Turd on the Run.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Exile on Main St_/1-02 Rip This Joint.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Exile on Main St_/1-07 Torn and Frayed.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Exile on Main St_/2-07 Stop Breaking Down.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Exile on Main St_/1-01 Rocks Off.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Exile on Main St_/2-06 All Down the Line.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Exile on Main St_/2-01 Happy.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Exile on Main St_/2-04 I Just Want to See His Face.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Exile on Main St_/2-08 Shine a Light.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Exile on Main St_/1-04 Casino Boogie.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Exile on Main St_/2-05 Let It Loose.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Exile on Main St_/1-08 Sweet Black Angel.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Exile on Main St_/2-09 Soul Survivor.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Exile on Main St_/1-06 Sweet Virginia.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Exile on Main St_/2-03 Ventilator Blues.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Sticky Fingers/06 Bitch.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Sticky Fingers/05 You Gotta Move.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Sticky Fingers/08 Sister Morphine.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Sticky Fingers/02 Sway.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Sticky Fingers/10 Moonlight Mile.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Sticky Fingers/03 Wild Horses.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Sticky Fingers/07 I Got The Blues.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Sticky Fingers/01 Brown Sugar.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Tattoo You/01 Start Me Up.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Tattoo You/11 Waiting On A Friend.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Tattoo You/04 Little T&A.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Tattoo You/06 Neighbours.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Tattoo You/08 Tops.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Tattoo You/07 Worried About You.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Tattoo You/03 Slave.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Tattoo You/05 Black Limousine.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Tattoo You/09 Heaven.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Tattoo You/10 No Use In Crying.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Tattoo You/02 Hang Fire.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Let It Bleed/04 Live with Me.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Let It Bleed/01 Gimme Shelter.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Let It Bleed/03 Country Honk.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Let It Bleed/07 You Got the Silver.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Let It Bleed/08 Monkey Man.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Let It Bleed/09 You Can't Always Get What You Want.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Let It Bleed/05 Let It Bleed.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Let It Bleed/06 Midnight Rambler.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Let It Bleed/02 Love in Vain.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Beggars Banquet/03 Dear Doctor.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Beggars Banquet/08 Stray Cat Blues.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Beggars Banquet/04 Parachute Woman.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Beggars Banquet/07 Prodigal Son.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Beggars Banquet/05 Jigsaw Puzzle.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Beggars Banquet/09 Factory Girl.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Beggars Banquet/01 Sympathy for the Devil.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Beggars Banquet/10 Salt Of The Earth.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Beggars Banquet/02 No Expectations.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Some Girls/03 Just My Imagination (Running Away with Me).mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Some Girls/07 Respectable.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Some Girls/01 Miss You.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Some Girls/08 Before They Make Me Run.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Some Girls/06 Far Away Eyes.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Some Girls/10 Shattered.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Some Girls/04 Some Girls.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Some Girls/09 Beast of Burden.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Some Girls/02 When the Whip Comes Down.mp3" -f
+mp3val "/moshpit/Music/Music/The Rolling Stones/Some Girls/05 Lies.mp3" -f
+mp3val "/moshpit/Music/Music/Clutch/Sunrise on Slaughter Beach/1-07 Skeletons on Mars.mp3" -f
+mp3val "/moshpit/Music/Music/Clutch/Sunrise on Slaughter Beach/1-02 Slaughter Beach.mp3" -f
+mp3val "/moshpit/Music/Music/Clutch/Sunrise on Slaughter Beach/1-04 Nosferatu Madre.mp3" -f
+mp3val "/moshpit/Music/Music/Clutch/Sunrise on Slaughter Beach/1-10 Boogeyman Blues.mp3" -f
+mp3val "/moshpit/Music/Music/Clutch/Sunrise on Slaughter Beach/1-09 Jackhammer Our Names.mp3" -f
+mp3val "/moshpit/Music/Music/Clutch/Sunrise on Slaughter Beach/1-06 We Strive for Excellence.mp3" -f
+mp3val "/moshpit/Music/Music/Clutch/Sunrise on Slaughter Beach/1-11 Arts & Crafts.mp3" -f
+mp3val "/moshpit/Music/Music/Clutch/Sunrise on Slaughter Beach/1-12 Railroad Daisies.mp3" -f
+mp3val "/moshpit/Music/Music/Clutch/Sunrise on Slaughter Beach/1-08 Three Golden Horns.mp3" -f
+mp3val "/moshpit/Music/Music/Clutch/Sunrise on Slaughter Beach/1-05 Mercy Brown.mp3" -f
+mp3val "/moshpit/Music/Music/Clutch/Sunrise on Slaughter Beach/1-01 Red Alert (Boss Metal Zone).mp3" -f
+mp3val "/moshpit/Music/Music/Clutch/Sunrise on Slaughter Beach/1-03 Mountain of Bone.mp3" -f
+mp3val "/moshpit/Music/Music/Phosphorescent/Muchacho/04 Terror In The Canyons (The Wounded Master).mp3" -f
+mp3val "/moshpit/Music/Music/Phosphorescent/Muchacho/01 Sun, Arise! (An Invocation, An Introduction).mp3" -f
+mp3val "/moshpit/Music/Music/Phosphorescent/Muchacho/07 A New Anhedonia.mp3" -f
+mp3val "/moshpit/Music/Music/Phosphorescent/Muchacho/02 Song For Zula.mp3" -f
+mp3val "/moshpit/Music/Music/Phosphorescent/Muchacho/05 A Charm, A Blade.mp3" -f
+mp3val "/moshpit/Music/Music/Phosphorescent/Muchacho/10 Sun's Arising (A Koan, An Exit).mp3" -f
+mp3val "/moshpit/Music/Music/Phosphorescent/Muchacho/03 Ride On, Right On.mp3" -f
+mp3val "/moshpit/Music/Music/Phosphorescent/Muchacho/06 Muchacho's Tune.mp3" -f
+mp3val "/moshpit/Music/Music/Phosphorescent/Muchacho/09 Down To Go.mp3" -f
+mp3val "/moshpit/Music/Music/Phosphorescent/Muchacho/08 The Quotidian Beasts.mp3" -f
+mp3val "/moshpit/Music/Music/Little Hurricane/Gold Fever/10 Superblues.mp3" -f
+mp3val "/moshpit/Music/Music/Little Hurricane/Gold Fever/02 Upside Of Down.mp3" -f
+mp3val "/moshpit/Music/Music/Little Hurricane/Gold Fever/09 Sorry Son.mp3" -f
+mp3val "/moshpit/Music/Music/Little Hurricane/Gold Fever/07 Breathe.mp3" -f
+mp3val "/moshpit/Music/Music/Little Hurricane/Gold Fever/06 Bones.mp3" -f
+mp3val "/moshpit/Music/Music/Little Hurricane/Gold Fever/11 Gold Fever.mp3" -f
+mp3val "/moshpit/Music/Music/Little Hurricane/Gold Fever/03 Sheep In Wolves Clothes.mp3" -f
+mp3val "/moshpit/Music/Music/Little Hurricane/Gold Fever/04 Boiling Water.mp3" -f
+mp3val "/moshpit/Music/Music/Little Hurricane/Gold Fever/12 Grand Canyon.mp3" -f
+mp3val "/moshpit/Music/Music/Little Hurricane/Gold Fever/08 Con Man.mp3" -f
+mp3val "/moshpit/Music/Music/Little Hurricane/Gold Fever/01 Summer Air.mp3" -f
+mp3val "/moshpit/Music/Music/Badfinger/Straight Up/01 Take It All.mp3" -f
+mp3val "/moshpit/Music/Music/The Sisters Of Mercy/Floodland/08 Neverland.mp3" -f
+mp3val "/moshpit/Music/Music/The Sisters Of Mercy/Floodland/06 Flood Ii.mp3" -f
+mp3val "/moshpit/Music/Music/The Sisters Of Mercy/Floodland/03 Lucretia My Reflection.mp3" -f
+mp3val "/moshpit/Music/Music/The Sisters Of Mercy/Floodland/01 Dominion - Mother Russia.mp3" -f
+mp3val "/moshpit/Music/Music/The Sisters Of Mercy/Floodland/10 Colours (_Bonus Track).mp3" -f
+mp3val "/moshpit/Music/Music/The Sisters Of Mercy/Floodland/07 Driven Like The Snow.mp3" -f
+mp3val "/moshpit/Music/Music/The Sisters Of Mercy/Floodland/09 Torch (_Bonus Track).mp3" -f
+mp3val "/moshpit/Music/Music/The Sisters Of Mercy/Floodland/04 1959.mp3" -f
+mp3val "/moshpit/Music/Music/The Sisters Of Mercy/Floodland/02 Flood I.mp3" -f
+mp3val "/moshpit/Music/Music/The Civil Wars/Live at Eddie's Attic/09 Dance Me to the End of Love.mp3" -f
+mp3val "/moshpit/Music/Music/The Civil Wars/Live at Eddie's Attic/08 Girl With the Red Balloon.mp3" -f
+mp3val "/moshpit/Music/Music/The Civil Wars/Live at Eddie's Attic/02 20 Years.mp3" -f
+mp3val "/moshpit/Music/Music/The Civil Wars/Live at Eddie's Attic/06 My Father's Father.mp3" -f
+mp3val "/moshpit/Music/Music/The Civil Wars/Live at Eddie's Attic/03 Falling.mp3" -f
+mp3val "/moshpit/Music/Music/The Civil Wars/Live at Eddie's Attic/05 Tip of My Tongue.mp3" -f
+mp3val "/moshpit/Music/Music/The Civil Wars/Live at Eddie's Attic/10 Falling (Demo) [Bonus Track].mp3" -f
+mp3val "/moshpit/Music/Music/The Civil Wars/Live at Eddie's Attic/07 No Ordinary Love.mp3" -f
+mp3val "/moshpit/Music/Music/The Civil Wars/Live at Eddie's Attic/04 Poison & Wine.mp3" -f
+mp3val "/moshpit/Music/Music/The Civil Wars/Live at Eddie's Attic/01 If I Didn't Know Better.mp3" -f
+mp3val "/moshpit/Music/Music/Martha Wainwright/Bloody Mother Fucking Asshole/05 How Short.mp3" -f
+mp3val "/moshpit/Music/Music/Martha Wainwright/Bloody Mother Fucking Asshole/04 It's Over.mp3" -f
+mp3val "/moshpit/Music/Music/Martha Wainwright/Bloody Mother Fucking Asshole/03 When the Day Is Short.mp3" -f
+mp3val "/moshpit/Music/Music/Martha Wainwright/Bloody Mother Fucking Asshole/02 I Will Internalize.mp3" -f
+mp3val "/moshpit/Music/Music/Martha Wainwright/Bloody Mother Fucking Asshole/01 Bloody Mother Fucking Asshole.mp3" -f
+mp3val "/moshpit/Music/Music/The Breeders/Last Splash (30th Anniversary Edition)/1-09 Mad Lucas (2023 Remaster).mp3" -f
+mp3val "/moshpit/Music/Music/The Breeders/Last Splash (30th Anniversary Edition)/1-10 Divine Hammer (2023 Remaster).mp3" -f
+mp3val "/moshpit/Music/Music/The Breeders/Last Splash (30th Anniversary Edition)/1-05 Roi (2023 Remaster).mp3" -f
+mp3val "/moshpit/Music/Music/The Breeders/Last Splash (30th Anniversary Edition)/1-12 Hag (2023 Remaster).mp3" -f
+mp3val "/moshpit/Music/Music/The Breeders/Last Splash (30th Anniversary Edition)/1-14 Drivin' on 9 (2023 Remaster).mp3" -f
+mp3val "/moshpit/Music/Music/The Breeders/Last Splash (30th Anniversary Edition)/1-07 Flipside (2023 Remaster).mp3" -f
+mp3val "/moshpit/Music/Music/The Breeders/Last Splash (30th Anniversary Edition)/1-04 No Aloha (2023 Remaster).mp3" -f
+mp3val "/moshpit/Music/Music/The Breeders/Last Splash (30th Anniversary Edition)/1-13 Saints (2023 Remaster).mp3" -f
+mp3val "/moshpit/Music/Music/The Breeders/Last Splash (30th Anniversary Edition)/1-15 Roi (reprise) (2023 Remaster).mp3" -f
+mp3val "/moshpit/Music/Music/The Breeders/Last Splash (30th Anniversary Edition)/1-01 New Year (2023 Remaster).mp3" -f
+mp3val "/moshpit/Music/Music/The Breeders/Last Splash (30th Anniversary Edition)/1-03 Invisible Man (2023 Remaster).mp3" -f
+mp3val "/moshpit/Music/Music/The Breeders/Last Splash (30th Anniversary Edition)/1-02 Cannonball (2023 Remaster).mp3" -f
+mp3val "/moshpit/Music/Music/The Breeders/Last Splash (30th Anniversary Edition)/1-17 Divine Mascis.mp3" -f
+mp3val "/moshpit/Music/Music/The Breeders/Last Splash (30th Anniversary Edition)/1-11 S.O.S. (2023 Remaster).mp3" -f
+mp3val "/moshpit/Music/Music/The Breeders/Last Splash (30th Anniversary Edition)/1-08 I Just Wanna Get Along (2023 Remaster).mp3" -f
+mp3val "/moshpit/Music/Music/The Breeders/Last Splash (30th Anniversary Edition)/1-06 Do You Love Me Now_ (2023 Remaster).mp3" -f
+mp3val "/moshpit/Music/Music/The Breeders/Last Splash (30th Anniversary Edition)/1-16 Go Man Go.mp3" -f
+mp3val "/moshpit/Music/Music/The Staves/Good Woman/02 Best Friend.mp3" -f
+mp3val "/moshpit/Music/Music/Porno for Pyros/Porno For Pyros/08 Packin'.mp3" -f
+mp3val "/moshpit/Music/Music/Porno for Pyros/Porno For Pyros/04 Cursed Female.mp3" -f
+mp3val "/moshpit/Music/Music/Porno for Pyros/Porno For Pyros/07 Bad Shit.mp3" -f
+mp3val "/moshpit/Music/Music/Porno for Pyros/Porno For Pyros/11 Orgasm.mp3" -f
+mp3val "/moshpit/Music/Music/Porno for Pyros/Porno For Pyros/05 Cursed Male.mp3" -f
+mp3val "/moshpit/Music/Music/Porno for Pyros/Porno For Pyros/10 Blood Rag.mp3" -f
+mp3val "/moshpit/Music/Music/Porno for Pyros/Porno For Pyros/02 Porno For Pyros.mp3" -f
+mp3val "/moshpit/Music/Music/Porno for Pyros/Porno For Pyros/06 Pets.mp3" -f
+mp3val "/moshpit/Music/Music/Porno for Pyros/Porno For Pyros/09 Black Girlfriend.mp3" -f
+mp3val "/moshpit/Music/Music/Porno for Pyros/Porno For Pyros/01 Sadness.mp3" -f
+mp3val "/moshpit/Music/Music/Porno for Pyros/Porno For Pyros/03 Meija.mp3" -f
+mp3val "/moshpit/Music/Music/Lisa Gerrard & Pieter Bourke/Duality/03 Forest Veil.mp3" -f
+mp3val "/moshpit/Music/Music/Lisa Gerrard & Pieter Bourke/Duality/08 The Circulation of Shadows.mp3" -f
+mp3val "/moshpit/Music/Music/Lisa Gerrard & Pieter Bourke/Duality/02 Tempest.mp3" -f
+mp3val "/moshpit/Music/Music/Lisa Gerrard & Pieter Bourke/Duality/06 Pilgrimage of Lost Children.mp3" -f
+mp3val "/moshpit/Music/Music/Lisa Gerrard & Pieter Bourke/Duality/10 Nadir (Synchronicity).mp3" -f
+mp3val "/moshpit/Music/Music/Lisa Gerrard & Pieter Bourke/Duality/04 The Comforter.mp3" -f
+mp3val "/moshpit/Music/Music/Lisa Gerrard & Pieter Bourke/Duality/07 The Human Game.mp3" -f
+mp3val "/moshpit/Music/Music/Lisa Gerrard & Pieter Bourke/Duality/05 The Unfolding.mp3" -f
+mp3val "/moshpit/Music/Music/Lisa Gerrard & Pieter Bourke/Duality/01 Shadow Magnet.mp3" -f
+mp3val "/moshpit/Music/Music/Love is Colder Than Death/Auter/09 The City in the Sea.mp3" -f
+mp3val "/moshpit/Music/Music/Love is Colder Than Death/Auter/08 An Invite, To Eternity.mp3" -f
+mp3val "/moshpit/Music/Music/Love is Colder Than Death/Auter/06 Orlando.mp3" -f
+mp3val "/moshpit/Music/Music/Love is Colder Than Death/Auter/02 In Silence and Tears.mp3" -f
+mp3val "/moshpit/Music/Music/Love is Colder Than Death/Auter/04 Questo Mostrarsi.mp3" -f
+mp3val "/moshpit/Music/Music/Love is Colder Than Death/Auter/10 Kaba Gajda.mp3" -f
+mp3val "/moshpit/Music/Music/Love is Colder Than Death/Auter/07 Occhi Miei.mp3" -f
+mp3val "/moshpit/Music/Music/Love is Colder Than Death/Auter/14 Love and Solitude.mp3" -f
+mp3val "/moshpit/Music/Music/Love is Colder Than Death/Auter/03 Oxeia.mp3" -f
+mp3val "/moshpit/Music/Music/Slint/Tweez/01 Ron.mp3" -f
+mp3val "/moshpit/Music/Music/Slint/Tweez/02 Nan Ding.mp3" -f
+mp3val "/moshpit/Music/Music/Slint/Tweez/08 Pat.mp3" -f
+mp3val "/moshpit/Music/Music/Slint/Tweez/09 Rhoda.mp3" -f
+mp3val "/moshpit/Music/Music/Slint/Tweez/04 Kent.mp3" -f
+mp3val "/moshpit/Music/Music/Slint/Tweez/03 Carol.mp3" -f
+mp3val "/moshpit/Music/Music/Slint/Tweez/07 Warren.mp3" -f
+mp3val "/moshpit/Music/Music/Slint/Tweez/05 Charlotte.mp3" -f
+mp3val "/moshpit/Music/Music/Slint/Tweez/06 Darlene.mp3" -f
+mp3val "/moshpit/Music/Music/Cat Stevens/Teaser And The Firecat (Deluxe)/2-01 Morning Has Broken.mp3" -f
+mp3val "/moshpit/Music/Music/Cat Stevens/Teaser And The Firecat (Deluxe)/1-10 Peace Train.mp3" -f
+mp3val "/moshpit/Music/Music/Cat Stevens/Teaser And The Firecat (Deluxe)/1-02 Rubylove.mp3" -f
+mp3val "/moshpit/Music/Music/Cat Stevens/Teaser And The Firecat (Deluxe)/2-02 Bitterblue².mp3" -f
+mp3val "/moshpit/Music/Music/Cat Stevens/Teaser And The Firecat (Deluxe)/1-06 Tuesday's Dead.mp3" -f
+mp3val "/moshpit/Music/Music/Cat Stevens/Teaser And The Firecat (Deluxe)/1-09 Moonshadow.mp3" -f
+mp3val "/moshpit/Music/Music/Cat Stevens/Teaser And The Firecat (Deluxe)/2-04 Moonshadow.mp3" -f
+mp3val "/moshpit/Music/Music/Cat Stevens/Teaser And The Firecat (Deluxe)/1-07 Morning Has Broken.mp3" -f
+mp3val "/moshpit/Music/Music/Cat Stevens/Teaser And The Firecat (Deluxe)/1-01 The Wind.mp3" -f
+mp3val "/moshpit/Music/Music/Cat Stevens/Teaser And The Firecat (Deluxe)/2-03 Peace Train.mp3" -f
+mp3val "/moshpit/Music/Music/Cat Stevens/Teaser And The Firecat (Deluxe)/1-03 If I Laugh.mp3" -f
+mp3val "/moshpit/Music/Music/Cat Stevens/Teaser And The Firecat (Deluxe)/1-08 Bitterblue.mp3" -f
+mp3val "/moshpit/Music/Music/Cat Stevens/Teaser And The Firecat (Deluxe)/1-04 Changes IV.mp3" -f
+mp3val "/moshpit/Music/Music/Cat Stevens/Teaser And The Firecat (Deluxe)/1-05 How Can I Tell You.mp3" -f
+mp3val "/moshpit/Music/Music/The Cult Of Dom Keller/Goodbye To the Light/06 Exterminating Angels.mp3" -f
+mp3val "/moshpit/Music/Music/The Cult Of Dom Keller/Goodbye To the Light/01 Hole In The Whole.mp3" -f
+mp3val "/moshpit/Music/Music/The Cult Of Dom Keller/Goodbye To the Light/09 Nothing Left To Stay For.mp3" -f
+mp3val "/moshpit/Music/Music/The Cult Of Dom Keller/Goodbye To the Light/04 Deepest Pit Of Emptiness.mp3" -f
+mp3val "/moshpit/Music/Music/The Cult Of Dom Keller/Goodbye To the Light/02 Broken Arm Of God.mp3" -f
+mp3val "/moshpit/Music/Music/The Cult Of Dom Keller/Goodbye To the Light/12 Shambhala Is On Fire.mp3" -f
+mp3val "/moshpit/Music/Music/The Cult Of Dom Keller/Goodbye To the Light/08 Astrum Argenteum.mp3" -f
+mp3val "/moshpit/Music/Music/The Cult Of Dom Keller/Goodbye To the Light/05 Tunnel In The Clouds.mp3" -f
+mp3val "/moshpit/Music/Music/The Cult Of Dom Keller/Goodbye To the Light/11 Waltz Of The Morgellons.mp3" -f
+mp3val "/moshpit/Music/Music/The Cult Of Dom Keller/Goodbye To the Light/10 Bring Out The Dead.mp3" -f
+mp3val "/moshpit/Music/Music/The Cult Of Dom Keller/Goodbye To the Light/07 I Can See You.mp3" -f
+mp3val "/moshpit/Music/Music/The Cult Of Dom Keller/Goodbye To the Light/03 Ravens & Rockets.mp3" -f
+mp3val "/moshpit/Music/Music/Chinese Man/The Groove Sessions/01 Pandi Groove.mp3" -f
+mp3val "/moshpit/Music/Music/Chinese Man/The Groove Sessions/02 Searching For The Space.mp3" -f
+mp3val "/moshpit/Music/Music/Chinese Man/The Groove Sessions/03 Eight y Cinco.mp3" -f
+mp3val "/moshpit/Music/Music/Chinese Man/The Groove Sessions/04 Bunni Groove.mp3" -f
+mp3val "/moshpit/Music/Music/Blood Meridian/Kick Up The Dust/05 Soldiers Of Christ.mp3" -f
+mp3val "/moshpit/Music/Music/Blood Meridian/Kick Up The Dust/03 Let It Come Down.mp3" -f
+mp3val "/moshpit/Music/Music/Blood Meridian/Kick Up The Dust/10 Get Someplace Else.mp3" -f
+mp3val "/moshpit/Music/Music/Blood Meridian/Kick Up The Dust/07 In The Forest, Under The Moon.mp3" -f
+mp3val "/moshpit/Music/Music/Blood Meridian/Kick Up The Dust/01 Your Boyfriends' Blues.mp3" -f
+mp3val "/moshpit/Music/Music/Blood Meridian/Kick Up The Dust/09 Try For You.mp3" -f
+mp3val "/moshpit/Music/Music/Blood Meridian/Kick Up The Dust/12 McDonald's Blues.mp3" -f
+mp3val "/moshpit/Music/Music/Blood Meridian/Kick Up The Dust/11 I Don't Believe.mp3" -f
+mp3val "/moshpit/Music/Music/Blood Meridian/Kick Up The Dust/06 Kick Up The Dust.mp3" -f
+mp3val "/moshpit/Music/Music/Blood Meridian/Kick Up The Dust/04 Most Days.mp3" -f
+mp3val "/moshpit/Music/Music/Blood Meridian/Kick Up The Dust/08 Good Lover.mp3" -f
+mp3val "/moshpit/Music/Music/Stereolab/Mars Audiac Quintet (Expanded Edition)/2-12 Transporté Sans Bouger - Demo.mp3" -f
+mp3val "/moshpit/Music/Music/Stereolab/Mars Audiac Quintet (Expanded Edition)/1-09 International Colouring Contest.mp3" -f
+mp3val "/moshpit/Music/Music/Stereolab/Mars Audiac Quintet (Expanded Edition)/2-05 Nihilist assault Group - Part 6.mp3" -f
+mp3val "/moshpit/Music/Music/Stereolab/Mars Audiac Quintet (Expanded Edition)/1-14 New Orthophony.mp3" -f
+mp3val "/moshpit/Music/Music/Stereolab/Mars Audiac Quintet (Expanded Edition)/1-01 Three-Dee Melodie.mp3" -f
+mp3val "/moshpit/Music/Music/Stereolab/Mars Audiac Quintet (Expanded Edition)/2-06 Wow and Flutter [7__EP Version - Alternative Mix].mp3" -f
+mp3val "/moshpit/Music/Music/Stereolab/Mars Audiac Quintet (Expanded Edition)/1-02 Wow And Flutter.mp3" -f
+mp3val "/moshpit/Music/Music/Stereolab/Mars Audiac Quintet (Expanded Edition)/2-03 Melochord Seventy-Five [Original Pulse Version].mp3" -f
+mp3val "/moshpit/Music/Music/Stereolab/Mars Audiac Quintet (Expanded Edition)/2-04 Outer Accelerator - [Original Mix].mp3" -f
+mp3val "/moshpit/Music/Music/Stereolab/Mars Audiac Quintet (Expanded Edition)/1-06 Anamorphose.mp3" -f
+mp3val "/moshpit/Music/Music/Stereolab/Mars Audiac Quintet (Expanded Edition)/2-02 Klang Tone.mp3" -f
+mp3val "/moshpit/Music/Music/Stereolab/Mars Audiac Quintet (Expanded Edition)/2-08 Ping Pong- Demo.mp3" -f
+mp3val "/moshpit/Music/Music/Stereolab/Mars Audiac Quintet (Expanded Edition)/1-03 Transona Five.mp3" -f
+mp3val "/moshpit/Music/Music/Stereolab/Mars Audiac Quintet (Expanded Edition)/1-04 Des Etoiles Electroniques.mp3" -f
+mp3val "/moshpit/Music/Music/Stereolab/Mars Audiac Quintet (Expanded Edition)/1-13 Outer Accelerator.mp3" -f
+mp3val "/moshpit/Music/Music/Stereolab/Mars Audiac Quintet (Expanded Edition)/2-11 Transona Five - Demo.mp3" -f
+mp3val "/moshpit/Music/Music/Stereolab/Mars Audiac Quintet (Expanded Edition)/2-07 Des Etoile Electroniques - Demo.mp3" -f
+mp3val "/moshpit/Music/Music/Stereolab/Mars Audiac Quintet (Expanded Edition)/2-10 Three Longers Later - Demo.mp3" -f
+mp3val "/moshpit/Music/Music/Stereolab/Mars Audiac Quintet (Expanded Edition)/2-01 Ulan Bator.mp3" -f
+mp3val "/moshpit/Music/Music/Stereolab/Mars Audiac Quintet (Expanded Edition)/2-09 The Stars Our Destination - Demo.mp3" -f
+mp3val "/moshpit/Music/Music/Stereolab/Mars Audiac Quintet (Expanded Edition)/1-05 Ping Pong.mp3" -f
+mp3val "/moshpit/Music/Music/Stereolab/Mars Audiac Quintet (Expanded Edition)/1-07 Three Longers Later.mp3" -f
+mp3val "/moshpit/Music/Music/Stereolab/Mars Audiac Quintet (Expanded Edition)/1-11 Transporte Sans Bouger.mp3" -f
+mp3val "/moshpit/Music/Music/Stereolab/Mars Audiac Quintet (Expanded Edition)/1-10 The Stars Our Destination.mp3" -f
+mp3val "/moshpit/Music/Music/Stereolab/Mars Audiac Quintet (Expanded Edition)/1-12 L_Enfer Des Formes.mp3" -f
+mp3val "/moshpit/Music/Music/Stereolab/Mars Audiac Quintet (Expanded Edition)/1-15 Fiery Yellow.mp3" -f
+mp3val "/moshpit/Music/Music/Stereolab/Mars Audiac Quintet (Expanded Edition)/1-08 Nihilist Assault Group.mp3" -f
+mp3val "/moshpit/Music/Music/The Helio Sequence/The Helio Sequence/06 Deuces.mp3" -f
+mp3val "/moshpit/Music/Music/The Helio Sequence/The Helio Sequence/03 Red Shifting.mp3" -f
+mp3val "/moshpit/Music/Music/The Helio Sequence/The Helio Sequence/07 Inconsequential Ties.mp3" -f
+mp3val "/moshpit/Music/Music/The Helio Sequence/The Helio Sequence/09 Phantom Shore.mp3" -f
+mp3val "/moshpit/Music/Music/The Helio Sequence/The Helio Sequence/01 Battle Lines.mp3" -f
+mp3val "/moshpit/Music/Music/The Helio Sequence/The Helio Sequence/10 Never Going Back.mp3" -f
+mp3val "/moshpit/Music/Music/The Helio Sequence/The Helio Sequence/04 Upward Mobility.mp3" -f
+mp3val "/moshpit/Music/Music/The Helio Sequence/The Helio Sequence/05 Leave Or Be Yours.mp3" -f
+mp3val "/moshpit/Music/Music/The Helio Sequence/The Helio Sequence/08 Seven Hours.mp3" -f
+mp3val "/moshpit/Music/Music/The Helio Sequence/The Helio Sequence/02 Stoic Resemblance.mp3" -f
+mp3val "/moshpit/Music/Music/Turin Brakes/The optimist LP/10 The road.mp3" -f
+mp3val "/moshpit/Music/Music/Turin Brakes/The optimist LP/11 Mind over money.mp3" -f
+mp3val "/moshpit/Music/Music/Turin Brakes/The optimist LP/09 Starship.mp3" -f
+mp3val "/moshpit/Music/Music/Turin Brakes/The optimist LP/02 Underdog (Save me).mp3" -f
+mp3val "/moshpit/Music/Music/Turin Brakes/The optimist LP/07 By TV light.mp3" -f
+mp3val "/moshpit/Music/Music/Turin Brakes/The optimist LP/06 State of things.mp3" -f
+mp3val "/moshpit/Music/Music/Turin Brakes/The optimist LP/04 Future boy.mp3" -f
+mp3val "/moshpit/Music/Music/Turin Brakes/The optimist LP/01 Feeling oblivion.mp3" -f
+mp3val "/moshpit/Music/Music/Turin Brakes/The optimist LP/05 The door.mp3" -f
+mp3val "/moshpit/Music/Music/Turin Brakes/The optimist LP/08 Slack.mp3" -f
+mp3val "/moshpit/Music/Music/Turin Brakes/The optimist LP/12 The optimist.mp3" -f
+mp3val "/moshpit/Music/Music/Turin Brakes/The optimist LP/03 Emergency 72.mp3" -f
+mp3val "/moshpit/Music/Music/Ben Harper/Diamonds on the Inside/05 When She Believes.mp3" -f
+mp3val "/moshpit/Music/Music/Ben Harper/Diamonds on the Inside/10 Temporary Remedy.mp3" -f
+mp3val "/moshpit/Music/Music/Ben Harper/Diamonds on the Inside/11 So High So Low.mp3" -f
+mp3val "/moshpit/Music/Music/Ben Harper/Diamonds on the Inside/08 Everything.mp3" -f
+mp3val "/moshpit/Music/Music/Ben Harper/Diamonds on the Inside/02 When It's Good.mp3" -f
+mp3val "/moshpit/Music/Music/Ben Harper/Diamonds on the Inside/12 Blessed to Be a Witness.mp3" -f
+mp3val "/moshpit/Music/Music/Ben Harper/Diamonds on the Inside/06 Brown Eyed Blues.mp3" -f
+mp3val "/moshpit/Music/Music/Ben Harper/Diamonds on the Inside/01 With My Own Two Hands.mp3" -f
+mp3val "/moshpit/Music/Music/Ben Harper/Diamonds on the Inside/14 She's Only Happy in the Sun - Ben Harper, Butterworth, Dean.mp3" -f
+mp3val "/moshpit/Music/Music/Ben Harper/Diamonds on the Inside/03 Diamonds on the Inside.mp3" -f
+mp3val "/moshpit/Music/Music/Ben Harper/Diamonds on the Inside/07 Bring the Funk - Ben Harper, Harper.mp3" -f
+mp3val "/moshpit/Music/Music/Ben Harper/Diamonds on the Inside/13 Picture of Jesus.mp3" -f
+mp3val "/moshpit/Music/Music/Ben Harper/Diamonds on the Inside/09 Amen Omen.mp3" -f
+mp3val "/moshpit/Music/Music/Ben Harper/Diamonds on the Inside/04 Touch From Your Lust.mp3" -f
+mp3val "/moshpit/Music/Music/Kate Bush/The Red Shoes/07 The Red Shoes.mp3" -f
+mp3val "/moshpit/Music/Music/Kate Bush/The Red Shoes/04 Moments of Pleasure.mp3" -f
+mp3val "/moshpit/Music/Music/Kate Bush/The Red Shoes/08 Top of the City.mp3" -f
+mp3val "/moshpit/Music/Music/Kate Bush/The Red Shoes/09 Constellation of the Heart.mp3" -f
+mp3val "/moshpit/Music/Music/Kate Bush/The Red Shoes/02 And So Is Love.mp3" -f
+mp3val "/moshpit/Music/Music/Kate Bush/The Red Shoes/12 You're the One.mp3" -f
+mp3val "/moshpit/Music/Music/Kate Bush/The Red Shoes/05 The Song of Solomon.mp3" -f
+mp3val "/moshpit/Music/Music/Kate Bush/The Red Shoes/03 Eat the Music.mp3" -f
+mp3val "/moshpit/Music/Music/Kate Bush/The Red Shoes/06 Lily.mp3" -f
+mp3val "/moshpit/Music/Music/Kate Bush/The Red Shoes/11 Why Should I Love You_ (feat. Prince).mp3" -f
+mp3val "/moshpit/Music/Music/Kate Bush/The Red Shoes/10 Big Stripey Lie.mp3" -f
+mp3val "/moshpit/Music/Music/Kate Bush/The Sensual World/09 Rocket's Tail.mp3" -f
+mp3val "/moshpit/Music/Music/Kate Bush/The Sensual World/02 Love and Anger.mp3" -f
+mp3val "/moshpit/Music/Music/Kate Bush/The Sensual World/11 Walk Straight Down the Middle.mp3" -f
+mp3val "/moshpit/Music/Music/Kate Bush/The Sensual World/08 Never Be Mine.mp3" -f
+mp3val "/moshpit/Music/Music/Kate Bush/The Sensual World/03 The Fog.mp3" -f
+mp3val "/moshpit/Music/Music/Kate Bush/The Sensual World/04 Reaching Out.mp3" -f
+mp3val "/moshpit/Music/Music/Kate Bush/The Sensual World/06 Deeper Understanding.mp3" -f
+mp3val "/moshpit/Music/Music/Kate Bush/The Sensual World/01 The Sensual World.mp3" -f
+mp3val "/moshpit/Music/Music/Kate Bush/The Sensual World/07 Between a Man and a Woman.mp3" -f
+mp3val "/moshpit/Music/Music/Kate Bush/The Sensual World/05 Heads We're Dancing.mp3" -f
+mp3val "/moshpit/Music/Music/Jane_s Addiction/Nothing_s Shocking/1-11 Pig_s in Zen.mp3" -f
+mp3val "/moshpit/Music/Music/Jane_s Addiction/Nothing_s Shocking/1-03 Had a Dad.mp3" -f
+mp3val "/moshpit/Music/Music/Jane_s Addiction/Nothing_s Shocking/1-01 Up the Beach.mp3" -f
+mp3val "/moshpit/Music/Music/Jane_s Addiction/Nothing_s Shocking/1-02 Ocean Size.mp3" -f
+mp3val "/moshpit/Music/Music/Jane_s Addiction/Nothing_s Shocking/1-10 Thank You Boys.mp3" -f
+mp3val "/moshpit/Music/Music/Jane_s Addiction/Nothing_s Shocking/1-06 Summertime Rolls.mp3" -f
+mp3val "/moshpit/Music/Music/Jane_s Addiction/Nothing_s Shocking/1-08 Idiots Rule.mp3" -f
+mp3val "/moshpit/Music/Music/Jane_s Addiction/Nothing_s Shocking/1-04 Ted, Just Admit It….mp3" -f
+mp3val "/moshpit/Music/Music/Jane_s Addiction/Nothing_s Shocking/1-05 Standing in the Shower… Thinking.mp3" -f
+mp3val "/moshpit/Music/Music/Jane_s Addiction/Nothing_s Shocking/1-09 Jane Says.mp3" -f
+mp3val "/moshpit/Music/Music/Jane_s Addiction/Nothing_s Shocking/1-07 Mountain Song.mp3" -f
+mp3val "/moshpit/Music/Music/Jane_s Addiction/Strays/1-02 Strays.mp3" -f
+mp3val "/moshpit/Music/Music/Jane_s Addiction/Strays/1-06 Superhero.mp3" -f
+mp3val "/moshpit/Music/Music/Jane_s Addiction/Strays/1-09 Suffer Some.mp3" -f
+mp3val "/moshpit/Music/Music/Jane_s Addiction/Strays/1-07 Wrong Girl.mp3" -f
+mp3val "/moshpit/Music/Music/Jane_s Addiction/Strays/1-01 True Nature.mp3" -f
+mp3val "/moshpit/Music/Music/Jane_s Addiction/Strays/1-04 Price I Pay.mp3" -f
+mp3val "/moshpit/Music/Music/Jane_s Addiction/Strays/1-08 Everybody_s Friend.mp3" -f
+mp3val "/moshpit/Music/Music/Jane_s Addiction/Strays/1-11 To Match the Sun.mp3" -f
+mp3val "/moshpit/Music/Music/Jane_s Addiction/Strays/1-05 The Riches.mp3" -f
+mp3val "/moshpit/Music/Music/Jane_s Addiction/Strays/1-10 Hypersonic.mp3" -f
+mp3val "/moshpit/Music/Music/Jane_s Addiction/Strays/1-03 Just Because.mp3" -f
+mp3val "/moshpit/Music/Music/Jane_s Addiction/Ritual de lo habitual/1-02 No One_s Leaving.mp3" -f
+mp3val "/moshpit/Music/Music/Jane_s Addiction/Ritual de lo habitual/1-01 Stop!.mp3" -f
+mp3val "/moshpit/Music/Music/Jane_s Addiction/Ritual de lo habitual/1-09 Classic Girl.mp3" -f
+mp3val "/moshpit/Music/Music/Jane_s Addiction/Ritual de lo habitual/1-08 Of Course.mp3" -f
+mp3val "/moshpit/Music/Music/Jane_s Addiction/Ritual de lo habitual/1-05 Been Caught Stealing.mp3" -f
+mp3val "/moshpit/Music/Music/Jane_s Addiction/Ritual de lo habitual/1-06 Three Days.mp3" -f
+mp3val "/moshpit/Music/Music/Jane_s Addiction/Ritual de lo habitual/1-03 Ain_t No Right.mp3" -f
+mp3val "/moshpit/Music/Music/Jane_s Addiction/Ritual de lo habitual/1-04 Obvious.mp3" -f
+mp3val "/moshpit/Music/Music/Jane_s Addiction/Ritual de lo habitual/1-07 Then She Did….mp3" -f
+mp3val "/moshpit/Music/Music/The The/Infected/08 The Mercy Beat.mp3" -f
+mp3val "/moshpit/Music/Music/The The/Infected/07 Twilight Of A Champion.mp3" -f
+mp3val "/moshpit/Music/Music/The The/Infected/04 Angels Of Deception.mp3" -f
+mp3val "/moshpit/Music/Music/The The/Infected/10 Sweet Bird of Truth (12_ version).mp3" -f
+mp3val "/moshpit/Music/Music/The The/Infected/06 Slow Train To Dawn.mp3" -f
+mp3val "/moshpit/Music/Music/The The/Infected/11 Slow Train to Dawn (12_ version).mp3" -f
+mp3val "/moshpit/Music/Music/The The/Infected/03 Heartland.mp3" -f
+mp3val "/moshpit/Music/Music/The The/Infected/09 Infected (12_ version).mp3" -f
+mp3val "/moshpit/Music/Music/The The/Infected/02 Out Of The Blue (Into The Fire.mp3" -f
+mp3val "/moshpit/Music/Music/The The/Infected/01 Infected.mp3" -f
+mp3val "/moshpit/Music/Music/The The/Infected/05 Sweet Bird Of Youth.mp3" -f
+mp3val "/moshpit/Music/Music/Bruce Springsteen/The Ghost Of Tom Joad/09 The New Timer.mp3" -f
+mp3val "/moshpit/Music/Music/Bruce Springsteen/The Ghost Of Tom Joad/11 Galveston Bay.mp3" -f
+mp3val "/moshpit/Music/Music/Bruce Springsteen/The Ghost Of Tom Joad/04 Youngstown.mp3" -f
+mp3val "/moshpit/Music/Music/Bruce Springsteen/The Ghost Of Tom Joad/07 Balboa Park.mp3" -f
+mp3val "/moshpit/Music/Music/Bruce Springsteen/The Ghost Of Tom Joad/02 Straight Time.mp3" -f
+mp3val "/moshpit/Music/Music/Bruce Springsteen/The Ghost Of Tom Joad/05 Sinaloa Cowboys.mp3" -f
+mp3val "/moshpit/Music/Music/Bruce Springsteen/The Ghost Of Tom Joad/10 Across The Border.mp3" -f
+mp3val "/moshpit/Music/Music/Bruce Springsteen/The Ghost Of Tom Joad/01 The Ghost of Tom Joad.mp3" -f
+mp3val "/moshpit/Music/Music/Bruce Springsteen/The Ghost Of Tom Joad/06 The Line.mp3" -f
+mp3val "/moshpit/Music/Music/Bruce Springsteen/The Ghost Of Tom Joad/12 My Best Was Never Good Enough.mp3" -f
+mp3val "/moshpit/Music/Music/Bruce Springsteen/The Ghost Of Tom Joad/08 Dry Lightning.mp3" -f
+mp3val "/moshpit/Music/Music/Bruce Springsteen/The Ghost Of Tom Joad/03 Highway 29.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[3] - 02 - Symphony No. 4 in F minor, Op. 36, II. Andantino in modo di canzona.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[1] - 01 - Symphony No. 1 in G minor, Op. 13 'Winter Daydreams', I. Allegro tranquillo.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[5] - 02 - Symphony No. 6 in B minor, Op. 74 'Pathétique', II. Allegro con grazia.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[2] - 02 - Symphony No. 3 in D major, Op. 29 'Polish', II. Alla tedesca- Allegro moderato e semplice.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[1] - 06 - Symphony No. 2 in C minor, Op. 17 'Little Russian', II. Andantino marziale, quasi moderato.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[6] - 04 - Manfred Symphony in B minor, Op. 58, IV. Allegro con fuoco.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[4] - 05 - The Storm, Op.76.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[4] - 03 - Symphony No. 5 in E minor, Op. 64, III. Valse- Allegro moderato.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[4] - 02 - Symphony No. 5 in E minor, Op. 64, II. Andante cantabile, con alcuna licenza - Moderato con anima.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[2] - 05 - Symphony 3 in D major, Op. 29 'Polish', V. Finale- Allegro con fuoco.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[5] - 03 - Symphony No. 6 in B minor, Op. 74 'Pathétique', III. Allegro molto vivace.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[6] - 01 - Manfred Symphony in B minor, Op. 58, I. Lento lugubre - Moderato con moto.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[1] - 07 - Symphony No. 2 in C minor, Op. 17 'Little Russian', III. Scherzo- Allegro molto vivace.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[3] - 03 - Symphony No. 4 in F minor, Op. 36, III. Scherzo- Pizzicato ostinato - Allegro.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[5] - 04 - Symphony No. 6 in B minor, Op. 74 'Pathétique', IV. Finale- Adagio lamentoso.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[2] - 04 - Symphony No. 3 in D major, Op. 29 'Polish', IV. Scherzo- Allegro vivo.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[1] - 08 - Symphony No. 2 in C minor, Op. 17 'Little Russian', IV. Finale- Moderato assai - Allegro vivo.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[2] - 06 - Slavonic March (Marche Slave), Op. 31.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[4] - 04 - Symphony No. 5 in E minor, Op. 64, IV. Andante maestoso - Allegro vivace.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[4] - 01 - Symphony No. 5 in E minor, Op. 64, I. Andante - Allegro con anima.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[3] - 06 - 1812 Overture, Op. 49.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[2] - 07 - Francesca da Rimini, Op. 32.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[1] - 03 - Symphony No. 1 in G minor, Op. 13 'Winter Daydreams', III. Scherzo- Allegro scherzando giocoso.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[5] - 01 - Symphony No. 6 in B minor, Op. 74 'Pathétique', I. Adagio - Allegro non troppo.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[2] - 03 - Symphony No. 3 in D major, Op. 29 'Polish', III. Andante elegiaco.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[6] - 02 - Manfred Symphony in B minor, Op. 58, II. Vivance con spirito.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[1] - 02 - Symphony No. 1 in G minor, Op. 13 'Winter Daydreams', II. Adagio cantabile ma non troppo.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[3] - 04 - Symphony No. 4 in F minor, Op. 36, IV. Finale- Allegro con fuoco.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[1] - 05 - Symphony No. 2 in C minor, Op. 17 'Little Russian', I. Andante sostenuto - Allegro vivo.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[2] - 01 - Symphony No. 3 in D major, Op. 29 'Polish', I. Introduzione e Allegro.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[3] - 01 - Symphony No. 4 in F minor, Op. 36, I. Andante sostenuto - Moderato con anima.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[6] - 03 - Manfred Symphony in B minor, Op. 58, III. Andante con moto.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[1] - 04 - Symphony No. 1 in G minor, Op. 13 'Winter Daydreams', IV. Finale- Andante lugubre - Allegro maestoso.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[5] - 05 - Romeo and Juliet Fantasy Overture.mp3" -f
+mp3val "/moshpit/Music/Music/Bernard Haitink/Tchaikovsky_ The Symphonies/[3] - 05 - Capriccio Italien, Op. 45.mp3" -f
+mp3val "/moshpit/Music/Music/Michelle Gurevich/Party Girl/10 Russian ballerina.mp3" -f
+mp3val "/moshpit/Music/Music/Michelle Gurevich/Party Girl/02 Aviva.mp3" -f
+mp3val "/moshpit/Music/Music/Deftones/Deftones/02 Needles and Pins.mp3" -f
+mp3val "/moshpit/Music/Music/Deftones/Deftones/04 Good Morning Beautiful.mp3" -f
+mp3val "/moshpit/Music/Music/Deftones/Deftones/11 Moana.mp3" -f
+mp3val "/moshpit/Music/Music/Deftones/Deftones/03 Minerva.mp3" -f
+mp3val "/moshpit/Music/Music/Deftones/Deftones/09 Bloody Cape.mp3" -f
+mp3val "/moshpit/Music/Music/Deftones/Deftones/01 Hexagram.mp3" -f
+mp3val "/moshpit/Music/Music/Deftones/Deftones/05 Deathblow.mp3" -f
+mp3val "/moshpit/Music/Music/Deftones/Deftones/07 Battle-Axe.mp3" -f
+mp3val "/moshpit/Music/Music/Deftones/Deftones/06 When Girls Telephone Boys.mp3" -f
+mp3val "/moshpit/Music/Music/Deftones/Deftones/08 Lucky You.mp3" -f
+mp3val "/moshpit/Music/Music/Deftones/Deftones/10 Anniversary of an Uninteresting Event.mp3" -f
+mp3val "/moshpit/Music/Music/Deftones/Hexagram (Maxi-single)/03 Lovers.mp3" -f
+mp3val "/moshpit/Music/Music/Rosebuds/The Rosebuds Make Out/04 Wishes For Kisses.mp3" -f
+mp3val "/moshpit/Music/Music/Rosebuds/The Rosebuds Make Out/10 Signature Drinks.mp3" -f
+mp3val "/moshpit/Music/Music/Rosebuds/The Rosebuds Make Out/07 Big Heartbreak.mp3" -f
+mp3val "/moshpit/Music/Music/Rosebuds/The Rosebuds Make Out/08 Waiting For the Carnival.mp3" -f
+mp3val "/moshpit/Music/Music/Rosebuds/The Rosebuds Make Out/03 My Downtown Friends.mp3" -f
+mp3val "/moshpit/Music/Music/Rosebuds/The Rosebuds Make Out/06 Drunkard's Worst Nightmare.mp3" -f
+mp3val "/moshpit/Music/Music/Rosebuds/The Rosebuds Make Out/09 What Can I Do.mp3" -f
+mp3val "/moshpit/Music/Music/Rosebuds/The Rosebuds Make Out/05 Boys Who Love Girls.mp3" -f
+mp3val "/moshpit/Music/Music/Rosebuds/The Rosebuds Make Out/01 Back to Boston.mp3" -f
+mp3val "/moshpit/Music/Music/Rosebuds/The Rosebuds Make Out/02 Kicks in the Schoolyard.mp3" -f
+mp3val "/moshpit/Music/Music/Aimee Mann/Drive (From _The Assassination of Gianni Versace_ American Crime Story_)/01 Drive (From _The Assassination of Gianni Versace_ American Crime Story_).mp3" -f
+mp3val "/moshpit/Music/Music/Moby Grape/Moby Grape/05 Come In The Morning.mp3" -f
+mp3val "/moshpit/Music/Music/Moby Grape/Moby Grape/13 Indifference.mp3" -f
+mp3val "/moshpit/Music/Music/Moby Grape/Moby Grape/08 Someday.mp3" -f
+mp3val "/moshpit/Music/Music/Moby Grape/Moby Grape/12 Lazy Me.mp3" -f
+mp3val "/moshpit/Music/Music/Moby Grape/Moby Grape/03 Fall On You.mp3" -f
+mp3val "/moshpit/Music/Music/Moby Grape/Moby Grape/02 Mr Blues.mp3" -f
+mp3val "/moshpit/Music/Music/Moby Grape/Moby Grape/01 Hey Grandma.mp3" -f
+mp3val "/moshpit/Music/Music/Moby Grape/Moby Grape/09 Ain't No Use.mp3" -f
+mp3val "/moshpit/Music/Music/Moby Grape/Moby Grape/04 8.05.mp3" -f
+mp3val "/moshpit/Music/Music/Moby Grape/Moby Grape/07 Naked, If I Want To.mp3" -f
+mp3val "/moshpit/Music/Music/Moby Grape/Moby Grape/11 Changes.mp3" -f
+mp3val "/moshpit/Music/Music/Moby Grape/Moby Grape/10 Sitting By The Window.mp3" -f
+mp3val "/moshpit/Music/Music/Moby Grape/Moby Grape/06 Omaha.mp3" -f
+mp3val "/moshpit/Music/Music/Japan/Quiet Life/04 In Vogue.mp3" -f
+mp3val "/moshpit/Music/Music/Japan/Quiet Life/02 Fall In Love With Me.mp3" -f
+mp3val "/moshpit/Music/Music/Japan/Quiet Life/05 Halloween.mp3" -f
+mp3val "/moshpit/Music/Music/Japan/Quiet Life/03 Despair.mp3" -f
+mp3val "/moshpit/Music/Music/Japan/Quiet Life/07 Alien.mp3" -f
+mp3val "/moshpit/Music/Music/Japan/Quiet Life/06 All Tomorrow's Parties.mp3" -f
+mp3val "/moshpit/Music/Music/Japan/Quiet Life/01 Quiet Life.mp3" -f
+mp3val "/moshpit/Music/Music/Japan/Quiet Life/08 The Other Side Of Life.mp3" -f
+mp3val "/moshpit/Music/Music/The Out Crowd/Then I Saw The Holy City/11 Bring Out Yer Dead.mp3" -f
+mp3val "/moshpit/Music/Music/The Out Crowd/Then I Saw The Holy City/08 All I Want.mp3" -f
+mp3val "/moshpit/Music/Music/The Out Crowd/Then I Saw The Holy City/03 Concentrate.mp3" -f
+mp3val "/moshpit/Music/Music/The Out Crowd/Then I Saw The Holy City/14 Eyes Of Blue.mp3" -f
+mp3val "/moshpit/Music/Music/The Out Crowd/Then I Saw The Holy City/09 Sports.mp3" -f
+mp3val "/moshpit/Music/Music/The Out Crowd/Then I Saw The Holy City/04 Drugsick.mp3" -f
+mp3val "/moshpit/Music/Music/The Out Crowd/Then I Saw The Holy City/06 If You're Cool.mp3" -f
+mp3val "/moshpit/Music/Music/The Out Crowd/Then I Saw The Holy City/12 Gets In The Way.mp3" -f
+mp3val "/moshpit/Music/Music/The Out Crowd/Then I Saw The Holy City/07 Instant Dharma.mp3" -f
+mp3val "/moshpit/Music/Music/The Out Crowd/Then I Saw The Holy City/02 Be Good.mp3" -f
+mp3val "/moshpit/Music/Music/The Out Crowd/Then I Saw The Holy City/13 Treaty Breaker.mp3" -f
+mp3val "/moshpit/Music/Music/The Out Crowd/Then I Saw The Holy City/05 Your Highness.mp3" -f
+mp3val "/moshpit/Music/Music/Scout Niblett/Kidnapped by Neptune/08 Good to Me.mp3" -f
+mp3val "/moshpit/Music/Music/Scout Niblett/Kidnapped by Neptune/09 Handsome.mp3" -f
+mp3val "/moshpit/Music/Music/Scout Niblett/Kidnapped by Neptune/13 Wolfie.mp3" -f
+mp3val "/moshpit/Music/Music/Scout Niblett/Kidnapped by Neptune/12 This City.mp3" -f
+mp3val "/moshpit/Music/Music/Scout Niblett/Kidnapped by Neptune/11 Newburyport.mp3" -f
+mp3val "/moshpit/Music/Music/Scout Niblett/Kidnapped by Neptune/06 Relax.mp3" -f
+mp3val "/moshpit/Music/Music/Scout Niblett/Kidnapped by Neptune/14 Drink to Me.mp3" -f
+mp3val "/moshpit/Music/Music/Scout Niblett/Kidnapped by Neptune/10 Safety Pants.mp3" -f
+mp3val "/moshpit/Music/Music/Scout Niblett/Kidnapped by Neptune/15 Where Are You?.mp3" -f
+mp3val "/moshpit/Music/Music/Scout Niblett/Kidnapped by Neptune/02 Kidnapped by Neptune.mp3" -f
+mp3val "/moshpit/Music/Music/Scout Niblett/Kidnapped by Neptune/04 Lullaby for Scout in 10 Years.mp3" -f
+mp3val "/moshpit/Music/Music/Scout Niblett/Kidnapped by Neptune/05 Fuck Treasure Island.mp3" -f
+mp3val "/moshpit/Music/Music/Scout Niblett/Kidnapped by Neptune/03 Pom Poms.mp3" -f
+mp3val "/moshpit/Music/Music/Scout Niblett/Kidnapped by Neptune/07 Valvoline.mp3" -f
+mp3val "/moshpit/Music/Music/Greenleaf/Agents of Ahriman/02 Treehorn.mp3" -f
+mp3val "/moshpit/Music/Music/Greenleaf/Agents of Ahriman/04 Black Tar.mp3" -f
+mp3val "/moshpit/Music/Music/Greenleaf/Agents of Ahriman/01 Highway Officer.mp3" -f
+mp3val "/moshpit/Music/Music/Greenleaf/Agents of Ahriman/03 Alishan Mountain.mp3" -f
+mp3val "/moshpit/Music/Music/Greenleaf/Agents of Ahriman/09 Stray Bullit Woman.mp3" -f
+mp3val "/moshpit/Music/Music/Greenleaf/Agents of Ahriman/05 The Lake.mp3" -f
+mp3val "/moshpit/Music/Music/Greenleaf/Agents of Ahriman/08 Sleep Paralysis.mp3" -f
+mp3val "/moshpit/Music/Music/Greenleaf/Agents of Ahriman/07 Ride Another Highway.mp3" -f
+mp3val "/moshpit/Music/Music/Greenleaf/Agents of Ahriman/06 Agents of Ahriman.mp3" -f
+mp3val "/moshpit/Music/Music/The Mystery of the Bulgarian Voices/BooCheeMish (Luxus)/04 Mani Yanni (feat. Lisa Gerrard).mp3" -f
+mp3val "/moshpit/Music/Music/The Mystery of the Bulgarian Voices/BooCheeMish (Luxus)/07 Unison (feat. Lisa Gerrard).mp3" -f
+mp3val "/moshpit/Music/Music/The Mystery of the Bulgarian Voices/BooCheeMish (Luxus)/11 Shandai Ya (feat. Lisa Gerrard).mp3" -f
+mp3val "/moshpit/Music/Music/The Mystery of the Bulgarian Voices/BooCheeMish (Luxus)/02 Pora Sotunda (feat. Lisa Gerrard).mp3" -f
+mp3val "/moshpit/Music/Music/Eliza Gilkyson/Redemption Road/05 Rose of Sharon.mp3" -f
+mp3val "/moshpit/Music/Music/John Frusciante/Inside Of Emptiness/05 Look On.mp3" -f
+mp3val "/moshpit/Music/Music/John Frusciante/Inside Of Emptiness/10 Scratches.mp3" -f
+mp3val "/moshpit/Music/Music/John Frusciante/Inside Of Emptiness/04 A Firm Kick.mp3" -f
+mp3val "/moshpit/Music/Music/John Frusciante/Inside Of Emptiness/08 666.mp3" -f
+mp3val "/moshpit/Music/Music/John Frusciante/Inside Of Emptiness/01 What I Saw.mp3" -f
+mp3val "/moshpit/Music/Music/John Frusciante/Inside Of Emptiness/07 I'm Around.mp3" -f
+mp3val "/moshpit/Music/Music/John Frusciante/To Record Only Water For Ten Days/12 Representing.mp3" -f
+mp3val "/moshpit/Music/Music/John Frusciante/To Record Only Water For Ten Days/05 Away & Anywhere.mp3" -f
+mp3val "/moshpit/Music/Music/John Frusciante/To Record Only Water For Ten Days/13 In Rime.mp3" -f
+mp3val "/moshpit/Music/Music/John Frusciante/To Record Only Water For Ten Days/07 Fallout.mp3" -f
+mp3val "/moshpit/Music/Music/John Frusciante/To Record Only Water For Ten Days/02 Someone's.mp3" -f
+mp3val "/moshpit/Music/Music/John Frusciante/To Record Only Water For Ten Days/06 Remain.mp3" -f
+mp3val "/moshpit/Music/Music/John Frusciante/To Record Only Water For Ten Days/01 Going Inside.mp3" -f
+mp3val "/moshpit/Music/Music/John Frusciante/To Record Only Water For Ten Days/11 Invisible Movement.mp3" -f
+mp3val "/moshpit/Music/Music/John Frusciante/To Record Only Water For Ten Days/08 Ramparts.mp3" -f
+mp3val "/moshpit/Music/Music/John Frusciante/To Record Only Water For Ten Days/04 Wind Up Space.mp3" -f
+mp3val "/moshpit/Music/Music/John Frusciante/To Record Only Water For Ten Days/14 Saturation.mp3" -f
+mp3val "/moshpit/Music/Music/John Frusciante/To Record Only Water For Ten Days/03 The First Season.mp3" -f
+mp3val "/moshpit/Music/Music/John Frusciante/To Record Only Water For Ten Days/09 With No One.mp3" -f
+mp3val "/moshpit/Music/Music/John Frusciante/The Will to Death/07 A Loop.mp3" -f
+mp3val "/moshpit/Music/Music/John Frusciante/The Will to Death/01 A Doubt.mp3" -f
+mp3val "/moshpit/Music/Music/John Frusciante/The Will to Death/02 An Exercise.mp3" -f
+mp3val "/moshpit/Music/Music/Beth Orton/Central Reservation/03 Couldn't Cause Me Harm.mp3" -f
+mp3val "/moshpit/Music/Music/Beth Orton/Central Reservation/02 Sweetest Decline.mp3" -f
+mp3val "/moshpit/Music/Music/Beth Orton/Central Reservation/11 Feel To Believe.mp3" -f
+mp3val "/moshpit/Music/Music/Beth Orton/Central Reservation/01 Stolen Car.mp3" -f
+mp3val "/moshpit/Music/Music/Beth Orton/Central Reservation/06 Central Reservation [Original Version].mp3" -f
+mp3val "/moshpit/Music/Music/Beth Orton/Central Reservation/04 So Much More.mp3" -f
+mp3val "/moshpit/Music/Music/Beth Orton/Central Reservation/09 Blood Red River.mp3" -f
+mp3val "/moshpit/Music/Music/Beth Orton/Central Reservation/07 Stars All Seem To Weep.mp3" -f
+mp3val "/moshpit/Music/Music/Beth Orton/Central Reservation/10 Devil Song.mp3" -f
+mp3val "/moshpit/Music/Music/Beth Orton/Central Reservation/08 Love Like Laughter.mp3" -f
+mp3val "/moshpit/Music/Music/Beth Orton/Central Reservation/05 Pass In Time.mp3" -f
+mp3val "/moshpit/Music/Music/Beth Orton/Central Reservation/12 Central Reservation [Ben Watt Mix].mp3" -f
+mp3val "/moshpit/Music/Music/Alice Coltrane/Journey in Satchidananda/03 Stopover Bombay.mp3" -f
+mp3val "/moshpit/Music/Music/Alice Coltrane/Journey in Satchidananda/01 Journey in Satchidananda.mp3" -f
+mp3val "/moshpit/Music/Music/Alice Coltrane/Journey in Satchidananda/04 Something About John Coltrane.mp3" -f
+mp3val "/moshpit/Music/Music/Alice Coltrane/Journey in Satchidananda/02 Shiva-Loka.mp3" -f
+mp3val "/moshpit/Music/Music/Alice Coltrane/Journey in Satchidananda/05 Isis and Osiris.mp3" -f
+mp3val "/moshpit/Music/Music/Ensemble of the Bulgarian Republic;Philip Koutev/Music of Bulgaria/02 Polegnala E Todora (Theodora Is Dozing).mp3" -f
+mp3val "/moshpit/Music/Music/Ensemble of the Bulgarian Republic;Philip Koutev/Music of Bulgaria/01 Retche Mama Da Me Jeni (Mother Has Decided To Marry Me Off).mp3" -f
+mp3val "/moshpit/Music/Music/Deep Purple/Deepest Purple - The Very Best of Deep Purple/07 Highway Star.mp3" -f
+mp3val "/moshpit/Music/Music/Deep Purple/Deepest Purple - The Very Best of Deep Purple/03 Fireball.mp3" -f
+mp3val "/moshpit/Music/Music/Deep Purple/Deepest Purple - The Very Best of Deep Purple/09 Burn.mp3" -f
+mp3val "/moshpit/Music/Music/Deep Purple/Deepest Purple - The Very Best of Deep Purple/10 Stormbringer.mp3" -f
+mp3val "/moshpit/Music/Music/Deep Purple/Deepest Purple - The Very Best of Deep Purple/08 Space Truckin'.mp3" -f
+mp3val "/moshpit/Music/Music/Deep Purple/Deepest Purple - The Very Best of Deep Purple/06 Woman from Tokyo.mp3" -f
+mp3val "/moshpit/Music/Music/Deep Purple/Deepest Purple - The Very Best of Deep Purple/11 Demons Eye.mp3" -f
+mp3val "/moshpit/Music/Music/Deep Purple/Deepest Purple - The Very Best of Deep Purple/01 Black Night.mp3" -f
+mp3val "/moshpit/Music/Music/Deep Purple/Deepest Purple - The Very Best of Deep Purple/112 Smoke on The Water.mp3" -f
+mp3val "/moshpit/Music/Music/Deep Purple/Deepest Purple - The Very Best of Deep Purple/05 Child in Time.mp3" -f
+mp3val "/moshpit/Music/Music/Deep Purple/Deepest Purple - The Very Best of Deep Purple/04 Strange Kind of Woman.mp3" -f
+mp3val "/moshpit/Music/Music/Deep Purple/Deepest Purple - The Very Best of Deep Purple/02 Speed King.mp3" -f
+mp3val "/moshpit/Music/Music/Black Rebel Motorcycle Club/Take Them On, On Your Own/Rise or Fall.mp3" -f
+mp3val "/moshpit/Music/Music/Siouxsie and the Banshees/Through the Looking Glass/1-07 The Passenger.mp3" -f
+mp3val "/moshpit/Music/Music/Siouxsie and the Banshees/Through the Looking Glass/1-08 Gun.mp3" -f
+mp3val "/moshpit/Music/Music/Siouxsie and the Banshees/Through the Looking Glass/1-03 Trust in Me.mp3" -f
+mp3val "/moshpit/Music/Music/Siouxsie and the Banshees/Through the Looking Glass/1-04 This Wheel's on Fire.mp3" -f
+mp3val "/moshpit/Music/Music/Siouxsie and the Banshees/Through the Looking Glass/1-02 Hall of Mirrors.mp3" -f
+mp3val "/moshpit/Music/Music/Siouxsie and the Banshees/Through the Looking Glass/1-10 Little Johnny Jewel.mp3" -f
+mp3val "/moshpit/Music/Music/Siouxsie and the Banshees/Through the Looking Glass/1-01 This Town Ain't Big Enough for the Both of Us.mp3" -f
+mp3val "/moshpit/Music/Music/Siouxsie and the Banshees/Through the Looking Glass/1-05 Strange Fruit.mp3" -f
+mp3val "/moshpit/Music/Music/Siouxsie and the Banshees/Through the Looking Glass/1-06 You're Lost Little Girl.mp3" -f
+mp3val "/moshpit/Music/Music/Siouxsie and the Banshees/Through the Looking Glass/1-09 Sea Breezes.mp3" -f
+mp3val "/moshpit/Music/Music/The Limiñanas/Costa Blanca/12 La Mediterranée.mp3" -f
+mp3val "/moshpit/Music/Music/The Limiñanas/Costa Blanca/01 Je me souviens comme si j'y étais.mp3" -f
+mp3val "/moshpit/Music/Music/The Limiñanas/Costa Blanca/11 La mélancolie.mp3" -f
+mp3val "/moshpit/Music/Music/The Limiñanas/Costa Blanca/04 Votre coté yéyé m'emmerde.mp3" -f
+mp3val "/moshpit/Music/Music/The Limiñanas/Costa Blanca/06 i miei occhi sono i tuoi occhi.mp3" -f
+mp3val "/moshpit/Music/Music/The Limiñanas/Costa Blanca/08 BB.mp3" -f
+mp3val "/moshpit/Music/Music/The Limiñanas/Costa Blanca/03 Alicante.mp3" -f
+mp3val "/moshpit/Music/Music/The Limiñanas/Costa Blanca/02 My black Sabbath.mp3" -f
+mp3val "/moshpit/Music/Music/The Limiñanas/Costa Blanca/07 La Mercedes de couleur gris métallisé.mp3" -f
+mp3val "/moshpit/Music/Music/The Limiñanas/Costa Blanca/13 Liverpool (Album version feat. MU).mp3" -f
+mp3val "/moshpit/Music/Music/The Limiñanas/Costa Blanca/10 Rosas.mp3" -f
+mp3val "/moshpit/Music/Music/The Limiñanas/Costa Blanca/05 Cold Was The Ground.mp3" -f
+mp3val "/moshpit/Music/Music/The Limiñanas/Electrified (Best-of 2009 - 2022)/09 Domino.mp3" -f
+mp3val "/moshpit/Music/Music/The Stevenson Ranch Davidians/Psalms, Hymns, & Spiritual Songs/04 Nothing Cliche.mp3" -f
+mp3val "/moshpit/Music/Music/Wo Fat/Psychedelonaut/04 El Culto De la Avaricia.mp3" -f
+mp3val "/moshpit/Music/Music/Wo Fat/Psychedelonaut/09 The Spheres Beyond.mp3" -f
+mp3val "/moshpit/Music/Music/Wo Fat/Psychedelonaut/02 Enter The Riffian.mp3" -f
+mp3val "/moshpit/Music/Music/Wo Fat/Psychedelonaut/08 Not Of This Earth.mp3" -f
+mp3val "/moshpit/Music/Music/Wo Fat/Psychedelonaut/07 Shake 'em On Down.mp3" -f
+mp3val "/moshpit/Music/Music/Wo Fat/Psychedelonaut/06 The Slow Blade.mp3" -f
+mp3val "/moshpit/Music/Music/Wo Fat/Psychedelonaut/05 Two The Hard Way.mp3" -f
+mp3val "/moshpit/Music/Music/Wo Fat/Psychedelonaut/01 Psychedelonaut.mp3" -f
+mp3val "/moshpit/Music/Music/Wo Fat/Psychedelonaut/03 Analog Man.mp3" -f
+mp3val "/moshpit/Music/Music/The Company Band/The Company Band/02 It's a Confusing World.mp3" -f
+mp3val "/moshpit/Music/Music/The Company Band/The Company Band/10 Lethe Waters.mp3" -f
+mp3val "/moshpit/Music/Music/The Company Band/The Company Band/01 Zombie Barricades.mp3" -f
+mp3val "/moshpit/Music/Music/The Company Band/The Company Band/09 Love Means Never Having To Say You're Ugly.mp3" -f
+mp3val "/moshpit/Music/Music/The Company Band/The Company Band/06 All's Well in Milton Keynes.mp3" -f
+mp3val "/moshpit/Music/Music/The Company Band/The Company Band/04 Inline Six.mp3" -f
+mp3val "/moshpit/Music/Music/The Company Band/The Company Band/08 CD&W.mp3" -f
+mp3val "/moshpit/Music/Music/The Company Band/The Company Band/05 Hot Topic Woman.mp3" -f
+mp3val "/moshpit/Music/Music/The Company Band/The Company Band/03 Djinn and Pentatonic.mp3" -f
+mp3val "/moshpit/Music/Music/The Company Band/The Company Band/07 Who Else But Us_.mp3" -f
+mp3val "/moshpit/Music/Music/The Herbaliser/Take London/11 If You Close Your Eyes (feat. Jean Grae).mp3" -f
+mp3val "/moshpit/Music/Music/The Herbaliser/Take London/15 8 Men Strong.mp3" -f
+mp3val "/moshpit/Music/Music/The Herbaliser/Take London/10 Geddim'!!.mp3" -f
+mp3val "/moshpit/Music/Music/The Herbaliser/Take London/16 Serge (feat. Katerine).mp3" -f
+mp3val "/moshpit/Music/Music/The Herbaliser/Take London/13 Twice Around (feat. Jean Grae).mp3" -f
+mp3val "/moshpit/Music/Music/The Herbaliser/Take London/12 Sonofanothamutha.mp3" -f
+mp3val "/moshpit/Music/Music/The Herbaliser/Take London/14 I Know a Bloke (interlude).mp3" -f
+mp3val "/moshpit/Music/Music/Neil Young/After the Gold Rush/01 Tell Me Why.mp3" -f
+mp3val "/moshpit/Music/Music/Neil Young/After the Gold Rush/04 Southern Man.mp3" -f
+mp3val "/moshpit/Music/Music/Neil Young/After the Gold Rush/03 Only Love Can Break Your Heart.mp3" -f
+mp3val "/moshpit/Music/Music/Neil Young/After the Gold Rush/05 Till the Morning Comes.mp3" -f
+mp3val "/moshpit/Music/Music/Neil Young/After the Gold Rush/07 Don't Let It Bring You Down.mp3" -f
+mp3val "/moshpit/Music/Music/Neil Young/After the Gold Rush/09 When You Dance I Can Really Love.mp3" -f
+mp3val "/moshpit/Music/Music/Neil Young/After the Gold Rush/08 Birds.mp3" -f
+mp3val "/moshpit/Music/Music/Neil Young/After the Gold Rush/10 I Believe in You.mp3" -f
+mp3val "/moshpit/Music/Music/Neil Young/After the Gold Rush/11 Cripple Creek Ferry.mp3" -f
+mp3val "/moshpit/Music/Music/Neil Young/After the Gold Rush/02 After the Gold Rush.mp3" -f
+mp3val "/moshpit/Music/Music/Neil Young/After the Gold Rush/06 Oh, Lonesome Me.mp3" -f
+mp3val "/moshpit/Music/Music/The Prodigy/Music For The Jilted Generation/03 their law (feat. pop will eat itself}.mp3" -f
+mp3val "/moshpit/Music/Music/The Prodigy/Music For The Jilted Generation/08 poison.mp3" -f
+mp3val "/moshpit/Music/Music/The Prodigy/Music For The Jilted Generation/12 skylined.mp3" -f
+mp3val "/moshpit/Music/Music/The Prodigy/Music For The Jilted Generation/07 the heat (the energy).mp3" -f
+mp3val "/moshpit/Music/Music/The Prodigy/Music For The Jilted Generation/11 3 kilos.mp3" -f
+mp3val "/moshpit/Music/Music/The Prodigy/Music For The Jilted Generation/10 one love (edit).mp3" -f
+mp3val "/moshpit/Music/Music/The Prodigy/Music For The Jilted Generation/06 speedway (theme from fastlane).mp3" -f
+mp3val "/moshpit/Music/Music/The Prodigy/Music For The Jilted Generation/04 full throttle.mp3" -f
+mp3val "/moshpit/Music/Music/The Prodigy/Music For The Jilted Generation/09 no good (start the dance).mp3" -f
+mp3val "/moshpit/Music/Music/The Prodigy/Music For The Jilted Generation/01 intro.mp3" -f
+mp3val "/moshpit/Music/Music/The Prodigy/Music For The Jilted Generation/13 ckaustrophobic sting.mp3" -f
+mp3val "/moshpit/Music/Music/The Prodigy/Music For The Jilted Generation/05 voodoo people.mp3" -f
+mp3val "/moshpit/Music/Music/The Prodigy/Music For The Jilted Generation/02 break & enter.mp3" -f
+mp3val "/moshpit/Music/Music/The Prodigy/The Fat of The Land/05 serila thrilla.mp3" -f
+mp3val "/moshpit/Music/Music/The Prodigy/The Fat of The Land/08 firestarter.mp3" -f
+mp3val "/moshpit/Music/Music/The Prodigy/The Fat of The Land/07 narayan.mp3" -f
+mp3val "/moshpit/Music/Music/The Prodigy/The Fat of The Land/02 breathe.mp3" -f
+mp3val "/moshpit/Music/Music/The Prodigy/The Fat of The Land/09 climbatize.mp3" -f
+mp3val "/moshpit/Music/Music/The Prodigy/The Fat of The Land/03 diesel power.mp3" -f
+mp3val "/moshpit/Music/Music/The Prodigy/The Fat of The Land/06 mindfields.mp3" -f
+mp3val "/moshpit/Music/Music/The Prodigy/The Fat of The Land/10 fuel my fire.mp3" -f
+mp3val "/moshpit/Music/Music/The Prodigy/The Fat of The Land/04 funky shit.mp3" -f
+mp3val "/moshpit/Music/Music/The Prodigy/The Fat of The Land/01 smack my bitch up.mp3" -f
+mp3val "/moshpit/Music/Music/Boo-Yaa T.R.I.B.E_/West Koasta Nostra/03 State Of Emergency (feat. Knoc-Turn'al & Oyster Boy 8 King Lu).mp3" -f
+mp3val "/moshpit/Music/Music/Boo-Yaa T.R.I.B.E_/West Koasta Nostra/12 Beautiful Thang (feat. Baby-Down).mp3" -f
+mp3val "/moshpit/Music/Music/Boo-Yaa T.R.I.B.E_/West Koasta Nostra/02 On Me (feat. Kurupt).mp3" -f
+mp3val "/moshpit/Music/Music/Boo-Yaa T.R.I.B.E_/West Koasta Nostra/05 Zodiak Kreep (feat. Gail Gotti).mp3" -f
+mp3val "/moshpit/Music/Music/Boo-Yaa T.R.I.B.E_/West Koasta Nostra/08 'N Full Motion (feat. WC).mp3" -f
+mp3val "/moshpit/Music/Music/Boo-Yaa T.R.I.B.E_/West Koasta Nostra/10 Carson City (feat. Fiji).mp3" -f
+mp3val "/moshpit/Music/Music/Boo-Yaa T.R.I.B.E_/West Koasta Nostra/01 Bang On (feat. Mack 10).mp3" -f
+mp3val "/moshpit/Music/Music/Boo-Yaa T.R.I.B.E_/West Koasta Nostra/04 911 (feat. Eminem & B-Real).mp3" -f
+mp3val "/moshpit/Music/Music/Boo-Yaa T.R.I.B.E_/West Koasta Nostra/07 Tha Kalling (feat. Murder One).mp3" -f
+mp3val "/moshpit/Music/Music/Boo-Yaa T.R.I.B.E_/West Koasta Nostra/06 Heated (feat. Short Khop).mp3" -f
+mp3val "/moshpit/Music/Music/Boo-Yaa T.R.I.B.E_/West Koasta Nostra/11 Take Yo Fade (feat. Crooked I, Eastwood & Kokane).mp3" -f
+mp3val "/moshpit/Music/Music/Boo-Yaa T.R.I.B.E_/West Koasta Nostra/09 Legends.mp3" -f
+mp3val "/moshpit/Music/Music/The Cure/Pornography/06 A Strange Day.mp3" -f
+mp3val "/moshpit/Music/Music/The Cure/Pornography/01 One Hundred Years.mp3" -f
+mp3val "/moshpit/Music/Music/The Cure/Pornography/05 The Figurehead.mp3" -f
+mp3val "/moshpit/Music/Music/The Cure/Pornography/07 Cold.mp3" -f
+mp3val "/moshpit/Music/Music/The Cure/Pornography/04 Siamese Twins.mp3" -f
+mp3val "/moshpit/Music/Music/The Cure/Pornography/08 Pornography.mp3" -f
+mp3val "/moshpit/Music/Music/The Cure/Pornography/03 The Hanging Garden.mp3" -f
+mp3val "/moshpit/Music/Music/The Cure/Pornography/02 A Short Term Effect.mp3" -f
+mp3val "/moshpit/Music/Music/Valerie June/Pushin' Against A Stone/11 On My Way.mp3" -f
+mp3val "/moshpit/Music/Music/Valerie June/Pushin' Against A Stone/04 Twined & Twisted.mp3" -f
+mp3val "/moshpit/Music/Music/Valerie June/Pushin' Against A Stone/10 Shotgun.mp3" -f
+mp3val "/moshpit/Music/Music/Valerie June/Pushin' Against A Stone/09 You Can't Be Told.mp3" -f
+mp3val "/moshpit/Music/Music/Valerie June/Pushin' Against A Stone/08 Trials, Troubles, Tribulations.mp3" -f
+mp3val "/moshpit/Music/Music/Valerie June/Under Cover/07 Tonight I_ll Be Staying Here With You.mp3" -f
+mp3val "/moshpit/Music/Music/Valerie June/Under Cover/05 Imagine.mp3" -f
+mp3val "/moshpit/Music/Music/Valerie June/Under Cover/08 Into My Arms.mp3" -f
+mp3val "/moshpit/Music/Music/Valerie June/Under Cover/02 Fade Into You.mp3" -f
+mp3val "/moshpit/Music/Music/Valerie June/Under Cover/06 Don_t It Make You Want to Go Home.mp3" -f
+mp3val "/moshpit/Music/Music/Valerie June/Under Cover/04 Godspeed.mp3" -f
+mp3val "/moshpit/Music/Music/Valerie June/Under Cover/03 Look at Miss Ohio.mp3" -f
+mp3val "/moshpit/Music/Music/Valerie June/Under Cover/01 Pink Moon.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/Spleen and Ideal/07 Advent.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/Spleen and Ideal/03 Circumradiant Dawn.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/Spleen and Ideal/08 Avatar.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/Spleen and Ideal/2-04 Indoctrination (A Design for Living).mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/Spleen and Ideal/05 Mesmerism.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/Spleen and Ideal/01 De Profundis (Out of the Depths of Sorrow).mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/Spleen and Ideal/06 Enigma of the Absolute.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/Spleen and Ideal/02 Ascension.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/Spleen and Ideal/04 The Cardinal Sin.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/Into the Labyrinth/09 The Spider's Stratagem.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/Into the Labyrinth/06 Saldek.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/Into the Labyrinth/07 Towards the Within.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/Into the Labyrinth/04 The Carnival Is Over.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/Into the Labyrinth/11 How Fortunate the Man With None.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/Into the Labyrinth/02 The Ubiquitous Mr. Lovegrove.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/Into the Labyrinth/10 Emmeleia.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/Into the Labyrinth/03 The Wind That Shakes the Barley.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/Into the Labyrinth/08 Tell Me About the Forest (You Once Called Home).mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/Into the Labyrinth/01 Yulunga [Spirit Dance].mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/Into the Labyrinth/05 Ariadne.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/Within the Realm of a Dying Sun/01 Anywhere Out of the World.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/Within the Realm of a Dying Sun/06 Cantara.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/Within the Realm of a Dying Sun/04 Xavier.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/Within the Realm of a Dying Sun/08 Persephone (The Gathering of Flowers).mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/Within the Realm of a Dying Sun/02 Windfall.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/Within the Realm of a Dying Sun/03 In the Wake of Adversity.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/Within the Realm of a Dying Sun/05 Dawn of the Iconoclast.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/Within the Realm of a Dying Sun/07 Summoning of the Muse.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/The Serpent's Egg/07 Song of Sophia.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/The Serpent's Egg/05 In the Kingdom of the Blind the One-Eyed Are Kings.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/The Serpent's Egg/03 Severance.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/The Serpent's Egg/06 Chant of the Paladin.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/The Serpent's Egg/02 Orbis de ignis.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/The Serpent's Egg/04 The Writing on My Father's Hand.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/The Serpent's Egg/09 Mother Tongue.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/The Serpent's Egg/08 Echolalia.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/The Serpent's Egg/01 The Host of Seraphim.mp3" -f
+mp3val "/moshpit/Music/Music/Dead Can Dance/The Serpent's Egg/10 Ullyses.mp3" -f
+mp3val "/moshpit/Music/Music/The Record Company/Give It Back To You/09 This Crooked City.mp3" -f
+mp3val "/moshpit/Music/Music/The Record Company/Give It Back To You/06 Feels So Good.mp3" -f
+mp3val "/moshpit/Music/Music/The Record Company/Give It Back To You/04 On The Move.mp3" -f
+mp3val "/moshpit/Music/Music/The Record Company/Give It Back To You/10 In The Mood For You.mp3" -f
+mp3val "/moshpit/Music/Music/The Record Company/Give It Back To You/02 Don't Let Me Get Lonely.mp3" -f
+mp3val "/moshpit/Music/Music/The Record Company/Give It Back To You/03 Rita Mae Young.mp3" -f
+mp3val "/moshpit/Music/Music/The Record Company/Give It Back To You/08 Give It Back To You.mp3" -f
+mp3val "/moshpit/Music/Music/The Record Company/Give It Back To You/07 Turn Me Loose.mp3" -f
+mp3val "/moshpit/Music/Music/The Record Company/Give It Back To You/05 Hard Day Coming Down.mp3" -f
+mp3val "/moshpit/Music/Music/The Record Company/Give It Back To You/01 Off The Ground.mp3" -f
+mp3val "/moshpit/Music/Music/Can/Delay 1968/07 Little Star Of Bethlehem.mp3" -f
+mp3val "/moshpit/Music/Music/Can/Delay 1968/02 Pnoom.mp3" -f
+mp3val "/moshpit/Music/Music/Can/Delay 1968/06 Uphill.mp3" -f
+mp3val "/moshpit/Music/Music/Can/Delay 1968/05 Man Named Joe.mp3" -f
+mp3val "/moshpit/Music/Music/Can/Delay 1968/03 Nineteen Century Man.mp3" -f
+mp3val "/moshpit/Music/Music/Can/Delay 1968/04 Thief.mp3" -f
+mp3val "/moshpit/Music/Music/Can/Tago Mago/07 Bring Me Coffee Or Tea.mp3" -f
+mp3val "/moshpit/Music/Music/Can/Tago Mago/01 Paperhouse.mp3" -f
+mp3val "/moshpit/Music/Music/Can/Tago Mago/02 Mushroom.mp3" -f
+mp3val "/moshpit/Music/Music/Can/Tago Mago/03 Oh Yeah.mp3" -f
+mp3val "/moshpit/Music/Music/Pet Shop Boys/Discography (The Complete Singles Collection)/10 Domino dancing.mp3" -f
+mp3val "/moshpit/Music/Music/Pet Shop Boys/Discography (The Complete Singles Collection)/04 Suburbia.mp3" -f
+mp3val "/moshpit/Music/Music/Pet Shop Boys/Discography (The Complete Singles Collection)/03 Opportunities (let's make lots of money).mp3" -f
+mp3val "/moshpit/Music/Music/Pet Shop Boys/Discography (The Complete Singles Collection)/01 West end girls.mp3" -f
+mp3val "/moshpit/Music/Music/Pet Shop Boys/Discography (The Complete Singles Collection)/13 So hard.mp3" -f
+mp3val "/moshpit/Music/Music/Pet Shop Boys/Discography (The Complete Singles Collection)/15 Where the streets have no name (I can't take my eyes off you).mp3" -f
+mp3val "/moshpit/Music/Music/Pet Shop Boys/Discography (The Complete Singles Collection)/16 Jealousy.mp3" -f
+mp3val "/moshpit/Music/Music/Pet Shop Boys/Discography (The Complete Singles Collection)/11 Left to my own devices.mp3" -f
+mp3val "/moshpit/Music/Music/Pet Shop Boys/Discography (The Complete Singles Collection)/05 It's a sin.mp3" -f
+mp3val "/moshpit/Music/Music/Pet Shop Boys/Discography (The Complete Singles Collection)/12 It's alright.mp3" -f
+mp3val "/moshpit/Music/Music/Pet Shop Boys/Discography (The Complete Singles Collection)/08 Always on my mind.mp3" -f
+mp3val "/moshpit/Music/Music/Pet Shop Boys/Discography (The Complete Singles Collection)/06 What have I done to deserve this?.mp3" -f
+mp3val "/moshpit/Music/Music/Pet Shop Boys/Discography (The Complete Singles Collection)/02 Love comes quickly.mp3" -f
+mp3val "/moshpit/Music/Music/Pet Shop Boys/Discography (The Complete Singles Collection)/17 DJ culture.mp3" -f
+mp3val "/moshpit/Music/Music/Pet Shop Boys/Discography (The Complete Singles Collection)/18 Was it worth it?.mp3" -f
+mp3val "/moshpit/Music/Music/Pet Shop Boys/Discography (The Complete Singles Collection)/09 Heart.mp3" -f
+mp3val "/moshpit/Music/Music/Pet Shop Boys/Discography (The Complete Singles Collection)/14 Being boring.mp3" -f
+mp3val "/moshpit/Music/Music/Pet Shop Boys/Discography (The Complete Singles Collection)/07 Rent.mp3" -f
+mp3val "/moshpit/Music/Music/Black Moth Super Rainbow/Dandelion Gum/04 Lollipopsichord.mp3" -f
+mp3val "/moshpit/Music/Music/Black Moth Super Rainbow/Dandelion Gum/08 Neon Syrup for the Cemetery Sisters.mp3" -f
+mp3val "/moshpit/Music/Music/Black Moth Super Rainbow/Dandelion Gum/03 Melt Me.mp3" -f
+mp3val "/moshpit/Music/Music/Black Moth Super Rainbow/Dandelion Gum/13 Lost, Picking Flowers in the Woods.mp3" -f
+mp3val "/moshpit/Music/Music/Black Moth Super Rainbow/Dandelion Gum/09 The Afternoon Turns Pink.mp3" -f
+mp3val "/moshpit/Music/Music/Black Moth Super Rainbow/Dandelion Gum/14 Caterpillar House.mp3" -f
+mp3val "/moshpit/Music/Music/Black Moth Super Rainbow/Dandelion Gum/11 Spinning Cotton Candy in a Shack Made of Shingles.mp3" -f
+mp3val "/moshpit/Music/Music/Black Moth Super Rainbow/Dandelion Gum/17 Untitled.mp3" -f
+mp3val "/moshpit/Music/Music/Black Moth Super Rainbow/Dandelion Gum/02 Jump into My Mouth and Breathe the Stardust.mp3" -f
+mp3val "/moshpit/Music/Music/Black Moth Super Rainbow/Dandelion Gum/15 Wall of Gum.mp3" -f
+mp3val "/moshpit/Music/Music/Black Moth Super Rainbow/Dandelion Gum/10 When the Sun Grows on Your Tongue.mp3" -f
+mp3val "/moshpit/Music/Music/Black Moth Super Rainbow/Dandelion Gum/07 Rollerdisco.mp3" -f
+mp3val "/moshpit/Music/Music/Black Moth Super Rainbow/Dandelion Gum/06 Sun Lips.mp3" -f
+mp3val "/moshpit/Music/Music/Black Moth Super Rainbow/Dandelion Gum/01 Forever Heavy.mp3" -f
+mp3val "/moshpit/Music/Music/Black Moth Super Rainbow/Dandelion Gum/05 They Live in the Meadow.mp3" -f
+mp3val "/moshpit/Music/Music/Black Moth Super Rainbow/Dandelion Gum/12 Drippy Eye.mp3" -f
+mp3val "/moshpit/Music/Music/Black Moth Super Rainbow/Dandelion Gum/16 Untitled Roadside Demo.mp3" -f
+mp3val "/moshpit/Music/Music/David Holmes/This Film's Crap Lets Slash The Seats/05 05 - Gone.mp3" -f
+mp3val "/moshpit/Music/Music/David Holmes/This Film's Crap Lets Slash The Seats/07 07 - Minus 61 In Detroit.mp3" -f
+mp3val "/moshpit/Music/Music/David Holmes/This Film's Crap Lets Slash The Seats/04 04 - Got Fucked Up Along The Way.mp3" -f
+mp3val "/moshpit/Music/Music/David Holmes/This Film's Crap Lets Slash The Seats/02 02 - Slash The Seats.mp3" -f
+mp3val "/moshpit/Music/Music/David Holmes/This Film's Crap Lets Slash The Seats/09 09 - Coming Home To The Sun.mp3" -f
+mp3val "/moshpit/Music/Music/David Holmes/This Film's Crap Lets Slash The Seats/08 08 - Inspired By Leyburn.mp3" -f
+mp3val "/moshpit/Music/Music/David Holmes/This Film's Crap Lets Slash The Seats/03 03 - Shake Ya Brain.mp3" -f
+mp3val "/moshpit/Music/Music/David Holmes/This Film's Crap Lets Slash The Seats/01 01 - No Mans Land.mp3" -f
+mp3val "/moshpit/Music/Music/David Holmes/This Film's Crap Lets Slash The Seats/06 06 - The Atom And You.mp3" -f
+mp3val "/moshpit/Music/Music/David Holmes/Let's Get Killed/04 Gritty Shaker.mp3" -f
+mp3val "/moshpit/Music/Music/David Holmes/Let's Get Killed/02 My Mate Paul.mp3" -f
+mp3val "/moshpit/Music/Music/David Holmes/Let's Get Killed/08 The Parcus & Madder Show.mp3" -f
+mp3val "/moshpit/Music/Music/David Holmes/Let's Get Killed/01 Listen.mp3" -f
+mp3val "/moshpit/Music/Music/David Holmes/Let's Get Killed/13 For You.mp3" -f
+mp3val "/moshpit/Music/Music/David Holmes/Let's Get Killed/10 Freaknik.mp3" -f
+mp3val "/moshpit/Music/Music/David Holmes/Let's Get Killed/12 Don't Die Just Yet.mp3" -f
+mp3val "/moshpit/Music/Music/David Holmes/Let's Get Killed/06 Rodney Yates.mp3" -f
+mp3val "/moshpit/Music/Music/David Holmes/Let's Get Killed/11 Caddell Returns.mp3" -f
+mp3val "/moshpit/Music/Music/David Holmes/Let's Get Killed/07 Radio 7.mp3" -f
+mp3val "/moshpit/Music/Music/David Holmes/Let's Get Killed/03 Lets Get Killed.mp3" -f
+mp3val "/moshpit/Music/Music/David Holmes/Let's Get Killed/09 Slashers Revenge.mp3" -f
+mp3val "/moshpit/Music/Music/David Holmes/Let's Get Killed/05 Head Rush On Lafayette.mp3" -f
+mp3val "/moshpit/Music/Music/Birds of Chicago/Real Midnight/11 Pelicans.mp3" -f
+mp3val "/moshpit/Music/Music/Emily Jane White/Immanent Fire/07 Shroud.mp3" -f
+mp3val "/moshpit/Music/Music/Emily Jane White/Immanent Fire/03 Infernal.mp3" -f
+mp3val "/moshpit/Music/Music/Emily Jane White/Immanent Fire/02 Drowned.mp3" -f
+mp3val "/moshpit/Music/Music/Emily Jane White/Immanent Fire/01 Surrender.mp3" -f
+mp3val "/moshpit/Music/Music/Emily Jane White/Immanent Fire/08 Entity.mp3" -f
+mp3val "/moshpit/Music/Music/Emily Jane White/Immanent Fire/10 The Gates At The End.mp3" -f
+mp3val "/moshpit/Music/Music/Emily Jane White/Immanent Fire/06 Dew.mp3" -f
+mp3val "/moshpit/Music/Music/Emily Jane White/Immanent Fire/04 Washed Away.mp3" -f
+mp3val "/moshpit/Music/Music/Emily Jane White/Immanent Fire/05 Metamorphosis.mp3" -f
+mp3val "/moshpit/Music/Music/Emily Jane White/Immanent Fire/09 Light.mp3" -f
+mp3val "/moshpit/Music/Music/PJ Harvey/Stories from the City, Stories from the Sea/05 Beautiful Feeling.mp3" -f
+mp3val "/moshpit/Music/Music/PJ Harvey/Stories from the City, Stories from the Sea/04 One Line.mp3" -f
+mp3val "/moshpit/Music/Music/PJ Harvey/Stories from the City, Stories from the Sea/07 This Mess We_re In.mp3" -f
+mp3val "/moshpit/Music/Music/PJ Harvey/Stories from the City, Stories from the Sea/01 Big Exit.mp3" -f
+mp3val "/moshpit/Music/Music/PJ Harvey/Stories from the City, Stories from the Sea/08 You Said Something.mp3" -f
+mp3val "/moshpit/Music/Music/PJ Harvey/Stories from the City, Stories from the Sea/06 The Whores Hustle and the Hustlers Whore.mp3" -f
+mp3val "/moshpit/Music/Music/PJ Harvey/Stories from the City, Stories from the Sea/03 A Place Called Home.mp3" -f
+mp3val "/moshpit/Music/Music/PJ Harvey/Stories from the City, Stories from the Sea/11 Horses in My Dreams.mp3" -f
+mp3val "/moshpit/Music/Music/PJ Harvey/Stories from the City, Stories from the Sea/09 Kamikaze.mp3" -f
+mp3val "/moshpit/Music/Music/PJ Harvey/Stories from the City, Stories from the Sea/02 Good Fortune.mp3" -f
+mp3val "/moshpit/Music/Music/PJ Harvey/Stories from the City, Stories from the Sea/12 We Float.mp3" -f
+mp3val "/moshpit/Music/Music/PJ Harvey/To Bring You My Love/02 Meet ze Monsta.mp3" -f
+mp3val "/moshpit/Music/Music/PJ Harvey/To Bring You My Love/04 C'mon Billy.mp3" -f
+mp3val "/moshpit/Music/Music/PJ Harvey/To Bring You My Love/03 Working for the Man.mp3" -f
+mp3val "/moshpit/Music/Music/PJ Harvey/To Bring You My Love/06 Long Snake Moan.mp3" -f
+mp3val "/moshpit/Music/Music/PJ Harvey/To Bring You My Love/01 To Bring You My Love.mp3" -f
+mp3val "/moshpit/Music/Music/PJ Harvey/To Bring You My Love/08 I Think I'm a Mother.mp3" -f
+mp3val "/moshpit/Music/Music/PJ Harvey/To Bring You My Love/07 Down by the Water.mp3" -f
+mp3val "/moshpit/Music/Music/PJ Harvey/To Bring You My Love/09 Send His Love to Me.mp3" -f
+mp3val "/moshpit/Music/Music/PJ Harvey/To Bring You My Love/05 Teclo.mp3" -f
+mp3val "/moshpit/Music/Music/PJ Harvey/To Bring You My Love/10 The Dancer.mp3" -f
+mp3val "/moshpit/Music/Music/Link Wray/Rumble! The Best of Link Wray/18 Climbing a High Wall.mp3" -f
+mp3val "/moshpit/Music/Music/Link Wray/Rumble! The Best of Link Wray/01 Rumble.mp3" -f
+mp3val "/moshpit/Music/Music/Link Wray/Rumble! The Best of Link Wray/19 Switchblade.mp3" -f
+mp3val "/moshpit/Music/Music/Link Wray/Rumble! The Best of Link Wray/17 Hidden Charms.mp3" -f
+mp3val "/moshpit/Music/Music/Link Wray/Rumble! The Best of Link Wray/15 I'm Branded.mp3" -f
+mp3val "/moshpit/Music/Music/Link Wray/Rumble! The Best of Link Wray/05 Ramble.mp3" -f
+mp3val "/moshpit/Music/Music/Link Wray/Rumble! The Best of Link Wray/04 Dixie-Doodle.mp3" -f
+mp3val "/moshpit/Music/Music/Link Wray/Rumble! The Best of Link Wray/06 Ain't That Lovin' You Babe.mp3" -f
+mp3val "/moshpit/Music/Music/Link Wray/Rumble! The Best of Link Wray/14 Ace of Spades.mp3" -f
+mp3val "/moshpit/Music/Music/Link Wray/Rumble! The Best of Link Wray/02 The Swag.mp3" -f
+mp3val "/moshpit/Music/Music/Link Wray/Rumble! The Best of Link Wray/20 Jack the Ripper [live].mp3" -f
+mp3val "/moshpit/Music/Music/Link Wray/Rumble! The Best of Link Wray/12 Deuces Wild.mp3" -f
+mp3val "/moshpit/Music/Music/Link Wray/Rumble! The Best of Link Wray/03 Raw-Hide.mp3" -f
+mp3val "/moshpit/Music/Music/Link Wray/Rumble! The Best of Link Wray/09 Big City After Dark.mp3" -f
+mp3val "/moshpit/Music/Music/Link Wray/Rumble! The Best of Link Wray/08 The Black Widow.mp3" -f
+mp3val "/moshpit/Music/Music/Link Wray/Rumble! The Best of Link Wray/07 Jack the Ripper.mp3" -f
+mp3val "/moshpit/Music/Music/Link Wray/Rumble! The Best of Link Wray/11 The Shadow Knows.mp3" -f
+mp3val "/moshpit/Music/Music/Link Wray/Rumble! The Best of Link Wray/13 Hang On.mp3" -f
+mp3val "/moshpit/Music/Music/Link Wray/Rumble! The Best of Link Wray/16 Batman Theme.mp3" -f
+mp3val "/moshpit/Music/Music/Link Wray/Rumble! The Best of Link Wray/10 Run Chicken Run.mp3" -f
+mp3val "/moshpit/Music/Music/Tomás Luis de Victoria/Officium Defunctorum/1-08 Sanctus - Benedictus.mp3" -f
+mp3val "/moshpit/Music/Music/Tomás Luis de Victoria/Officium Defunctorum/1-06 Graduale - Requiem aeternam.mp3" -f
+mp3val "/moshpit/Music/Music/Tomás Luis de Victoria/Officium Defunctorum/1-03 Benedictus Dominus Deus Israel.mp3" -f
+mp3val "/moshpit/Music/Music/Tomás Luis de Victoria/Officium Defunctorum/1-05 Kyrie eleison.mp3" -f
+mp3val "/moshpit/Music/Music/Tomás Luis de Victoria/Officium Defunctorum/1-11 Motectum - Versa est in luctum.mp3" -f
+mp3val "/moshpit/Music/Music/Tomás Luis de Victoria/Officium Defunctorum/1-07 Offertorium - Domine Iesu Christe.mp3" -f
+mp3val "/moshpit/Music/Music/Tomás Luis de Victoria/Officium Defunctorum/1-10 Communio - Lux aeterna.mp3" -f
+mp3val "/moshpit/Music/Music/Tomás Luis de Victoria/Officium Defunctorum/1-02 Ego sum resurrectio.mp3" -f
+mp3val "/moshpit/Music/Music/Tomás Luis de Victoria/Officium Defunctorum/1-09 Agnus Dei.mp3" -f
+mp3val "/moshpit/Music/Music/Tomás Luis de Victoria/Officium Defunctorum/1-01 Taedet animam meam.mp3" -f
+mp3val "/moshpit/Music/Music/Tomás Luis de Victoria/Officium Defunctorum/1-12 Absolutio - Libera me.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Amores Perros/11 11 - Long Cool Woman In A Black Dress.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Blues Brothers Complete/1-16 She Caught The Katy.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Blues Brothers Complete/1-15 Flip Flop And Fly.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Blues Brothers Complete/2-15 Going back to miami.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Blues Brothers Complete/2-18 Closing_ I can't turn you loose.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Blues Brothers Complete/2-08 Do you love me.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Blues Brothers Complete/1-14 _B_ Movie Box Car Blues.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Blues Brothers Complete/2-13 I ain't got you.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Blues Brothers Complete/2-17 Excusez moi mon cherie.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Blues Brothers Complete/2-16 Expressway to your heart.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Blues Brothers Complete/1-13 I Don't Know.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Blues Brothers Complete/2-05 Sweet home Chicago.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Blues Brothers Complete/2-07 Who's making love.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Blues Brothers Complete/2-02 The old landmark.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Blues Brothers Complete/1-11 Shot Gun Blues.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Blues Brothers Complete/2-04 Minnie the moocher.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Blues Brothers Complete/1-10 Rubber Biscuit.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Blues Brothers Complete/1-09 (I Got Every Thing I Need) Almost.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Blues Brothers Complete/1-04 Think.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Blues Brothers Complete/1-17 Peter Gunn Theme.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Blues Brothers Complete/1-06 Soul Finger.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Blues Brothers Complete/1-07 Messin' With The Kid.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Blues Brothers Complete/2-01 Shake a tail feather.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Blues Brothers Complete/1-03 Gimme Some Lovin'.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Blues Brothers Complete/2-06 Jailhouse rock.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Blues Brothers Complete/2-14 From the bottom.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Blues Brothers Complete/2-10 Perry Mason theme.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Blues Brothers Complete/1-01 Opening_ I Can't Turn You Loose.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Blues Brothers Complete/1-02 Everybody Needs Somebody To Love.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/The Roots of Led Zeppelin/11 In my time of dying.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/The Roots of Led Zeppelin/05 Summertime.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/The Roots of Led Zeppelin/03 Travelling Riverside Blues.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/The Roots of Led Zeppelin/14 Dance of the inhabitants of the palace of king phillip XIV of Spain.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/The Roots of Led Zeppelin/17 Bobby Parker - Watch Your Step.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/The Roots of Led Zeppelin/13 Babe i'm gonna leave you.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/The Roots of Led Zeppelin/02 A long as i have you.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/The Roots of Led Zeppelin/10 killing Floor.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/The Roots of Led Zeppelin/07 Nobody's fault but mine.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/The Roots of Led Zeppelin/23 Sonny Boy Williamson (Rice Miller) - Bring It On Home.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/The Roots of Led Zeppelin/12 She moved thru the bizarre.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/The Roots of Led Zeppelin/04 Shake em down.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/The Roots of Led Zeppelin/15 She likes it.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/The Roots of Led Zeppelin/01 Long Tall Sally.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/The Roots of Led Zeppelin/09 You need love.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/The Roots of Led Zeppelin/06 Blackwater side.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/The Roots of Led Zeppelin/08 Fresh Garbage.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Sacred Bones Presents_ Todo Muere Vol. 4/07 Pulsar (Oskreuz Berlin RMX).mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Sacred Bones Presents_ Todo Muere Vol. 4/05 Bang Bang.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Sacred Bones Presents_ Todo Muere Vol. 4/01 Lonely Richard.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Sacred Bones Presents_ Todo Muere Vol. 4/03 And Light Shines.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Sacred Bones Presents_ Todo Muere Vol. 4/08 Illume.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Sacred Bones Presents_ Todo Muere Vol. 4/06 Kingdom.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Sacred Bones Presents_ Todo Muere Vol. 4/04 The Kindness of Strangers.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Sacred Bones Presents_ Todo Muere Vol. 4/02 Vessel (Versions Outtake).mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Goodfellas - Music From The Motion Picture/22 Can't We Be Sweethearts.mp3" -f
+mp3val "/moshpit/Music/Music/Various Artists/Goodfellas - Music From The Motion Picture/15 Wives And Lovers.mp3" -f
+mp3val "/moshpit/Music/Music/Julia Stone/By The Horns/08 I Want To Live Here.mp3" -f
+mp3val "/moshpit/Music/Music/Julia Stone/By The Horns/09 By The Horns.mp3" -f
+mp3val "/moshpit/Music/Music/Julia Stone/By The Horns/07 With The Light.mp3" -f
+mp3val "/moshpit/Music/Music/Julia Stone/By The Horns/03 It's All Okay.mp3" -f
+mp3val "/moshpit/Music/Music/Jóhann Jóhannsson/Arrival/07 Around-The-Clock News.mp3" -f
+mp3val "/moshpit/Music/Music/The Veils/The Runaway Found/06 Guiding light.mp3" -f
+mp3val "/moshpit/Music/Music/The Veils/The Runaway Found/05 Talk Down the Girl.mp3" -f
+mp3val "/moshpit/Music/Music/Lorde/Pure Heroine (Extended)/06 Team.mp3" -f
+mp3val "/moshpit/Music/Music/Lorde/Pure Heroine (Extended)/02 400 Lux.mp3" -f
+mp3val "/moshpit/Music/Music/Lorde/Pure Heroine (Extended)/07 Glory and Gore.mp3" -f
+mp3val "/moshpit/Music/Music/Lorde/Pure Heroine (Extended)/13 The Love Club.mp3" -f
+mp3val "/moshpit/Music/Music/Lorde/Pure Heroine (Extended)/01 Tennis Court.mp3" -f
+mp3val "/moshpit/Music/Music/Lorde/Pure Heroine (Extended)/03 Royals.mp3" -f
+mp3val "/moshpit/Music/Music/Lorde/Pure Heroine (Extended)/15 Swingin Party.mp3" -f
+mp3val "/moshpit/Music/Music/Lorde/Pure Heroine (Extended)/05 Buzzcut Season.mp3" -f
+mp3val "/moshpit/Music/Music/Lorde/Pure Heroine (Extended)/10 A World Alone.mp3" -f
+mp3val "/moshpit/Music/Music/Lorde/Pure Heroine (Extended)/14 Biting Down.mp3" -f
+mp3val "/moshpit/Music/Music/Lorde/Pure Heroine (Extended)/12 Million Dollar Bills.mp3" -f
+mp3val "/moshpit/Music/Music/Lorde/Pure Heroine (Extended)/11 Bravado.mp3" -f
+mp3val "/moshpit/Music/Music/Lorde/Pure Heroine (Extended)/08 Still Sane.mp3" -f
+mp3val "/moshpit/Music/Music/Lorde/Pure Heroine (Extended)/04 Ribs.mp3" -f
+mp3val "/moshpit/Music/Music/Lorde/Pure Heroine (Extended)/09 White Teeth Teens.mp3" -f
+mp3val "/moshpit/Music/Music/Sturgill Simpson/High Top Mountain/1-09 Some Days.mp3" -f
+mp3val "/moshpit/Music/Music/Sturgill Simpson/High Top Mountain/1-06 You Can Have the Crown.mp3" -f
+mp3val "/moshpit/Music/Music/Sturgill Simpson/High Top Mountain/1-04 Sitting Here Without You.mp3" -f
+mp3val "/moshpit/Music/Music/Sturgill Simpson/High Top Mountain/1-07 Time After All.mp3" -f
+mp3val "/moshpit/Music/Music/Sturgill Simpson/High Top Mountain/1-02 Railroad of Sin.mp3" -f
+mp3val "/moshpit/Music/Music/Sturgill Simpson/High Top Mountain/1-10 Old King Coal.mp3" -f
+mp3val "/moshpit/Music/Music/Sturgill Simpson/High Top Mountain/1-12 I'd Have to Be Crazy.mp3" -f
+mp3val "/moshpit/Music/Music/Sturgill Simpson/High Top Mountain/1-08 Hero.mp3" -f
+mp3val "/moshpit/Music/Music/Sturgill Simpson/High Top Mountain/1-03 Water in a Well.mp3" -f
+mp3val "/moshpit/Music/Music/Sturgill Simpson/High Top Mountain/1-01 Life Ain't Fair and the World Is Mean.mp3" -f
+mp3val "/moshpit/Music/Music/Sturgill Simpson/High Top Mountain/1-11 Poor Rambler.mp3" -f
+mp3val "/moshpit/Music/Music/Sturgill Simpson/High Top Mountain/1-05 The Storm.mp3" -f
+mp3val "/moshpit/Music/Music/Sturgill Simpson/Metamodern Sounds in Country Music/1-05 Long White Line.mp3" -f
+mp3val "/moshpit/Music/Music/Sturgill Simpson/Metamodern Sounds in Country Music/1-08 Just Let Go.mp3" -f
+mp3val "/moshpit/Music/Music/Sturgill Simpson/Metamodern Sounds in Country Music/1-02 Life of Sin.mp3" -f
+mp3val "/moshpit/Music/Music/Sturgill Simpson/Metamodern Sounds in Country Music/1-07 A Little Light.mp3" -f
+mp3val "/moshpit/Music/Music/Sturgill Simpson/Metamodern Sounds in Country Music/1-03 Living the Dream.mp3" -f
+mp3val "/moshpit/Music/Music/Sturgill Simpson/Metamodern Sounds in Country Music/1-04 Voices.mp3" -f
+mp3val "/moshpit/Music/Music/Sturgill Simpson/Metamodern Sounds in Country Music/1-01 Turtles All the Way Down.mp3" -f
+mp3val "/moshpit/Music/Music/Sturgill Simpson/Metamodern Sounds in Country Music/1-09 It Ain't All Flowers.mp3" -f
+mp3val "/moshpit/Music/Music/Sturgill Simpson/Metamodern Sounds in Country Music/1-06 The Promise.mp3" -f
+mp3val "/moshpit/Music/Music/Sturgill Simpson/Metamodern Sounds in Country Music/1-10 Panbowl.mp3" -f
+mp3val "/moshpit/Music/Music/Carter Burwell/Miller's Crossing (Original Motion Picture Soundtrack)/1-06 After Miller's Crossing.mp3" -f
+mp3val "/moshpit/Music/Music/Carter Burwell/Miller's Crossing (Original Motion Picture Soundtrack)/1-10 He Didn't Like His Friends.mp3" -f
+mp3val "/moshpit/Music/Music/Carter Burwell/Miller's Crossing (Original Motion Picture Soundtrack)/1-05 Miller's Crossing.mp3" -f
+mp3val "/moshpit/Music/Music/Carter Burwell/Miller's Crossing (Original Motion Picture Soundtrack)/1-11 What Heart_.mp3" -f
+mp3val "/moshpit/Music/Music/Carter Burwell/Miller's Crossing (Original Motion Picture Soundtrack)/1-07 Rage of the Dane.mp3" -f
+mp3val "/moshpit/Music/Music/Carter Burwell/Miller's Crossing (Original Motion Picture Soundtrack)/1-03 A Man and His Hat.mp3" -f
+mp3val "/moshpit/Music/Music/Carter Burwell/Miller's Crossing (Original Motion Picture Soundtrack)/1-01 Opening Titles.mp3" -f
+mp3val "/moshpit/Music/Music/Carter Burwell/Miller's Crossing (Original Motion Picture Soundtrack)/1-04 The Long Way Around.mp3" -f
+mp3val "/moshpit/Music/Music/Carter Burwell/Miller's Crossing (Original Motion Picture Soundtrack)/1-12 End Titles.mp3" -f
+mp3val "/moshpit/Music/Music/Carter Burwell/Miller's Crossing (Original Motion Picture Soundtrack)/1-09 Nightmare in the Trophy Room.mp3" -f
+mp3val "/moshpit/Music/Music/Carter Burwell/Miller's Crossing (Original Motion Picture Soundtrack)/1-08 All a You Whores.mp3" -f
+mp3val "/moshpit/Music/Music/Carter Burwell/Miller's Crossing (Original Motion Picture Soundtrack)/1-02 Caspar Laid Out.mp3" -f
+mp3val "/moshpit/Music/Music/The Stone Roses/The Stone Roses/11 I Am the Resurrection.mp3" -f
+mp3val "/moshpit/Music/Music/The Stone Roses/The Stone Roses/10 This Is the One.mp3" -f
+mp3val "/moshpit/Music/Music/The Stone Roses/The Stone Roses/01 I Wanna Be Adored.mp3" -f
+mp3val "/moshpit/Music/Music/The Stone Roses/The Stone Roses/04 Don't Stop.mp3" -f
+mp3val "/moshpit/Music/Music/The Stone Roses/The Stone Roses/03 Waterfall.mp3" -f
+mp3val "/moshpit/Music/Music/The Stone Roses/The Stone Roses/05 Bye Bye Badman.mp3" -f
+mp3val "/moshpit/Music/Music/The Stone Roses/The Stone Roses/02 She Bangs the Drums.mp3" -f
+mp3val "/moshpit/Music/Music/The Stone Roses/The Stone Roses/09 Shoot You Down.mp3" -f
+mp3val "/moshpit/Music/Music/The Stone Roses/The Stone Roses/08 Made of Stone.mp3" -f
+mp3val "/moshpit/Music/Music/The Stone Roses/The Stone Roses/06 Elizabeth My Dear.mp3" -f
+mp3val "/moshpit/Music/Music/The Stone Roses/The Stone Roses/07 (Song for My) Sugar Spun Sister.mp3" -f
+mp3val "/moshpit/Music/Music/Bob Dylan/Highway 61 Revisited/05 Ballad Of A Thin Man.mp3" -f
+mp3val "/moshpit/Music/Music/Bob Dylan/Highway 61 Revisited/01 Like A Rolling Stone.mp3" -f
+mp3val "/moshpit/Music/Music/Bob Dylan/Highway 61 Revisited/07 Highway 61 Revisited.mp3" -f
+mp3val "/moshpit/Music/Music/Bob Dylan/Highway 61 Revisited/09 Desolation Row.mp3" -f
+mp3val "/moshpit/Music/Music/Bob Dylan/Highway 61 Revisited/03 It Takes A Lot To Laugh, It Ta.mp3" -f
+mp3val "/moshpit/Music/Music/Bob Dylan/Highway 61 Revisited/02 Tombstone Blues.mp3" -f
+mp3val "/moshpit/Music/Music/Bob Dylan/Highway 61 Revisited/06 Queen Jane Approximately.mp3" -f
+mp3val "/moshpit/Music/Music/Bob Dylan/Highway 61 Revisited/08 Just Like Tom Thumb's Blues.mp3" -f
+mp3val "/moshpit/Music/Music/Bob Dylan/Highway 61 Revisited/04 From A Buick 6.mp3" -f
+mp3val "/moshpit/Music/Music/Fu Manchu/King Of The Road/10 Hotdoggin'.mp3" -f
+mp3val "/moshpit/Music/Music/Fu Manchu/King Of The Road/11 Freedom of Choice.mp3" -f
+mp3val "/moshpit/Music/Music/Fu Manchu/King Of The Road/08 Weird Beard.mp3" -f
+mp3val "/moshpit/Music/Music/Fu Manchu/King Of The Road/03 Boogie Van.mp3" -f
+mp3val "/moshpit/Music/Music/Fu Manchu/King Of The Road/09 Breathing Fire.mp3" -f
+mp3val "/moshpit/Music/Music/Fu Manchu/King Of The Road/06 Blue Tile Fever.mp3" -f
+mp3val "/moshpit/Music/Music/Fu Manchu/King Of The Road/02 Over the Edge.mp3" -f
+mp3val "/moshpit/Music/Music/Fu Manchu/King Of The Road/07 Grasschopper.mp3" -f
+mp3val "/moshpit/Music/Music/Fu Manchu/King Of The Road/05 No Dice.mp3" -f
+mp3val "/moshpit/Music/Music/Fu Manchu/King Of The Road/01 Hell on Wheels.mp3" -f
+mp3val "/moshpit/Music/Music/Fu Manchu/King Of The Road/04 King of the Road.mp3" -f
+mp3val "/moshpit/Music/Music/The Psychedelic Furs/Forever Now/06 President Gas.mp3" -f
+mp3val "/moshpit/Music/Music/The Psychedelic Furs/Forever Now/07 Run & Run.mp3" -f
+mp3val "/moshpit/Music/Music/The Psychedelic Furs/Forever Now/03 Goodbye.mp3" -f
+mp3val "/moshpit/Music/Music/The Psychedelic Furs/Forever Now/10 Yes I Do (Merry-Go-Round).mp3" -f
+mp3val "/moshpit/Music/Music/The Psychedelic Furs/Forever Now/05 Sleep Comes Down.mp3" -f
+mp3val "/moshpit/Music/Music/The Psychedelic Furs/Forever Now/08 Danger.mp3" -f
+mp3val "/moshpit/Music/Music/The Psychedelic Furs/Forever Now/01 Forever Now.mp3" -f
+mp3val "/moshpit/Music/Music/The Psychedelic Furs/Forever Now/04 Only You & I.mp3" -f
+mp3val "/moshpit/Music/Music/The Psychedelic Furs/Forever Now/09 No Easy Street.mp3" -f
+mp3val "/moshpit/Music/Music/The Psychedelic Furs/Forever Now/02 Love My Way.mp3" -f
+mp3val "/moshpit/Music/Music/The Psychedelic Furs/All Of This And Nothing/09 Dumb Waiters.mp3" -f
+mp3val "/moshpit/Music/Music/The Psychedelic Furs/All Of This And Nothing/03 Imitation Of Christ (Studio).mp3" -f
+mp3val "/moshpit/Music/Music/The Psychedelic Furs/All Of This And Nothing/01 President Gas.mp3" -f
+mp3val "/moshpit/Music/Music/The Psychedelic Furs/All Of This And Nothing/14 All Of This And Nothing.mp3" -f
+mp3val "/moshpit/Music/Music/The Psychedelic Furs/All Of This And Nothing/04 Sister Europe.mp3" -f
+mp3val "/moshpit/Music/Music/The Psychedelic Furs/All Of This And Nothing/08 She Is Mine.mp3" -f
+mp3val "/moshpit/Music/Music/The Psychedelic Furs/All Of This And Nothing/11 The Ghost in You.mp3" -f
+mp3val "/moshpit/Music/Music/The Psychedelic Furs/All Of This And Nothing/05 Love My Way.mp3" -f
+mp3val "/moshpit/Music/Music/The Psychedelic Furs/All Of This And Nothing/12 Heaven.mp3" -f
+mp3val "/moshpit/Music/Music/The Psychedelic Furs/All Of This And Nothing/10 Pretty in Pink.mp3" -f
+mp3val "/moshpit/Music/Music/The Psychedelic Furs/All Of This And Nothing/06 No Easy Street.mp3" -f
+mp3val "/moshpit/Music/Music/The Psychedelic Furs/All Of This And Nothing/07 Highwire Days.mp3" -f
+mp3val "/moshpit/Music/Music/The Psychedelic Furs/All Of This And Nothing/13 Heartbreak Beat.mp3" -f
+mp3val "/moshpit/Music/Music/The Psychedelic Furs/All Of This And Nothing/02 All That Money Wants.mp3" -f
+mp3val "/moshpit/Music/Music/Thee Oh Sees/Carrion Crawler _ The Dream/1-01 Carrion Crawler.mp3" -f
+mp3val "/moshpit/Music/Music/Thee Oh Sees/Carrion Crawler _ The Dream/1-05 Opposition.mp3" -f
+mp3val "/moshpit/Music/Music/Thee Oh Sees/Carrion Crawler _ The Dream/1-03 Robber Barons.mp3" -f
+mp3val "/moshpit/Music/Music/Thee Oh Sees/Carrion Crawler _ The Dream/1-02 Contraption_Soul Desert.mp3" -f
+mp3val "/moshpit/Music/Music/Thee Oh Sees/Carrion Crawler _ The Dream/1-06 The Dream.mp3" -f
+mp3val "/moshpit/Music/Music/Thee Oh Sees/Carrion Crawler _ The Dream/1-08 Crushed Grass.mp3" -f
+mp3val "/moshpit/Music/Music/Thee Oh Sees/Carrion Crawler _ The Dream/1-09 Crack In Your Eye.mp3" -f
+mp3val "/moshpit/Music/Music/Thee Oh Sees/Carrion Crawler _ The Dream/1-07 Wrong Idea.mp3" -f
+mp3val "/moshpit/Music/Music/Thee Oh Sees/Carrion Crawler _ The Dream/1-10 Heavy Doctor.mp3" -f
+mp3val "/moshpit/Music/Music/Thee Oh Sees/Carrion Crawler _ The Dream/1-04 Chem-Farmer.mp3" -f
+mp3val "/moshpit/Music/Music/Super Mash Bros_/Mile(y) High Club/05 Siri Cruise.mp3" -f
+mp3val "/moshpit/Music/Music/Super Mash Bros_/Mile(y) High Club/06 Young Gelt Cash Gelt Billionaires.mp3" -f
+mp3val "/moshpit/Music/Music/Super Mash Bros_/Mile(y) High Club/04 Islands May Close But Little Hawaii Is Forever (Ft. ZRobUSA).mp3" -f
+mp3val "/moshpit/Music/Music/Super Mash Bros_/Mile(y) High Club/16 The Last Cup Is Always The Hardest.mp3" -f
+mp3val "/moshpit/Music/Music/Super Mash Bros_/Mile(y) High Club/15 On That Lean (Pocket).mp3" -f
+mp3val "/moshpit/Music/Music/Super Mash Bros_/Mile(y) High Club/01 Tour de Franzia (From Boxed Wine To The Big Time).mp3" -f
+mp3val "/moshpit/Music/Music/Super Mash Bros_/Mile(y) High Club/14 Like A Bau5.mp3" -f
+mp3val "/moshpit/Music/Music/Super Mash Bros_/Mile(y) High Club/10 Paranormal Frativity.mp3" -f
+mp3val "/moshpit/Music/Music/Super Mash Bros_/Mile(y) High Club/09 Blame It On The Adderall.mp3" -f
+mp3val "/moshpit/Music/Music/Super Mash Bros_/Mile(y) High Club/13 M.A.T.Z.O.mp3" -f
+mp3val "/moshpit/Music/Music/Super Mash Bros_/Mile(y) High Club/03 Don't Bro Me If You Don't Know Me.mp3" -f
+mp3val "/moshpit/Music/Music/Super Mash Bros_/Mile(y) High Club/12 Top Fun (Highway To The Rager Zone).mp3" -f
+mp3val "/moshpit/Music/Music/Super Mash Bros_/Mile(y) High Club/11 Rush Hour Is All Hours (405).mp3" -f
+mp3val "/moshpit/Music/Music/Super Mash Bros_/Mile(y) High Club/02 ¡Holy Guacamole!.mp3" -f
+mp3val "/moshpit/Music/Music/Super Mash Bros_/Mile(y) High Club/08 _Yo dawg, I heard you like music so I put songs in this song so_you can listen to music while you listen to music._ -Xzibit.mp3" -f
+mp3val "/moshpit/Music/Music/Super Mash Bros_/Mile(y) High Club/07 Forty Days & FourLoko Nights.mp3" -f
+mp3val "/moshpit/Music/Music/ZZ Top/Rancho Texicano (The Very Best Of) CD01/1-19 Cheap Sunglasses.mp3" -f
+mp3val "/moshpit/Music/Music/ZZ Top/Rancho Texicano (The Very Best Of) CD01/1-08 Waitin' for the Bus.mp3" -f
+mp3val "/moshpit/Music/Music/ZZ Top/Rancho Texicano (The Very Best Of) CD01/1-07 La Grange.mp3" -f
+mp3val "/moshpit/Music/Music/ZZ Top/Rancho Texicano (The Very Best Of) CD01/1-15 Heard It on the X.mp3" -f
+mp3val "/moshpit/Music/Music/ZZ Top/Rancho Texicano (The Very Best Of) CD01/1-20 I'm Bad, I'm Nationwide.mp3" -f
+mp3val "/moshpit/Music/Music/ZZ Top/Rancho Texicano (The Very Best Of) CD01/1-11 Mexican Blackbird.mp3" -f
+mp3val "/moshpit/Music/Music/ZZ Top/Rancho Texicano (The Very Best Of) CD01/1-14 Blue Jean Blues.mp3" -f
+mp3val "/moshpit/Music/Music/ZZ Top/Rancho Texicano (The Very Best Of) CD01/1-17 Arrested for Driving While Blind.mp3" -f
+mp3val "/moshpit/Music/Music/ZZ Top/Rancho Texicano (The Very Best Of) CD01/1-02 Goin' Down to Mexico.mp3" -f
+mp3val "/moshpit/Music/Music/ZZ Top/Rancho Texicano (The Very Best Of) CD01/1-03 Just Got Back from Baby's.mp3" -f
+mp3val "/moshpit/Music/Music/ZZ Top/Rancho Texicano (The Very Best Of) CD01/1-18 I Thank You.mp3" -f
+mp3val "/moshpit/Music/Music/ZZ Top/Rancho Texicano (The Very Best Of) CD01/1-06 Bar-B-Q.mp3" -f
+mp3val "/moshpit/Music/Music/ZZ Top/Rancho Texicano (The Very Best Of) CD01/1-04 Francine.mp3" -f
+mp3val "/moshpit/Music/Music/ZZ Top/Rancho Texicano (The Very Best Of) CD01/1-05 Just Got Paid.mp3" -f
+mp3val "/moshpit/Music/Music/ZZ Top/Rancho Texicano (The Very Best Of) CD01/1-16 It's Only Love.mp3" -f
+mp3val "/moshpit/Music/Music/ZZ Top/Rancho Texicano (The Very Best Of) CD01/1-10 Beer Drinkers & Hell Raisers.mp3" -f
+mp3val "/moshpit/Music/Music/ZZ Top/Rancho Texicano (The Very Best Of) CD01/1-01 Brown Sugar.mp3" -f
+mp3val "/moshpit/Music/Music/ZZ Top/Rancho Texicano (The Very Best Of) CD01/1-09 Jesus Just Left Chicago.mp3" -f
+mp3val "/moshpit/Music/Music/ZZ Top/Rancho Texicano (The Very Best Of) CD01/1-13 Thunderbird [Live].mp3" -f
+mp3val "/moshpit/Music/Music/ZZ Top/Rancho Texicano (The Very Best Of) CD01/1-21 A Fool for Your Stockings.mp3" -f
+mp3val "/moshpit/Music/Music/ZZ Top/Rancho Texicano (The Very Best Of) CD01/1-12 Tush.mp3" -f
+mp3val "/moshpit/Music/Music/Molotov/¿Dónde jugarán las niñas_/10 ¿Porqué no te haces para allá_… al más allá.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Endless Boogie/11 Endless Boogie, Parts 27 And 28.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Endless Boogie/06 We Might As Well Call It Through (I Didn't Get Married To Your Two-Timing Mother).mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Endless Boogie/04 Standin' At The Crossroads.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Endless Boogie/03 Kick Hit 4 Hit Kix U (Blues For Jimi And Janis).mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Endless Boogie/01 (I Got) A Good 'un.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Endless Boogie/07 Doin' The Shout.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Endless Boogie/09 I Don't Need No Steam Heat.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Endless Boogie/08 A Sheep Out On The Foam.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Endless Boogie/05 Pots On, Gas On High.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Endless Boogie/02 House Rent Boogie.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Endless Boogie/10 Sittin' In My Dark Room.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Ultimate Collection/15 I'm in the Mood.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Ultimate Collection/06 I Cover the Waterfront.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Ultimate Collection/13 Burning Hell.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Ultimate Collection/01 Boom Boom.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Ultimate Collection/02 Big Legs, Tight Skirt.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Ultimate Collection/10 John L's House Rent Boogie.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Ultimate Collection/03 You Know, I Know.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Ultimate Collection/12 Peavine.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Ultimate Collection/09 I'm in the Mood.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Ultimate Collection/14 Dimples.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Ultimate Collection/03 Sally Mae.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Ultimate Collection/09 Think Twice Before You Go.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Ultimate Collection/05 Let's Go Out Tonight.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Ultimate Collection/08 Back Biters and Syndicators.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Ultimate Collection/10 Shake It Baby.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Ultimate Collection/06 Weeping Willow Boogie.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Ultimate Collection/04 One Bourbon, One Scotch, One Beer.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Ultimate Collection/16 Bottle Up and Go.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Ultimate Collection/07 Hobo Blues.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Ultimate Collection/15 It Serves Me Right.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Ultimate Collection/13 Frisco Blues.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Ultimate Collection/04 Let Your Daddy Ride.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Ultimate Collection/11 I'm Bad Like Jesse James.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Ultimate Collection/02 Boogie Chillen'.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Ultimate Collection/07 She's Mine (Keep Your Hands to Yourself).mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Ultimate Collection/05 Crawlin' King Snake.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Ultimate Collection/12 I Need Some Money.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Ultimate Collection/08 Huckle Up Baby.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Ultimate Collection/14 Terraplane Blues.mp3" -f
+mp3val "/moshpit/Music/Music/John Lee Hooker/Ultimate Collection/01 Teachin' the Blues.mp3" -f
+mp3val "/moshpit/Music/Music/Kula Shaker/K/03 Temple of Everlasting Light.mp3" -f
+mp3val "/moshpit/Music/Music/Kula Shaker/K/12 Start All Over.mp3" -f
+mp3val "/moshpit/Music/Music/Kula Shaker/K/07 Into The Deep.mp3" -f
+mp3val "/moshpit/Music/Music/Kula Shaker/K/02 Knight On The Town.mp3" -f
+mp3val "/moshpit/Music/Music/Kula Shaker/K/10 Grateful When You're Dead - Jerry Was There.mp3" -f
+mp3val "/moshpit/Music/Music/Kula Shaker/K/06 Magic Theatre.mp3" -f
+mp3val "/moshpit/Music/Music/Kula Shaker/K/09 Tattva.mp3" -f
+mp3val "/moshpit/Music/Music/Kula Shaker/K/04 Govinda.mp3" -f
+mp3val "/moshpit/Music/Music/Kula Shaker/K/01 Hey Dude.mp3" -f
+mp3val "/moshpit/Music/Music/Kula Shaker/K/11 303.mp3" -f
+mp3val "/moshpit/Music/Music/Kula Shaker/K/05 Smart Dogs.mp3" -f
+mp3val "/moshpit/Music/Music/Kula Shaker/K/08 Sleeping Jiva.mp3" -f
+mp3val "/moshpit/Music/Music/Nick Cave & Warren Ellis/The Assassination of Jesse James/17 Moving On Once Again.mp3" -f
+mp3val "/moshpit/Music/Music/Nick Cave & Warren Ellis/The Assassination of Jesse James/18 The Last Waltz.mp3" -f
+mp3val "/moshpit/Music/Music/Nick Cave & Warren Ellis/The Assassination of Jesse James/19 All Things Beautiful.mp3" -f
+mp3val "/moshpit/Music/Music/Nick Cave & Warren Ellis/The Assassination of Jesse James/16 The Legend of Jesse James.mp3" -f
+mp3val "/moshpit/Music/Music/Nick Cave & Warren Ellis/The Assassination of Jesse James/15 Song For Charley.mp3" -f
+mp3val "/moshpit/Music/Music/Tindersticks/Curtains/03 Don't Look Down.mp3" -f
+mp3val "/moshpit/Music/Music/Tindersticks/Curtains/15 Walking.mp3" -f
+mp3val "/moshpit/Music/Music/Tindersticks/Curtains/10 Buried Bones.mp3" -f
+mp3val "/moshpit/Music/Music/Tindersticks/Curtains/16 A Marriage Made In Heaven.mp3" -f
+mp3val "/moshpit/Music/Music/Tindersticks/Curtains/02 Rented Rooms.mp3" -f
+mp3val "/moshpit/Music/Music/Tindersticks/Curtains/07 Dancing.mp3" -f
+mp3val "/moshpit/Music/Music/Tindersticks/Curtains/06 Ballad Of Tindersticks.mp3" -f
+mp3val "/moshpit/Music/Music/Tindersticks/Curtains/13 I Was Your Man.mp3" -f
+mp3val "/moshpit/Music/Music/Tindersticks/Curtains/01 Another Night In.mp3" -f
+mp3val "/moshpit/Music/Music/Tindersticks/Curtains/12 (Tonight) Are You Trying To Fall In Love Again.mp3" -f
+mp3val "/moshpit/Music/Music/Tindersticks/Curtains/11 Bearsuit.mp3" -f
+mp3val "/moshpit/Music/Music/Tindersticks/Curtains/09 Desperate Man.mp3" -f
+mp3val "/moshpit/Music/Music/Tindersticks/Curtains/04 Dick's Slow Song.mp3" -f
+mp3val "/moshpit/Music/Music/Tindersticks/Curtains/14 Bathtime.mp3" -f
+mp3val "/moshpit/Music/Music/Tindersticks/Curtains/08 Let's Pretend.mp3" -f
+mp3val "/moshpit/Music/Music/Tindersticks/Curtains/05 Fast One.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Rarities/07 Spiders And Vinegaroons.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Queens Of The Stone Age/04 Walkin' On The Sidewalks.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Queens Of The Stone Age/12 Give The Mule What He Wants.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Queens Of The Stone Age/03 If Only.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Queens Of The Stone Age/02 Avon.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Queens Of The Stone Age/05 You Would Know.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Queens Of The Stone Age/1-13 Spiders and Vinegaroons.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Queens Of The Stone Age/1-07 How to Handle a Rope (A Lesson in the Lariat).mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Queens Of The Stone Age/1-10 You Can't Quit Me Baby.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Queens Of The Stone Age/01 Regular John.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Queens Of The Stone Age/1-11 These Aren't the Droids You're Looking For.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Queens Of The Stone Age/09 Hispanic Impressions.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Queens Of The Stone Age/08 Mexicola.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Queens Of The Stone Age/14 I Was A Teenage Hand Model.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Era Vulgaris/03 I'm Designer.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Era Vulgaris/10 River in the Road.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Era Vulgaris/07 Make It Wit Chu.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Era Vulgaris/08 3's & 7's.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Era Vulgaris/11 Run, Pig, Run.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Era Vulgaris/05 Misfit Love.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Era Vulgaris/02 Sick, Sick, Sick.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Era Vulgaris/09 Suture Up Your Future.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Era Vulgaris/01 Turnin' on the Screw.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Era Vulgaris/04 Into the Hollow.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Era Vulgaris/06 Battery Acid.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Songs For The Deaf/11 God Is In The Radio.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Songs For The Deaf/16 Everybody's Gonna Be Happy (Non-LP version).mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Songs For The Deaf/06 Six Shooter.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Songs For The Deaf/04 A Song For The Dead.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Songs For The Deaf/13 A Song for the Deaf.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Songs For The Deaf/17 Gonna Leave You (Spanish version).mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Songs For The Deaf/02 No One Knows.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Songs For The Deaf/15 The Lost Art of Keeping a Secret (Live).mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Songs For The Deaf/07 Hangin' Tree.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Songs For The Deaf/09 Gonna Leave You.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Songs For The Deaf/12 Another Love Song.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Songs For The Deaf/08 Go With The Flow.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Songs For The Deaf/05 The Sky Is Fallin'.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Songs For The Deaf/10 Do It Again.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Songs For The Deaf/14 Mosquito Song.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Songs For The Deaf/01 You Think I Ain't Worth A Dollar, But I Feel Like A Millionaire.mp3" -f
+mp3val "/moshpit/Music/Music/Queens of the Stone Age/Songs For The Deaf/03 First It Giveth.mp3" -f
+mp3val "/moshpit/Music/Music/Philip Glass/Glassworks/06 Closing.mp3" -f
+mp3val "/moshpit/Music/Music/Philip Glass/Glassworks/01 Opening.mp3" -f
+mp3val "/moshpit/Music/Music/Philip Glass/Glassworks/03 Islands.mp3" -f
+mp3val "/moshpit/Music/Music/Philip Glass/Glassworks/02 Floe.mp3" -f
+mp3val "/moshpit/Music/Music/Philip Glass/Glassworks/04 Rubric.mp3" -f
+mp3val "/moshpit/Music/Music/Philip Glass/Glassworks/05 Facades.mp3" -f
+mp3val "/moshpit/Music/Music/Philip Glass/Dracula/19 Dracula Enters.mp3" -f
+mp3val "/moshpit/Music/Music/Philip Glass/Dracula/13 In The Theatre.mp3" -f
+mp3val "/moshpit/Music/Music/Philip Glass/Dracula/16 Renfield.mp3" -f
+mp3val "/moshpit/Music/Music/Philip Glass/Dracula/10 The Storm.mp3" -f
+mp3val "/moshpit/Music/Music/Philip Glass/Dracula/15 Seward Sanatorium.mp3" -f
+mp3val "/moshpit/Music/Music/Philip Glass/Dracula/04 The Crypt.mp3" -f
+mp3val "/moshpit/Music/Music/Philip Glass/Dracula/07 The Drawing Room.mp3" -f
+mp3val "/moshpit/Music/Music/Philip Glass/Dracula/21 Women In White.mp3" -f
+mp3val "/moshpit/Music/Music/Philip Glass/Dracula/03 The Inn.mp3" -f
+mp3val "/moshpit/Music/Music/Philip Glass/Dracula/09 The Three Consorts Of Dracula.mp3" -f
+mp3val "/moshpit/Music/Music/Philip Glass/Dracula/08 _Excellent, Mr Renfield_.mp3" -f
+mp3val "/moshpit/Music/Music/Philip Glass/Dracula/17 In His Cell.mp3" -f
+mp3val "/moshpit/Music/Music/Philip Glass/Dracula/18 When The Dream Comes.mp3" -f
+mp3val "/moshpit/Music/Music/Philip Glass/Dracula/14 Lucy's Bitten.mp3" -f
+mp3val "/moshpit/Music/Music/Philip Glass/Dracula/01 Dracula.mp3" -f
+mp3val "/moshpit/Music/Music/Philip Glass/Dracula/20 Or A Wolf.mp3" -f
+mp3val "/moshpit/Music/Music/Philip Glass/Dracula/02 Journey To The Inn.mp3" -f
+mp3val "/moshpit/Music/Music/Philip Glass/Dracula/06 The Castle.mp3" -f
+mp3val "/moshpit/Music/Music/Philip Glass/Dracula/11 Horrible Tragedy.mp3" -f
+mp3val "/moshpit/Music/Music/Philip Glass/Dracula/05 Carriage Without A Driver.mp3" -f
+mp3val "/moshpit/Music/Music/Philip Glass/Dracula/12 London Fog.mp3" -f
