@@ -16,7 +16,8 @@ if [ ! -d "$directory" ]; then
 fi
 
 # Loop through all MP3 files in the directory and its subdirectories
-find "$directory" -type f -name "*.mp3" -mtime +30 | while read -r file; do
+# find "$directory" -type f -name "*.mp3" -mtime +30 | while read -r file; do
+find "$directory" -type f -name "*.mp3" | while read -r file; do
   # Use the file command to extract MP3 information
   info=$(file "$file")
 
