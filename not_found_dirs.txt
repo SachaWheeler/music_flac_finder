@@ -1,0 +1,84 @@
+mp3val /moshpit/Music/Music/Beck/Sea\ Change/*.mp3 -f
+mp3val /moshpit/Music/Music/Beck/Odelay/*.mp3 -f
+mp3val /moshpit/Music/Music/The\ Stranglers/Greatest\ Hits\ 1977-1990/*.mp3 -f
+mp3val /moshpit/Music/Music/Philip\ Glass/Powaqqatsi/*.mp3 -f
+mp3val /moshpit/Music/Music/Taj\ Mahal/An\ Evening\ of\ Acoustic\ Music/*.mp3 -f
+mp3val /moshpit/Music/Music/Phosphorescent/Muchacho/*.mp3 -f
+mp3val /moshpit/Music/Music/All\ Them\ Witches/Baker's\ Dozen/*.mp3 -f
+mp3val /moshpit/Music/Music/The\ Black\ Heart\ Procession/The\ Spell/*.mp3 -f
+mp3val /moshpit/Music/Music/Grace\ Jones/Nightclubbing\ (Deluxe\ Edition)/*.mp3 -f
+mp3val /moshpit/Music/Music/The\ Record\ Company/Give\ It\ Back\ To\ You/*.mp3 -f
+mp3val /moshpit/Music/Music/The\ Isley\ Brothers/Super\ Hits/*.mp3 -f
+mp3val /moshpit/Music/Music/The\ Civil\ Wars/Live\ at\ Eddie's\ Attic/*.mp3 -f
+mp3val /moshpit/Music/Music/Valerie\ June/Under\ Cover/*.mp3 -f
+mp3val /moshpit/Music/Music/Cat\ Stevens/Teaser\ And\ The\ Firecat\ (Deluxe)/*.mp3 -f
+mp3val /moshpit/Music/Music/Nick\ Cave\ &\ The\ Bad\ Seeds/Skeleton\ Tree/*.mp3 -f
+mp3val /moshpit/Music/Music/Shellac/Terraform/*.mp3 -f
+mp3val /moshpit/Music/Music/Shellac/To\ All\ Trains/*.mp3 -f
+mp3val /moshpit/Music/Music/Black\ Moth\ Super\ Rainbow/Dandelion\ Gum/*.mp3 -f
+mp3val /moshpit/Music/Music/The\ Staves/Good\ Woman/*.mp3 -f
+mp3val /moshpit/Music/Music/Beth\ Gibbons/Out\ Of\ Season/*.mp3 -f
+mp3val /moshpit/Music/Music/The\ Company\ Band/The\ Company\ Band/*.mp3 -f
+mp3val /moshpit/Music/Music/Mark\ Lanegan/Scraps\ at\ Midnight/*.mp3 -f
+mp3val /moshpit/Music/Music/Ultravox/The\ Best\ Of\ Ultravox/*.mp3 -f
+mp3val /moshpit/Music/Music/Grandaddy/The\ Sophtware\ Slump/*.mp3 -f
+mp3val /moshpit/Music/Music/The\ Sisters\ Of\ Mercy/Floodland/*.mp3 -f
+mp3val /moshpit/Music/Music/Mazzy\ Star/Still\ EP/*.mp3 -f
+mp3val /moshpit/Music/Music/Soulsavers/It's\ Not\ How\ Far\ You\ Fall,\ It's\ The\ Way\ You\ Land/*.mp3 -f
+mp3val /moshpit/Music/Music/Pet\ Shop\ Boys/Discography\ (The\ Complete\ Singles\ Collection)/*.mp3 -f
+mp3val /moshpit/Music/Music/Tame\ Impala/Lonerism/*.mp3 -f
+mp3val /moshpit/Music/Music/Ensemble\ of\ the\ Bulgarian\ Republic;Philip\ Koutev/Music\ of\ Bulgaria/*.mp3 -f
+mp3val /moshpit/Music/Music/The\ Rolling\ Stones/Some\ Girls/*.mp3 -f
+mp3val /moshpit/Music/Music/The\ Rolling\ Stones/Tattoo\ You/*.mp3 -f
+mp3val /moshpit/Music/Music/The\ Rolling\ Stones/Let\ It\ Bleed/*.mp3 -f
+mp3val /moshpit/Music/Music/The\ Rolling\ Stones/Sticky\ Fingers/*.mp3 -f
+mp3val /moshpit/Music/Music/The\ Mystery\ of\ the\ Bulgarian\ Voices/BooCheeMish\ (Luxus)/*.mp3 -f
+mp3val /moshpit/Music/Music/Emily\ Jane\ White/Immanent\ Fire/*.mp3 -f
+mp3val /moshpit/Music/Music/Control\ Machete/Uno\ dos\ bandera/*.mp3 -f
+mp3val /moshpit/Music/Music/Super\ Mash\ Bros_/Mile(y)\ High\ Club/*.mp3 -f
+mp3val /moshpit/Music/Music/PJ\ Harvey/To\ Bring\ You\ My\ Love/*.mp3 -f
+mp3val /moshpit/Music/Music/PJ\ Harvey/Stories\ from\ the\ City,\ Stories\ from\ the\ Sea/*.mp3 -f
+mp3val /moshpit/Music/Music/The\ Flaming\ Lips/The\ Soft\ Bulletin/*.mp3 -f
+mp3val /moshpit/Music/Music/Sturgill\ Simpson/Metamodern\ Sounds\ in\ Country\ Music/*.mp3 -f
+mp3val /moshpit/Music/Music/Sturgill\ Simpson/High\ Top\ Mountain/*.mp3 -f
+mp3val /moshpit/Music/Music/Sleep/Volume\ Two/*.mp3 -f
+mp3val /moshpit/Music/Music/Neko\ Case/Wild\ Creatures/*.mp3 -f
+mp3val /moshpit/Music/Music/John\ Lee\ Hooker/Ultimate\ Collection/*.mp3 -f
+mp3val /moshpit/Music/Music/Deftones/Hexagram\ (Maxi-single)/*.mp3 -f
+mp3val /moshpit/Music/Music/Deftones/Deftones/*.mp3 -f
+mp3val /moshpit/Music/Music/Camila\ Cabello/Familia/*.mp3 -f
+mp3val /moshpit/Music/Music/Queens\ of\ the\ Stone\ Age/Songs\ For\ The\ Deaf/*.mp3 -f
+mp3val /moshpit/Music/Music/Admiral\ Freebee/Admiral\ Freebee/*.mp3 -f
+mp3val /moshpit/Music/Music/Ghost\ Woman/Ghost\ Woman/*.mp3 -f
+mp3val /moshpit/Music/Music/Neil\ Young/After\ the\ Gold\ Rush/*.mp3 -f
+mp3val /moshpit/Music/Music/Black\ Mountain/Destroyer/*.mp3 -f
+mp3val /moshpit/Music/Music/John\ Frusciante/Inside\ Of\ Emptiness/*.mp3 -f
+mp3val /moshpit/Music/Music/John\ Frusciante/The\ Will\ to\ Death/*.mp3 -f
+mp3val /moshpit/Music/Music/Tomás\ Luis\ de\ Victoria/Officium\ Defunctorum/*.mp3 -f
+mp3val /moshpit/Music/Music/Lorde/Pure\ Heroine\ (Extended)/*.mp3 -f
+mp3val /moshpit/Music/Music/Martha\ Wainwright/Bloody\ Mother\ Fucking\ Asshole/*.mp3 -f
+mp3val /moshpit/Music/Music/ZZ\ Top/Rancho\ Texicano\ (The\ Very\ Best\ Of)\ CD01/*.mp3 -f
+mp3val /moshpit/Music/Music/Jóhann\ Jóhannsson/Arrival/*.mp3 -f
+mp3val /moshpit/Music/Music/Stereolab/Mars\ Audiac\ Quintet\ (Expanded\ Edition)/*.mp3 -f
+mp3val /moshpit/Music/Music/Add\ N\ to\ (X)/Revenge\ of\ the\ Black\ Regent/*.mp3 -f
+mp3val /moshpit/Music/Music/Oh\ Sees/Orc/*.mp3 -f
+mp3val /moshpit/Music/Music/Tindersticks/Curtains/*.mp3 -f
+mp3val /moshpit/Music/Music/The\ Stone\ Roses/The\ Stone\ Roses/*.mp3 -f
+mp3val /moshpit/Music/Music/Chinese\ Man/The\ Groove\ Sessions/*.mp3 -f
+mp3val /moshpit/Music/Music/The\ Breeders/Last\ Splash\ (30th\ Anniversary\ Edition)/*.mp3 -f
+mp3val /moshpit/Music/Music/Jane_s\ Addiction/Strays/*.mp3 -f
+mp3val /moshpit/Music/Music/Jane_s\ Addiction/Ritual\ de\ lo\ habitual/*.mp3 -f
+mp3val /moshpit/Music/Music/Clutch/Sunrise\ on\ Slaughter\ Beach/*.mp3 -f
+mp3val /moshpit/Music/Music/Pearl\ Jam/Vs_/*.mp3 -f
+mp3val /moshpit/Music/Music/Pearl\ Jam/Yield/*.mp3 -f
+mp3val /moshpit/Music/Music/Alice\ Coltrane/Journey\ in\ Satchidananda/*.mp3 -f
+mp3val /moshpit/Music/Music/The\ Limiñanas/Electrified\ (Best-of\ 2009\ -\ 2022)/*.mp3 -f
+mp3val /moshpit/Music/Music/Tito\ &\ Tarantula/Back\ Into\ The\ Darkness/*.mp3 -f
+mp3val /moshpit/Music/Music/The\ Tallis\ Scholars/Requiem/*.mp3 -f
+mp3val /moshpit/Music/Music/Thee\ Oh\ Sees/Carrion\ Crawler\ _\ The\ Dream/*.mp3 -f
+mp3val /moshpit/Music/Music/Various\ Artists/Sacred\ Bones\ Presents_\ Todo\ Muere\ Vol.\ 4/*.mp3 -f
+mp3val /moshpit/Music/Music/Jolie\ Holland/Catalpa/*.mp3 -f
+mp3val /moshpit/Music/Music/Link\ Wray/Rumble!\ The\ Best\ of\ Link\ Wray/*.mp3 -f
+mp3val /moshpit/Music/Music/The\ Helio\ Sequence/The\ Helio\ Sequence/*.mp3 -f
+mp3val /moshpit/Music/Music/The\ Cult\ Of\ Dom\ Keller/Goodbye\ To\ the\ Light/*.mp3 -f
+mp3val /moshpit/Music/Music/VISTA\ CHINO/PEACE/*.mp3 -f

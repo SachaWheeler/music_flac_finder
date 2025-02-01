@@ -1,0 +1,955 @@
+/moshpit/Music/Music/Beck/Sea Change/04 Lonesome Tears.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Slayer/Reign In Blood/07 Reborn.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Slayer/Reign In Blood/01 Angel Of Death.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Slayer/Reign In Blood/05 Jesus Saves.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Slayer/Reign In Blood/03 Necrophobic.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Slayer/Reign In Blood/12 Criminally Insane (Remix).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Slayer/Reign In Blood/06 Criminally Insane.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Slayer/Reign In Blood/08 Epidemic.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Slayer/Reign In Blood/04 Altar Of Sacrifice.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Slayer/Reign In Blood/09 Postmortem.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Slayer/Reign In Blood/11 Aggressive Perfector.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Slayer/Reign In Blood/10 Raining Blood.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Slayer/Reign In Blood/02 Piece By Piece.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Slayer/World Painted Blood/02 Unit.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Slayer/World Painted Blood/09 Psychopathy Red.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Slayer/World Painted Blood/03 Snuff.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Slayer/World Painted Blood/01 World Painted Blood.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Slayer/World Painted Blood/04 Beauty Through Order.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Slayer/World Painted Blood/06 Public Display Of Dismemberment.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Slayer/World Painted Blood/05 Hate Worldwide.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Slayer/World Painted Blood/10 Playing With Dolls.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Slayer/World Painted Blood/11 Not Of This God.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Slayer/World Painted Blood/07 Human Strain.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Slayer/World Painted Blood/08 Americon.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Stranglers/Greatest Hits 1977-1990/17 Go Buddy Go.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/The _Egocentrics/Love Fear Choices and Astronauts/03 Bright Dawn of the Soul.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The _Egocentrics/Love Fear Choices and Astronauts/02 20 12.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The _Egocentrics/Love Fear Choices and Astronauts/01 Spacewulf.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The _Egocentrics/Love Fear Choices and Astronauts/04 Mystic Initiation.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Peeping Tom/Peeping Tom/08 Celebrity Death Match.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Peeping Tom/Peeping Tom/06 Kill the DJ.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Peeping Tom/Peeping Tom/07 Caipirinha.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Peeping Tom/Peeping Tom/02 Mojo.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Peeping Tom/Peeping Tom/09 How U Feelin_.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Peeping Tom/Peeping Tom/05 Your Neighborhood Spaceman.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Peeping Tom/Peeping Tom/01 Five Seconds.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Peeping Tom/Peeping Tom/10 Sucker.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Peeping Tom/Peeping Tom/04 Getaway.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Peeping Tom/Peeping Tom/03 Don't Even Trip.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Philip Glass/Dracula/24 Mina On The Terrace.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Philip Glass/Dracula/22 Renfield In The Drawing Room.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Philip Glass/Dracula/23 Dr. Van Helsing And Dracula.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Philip Glass/Dracula/25 Mina's Bedroom _ The Abbey.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Philip Glass/Dracula/26 The End Of Dracula.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Philip Glass/Music In Twelve Parts/10 Music In Twelve Parts, Part 10.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Philip Glass/Music In Twelve Parts/08 Music In Twelve Parts, Part 8.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Philip Glass/Music In Twelve Parts/09 Music In Twelve Parts, Part 9.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Philip Glass/Music In Twelve Parts/11 Music In Twelve Parts, Part 11.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Philip Glass/Music In Twelve Parts/07 Music In Twelve Parts, Part 7.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Philip Glass/Music In Twelve Parts/12 Music In Twelve Parts, Part 12.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Philip Glass/Music In Twelve Parts/06 Music In Twelve Parts, Part 6.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Philip Glass/Music In Twelve Parts/05 Music In Twelve Parts, Part 5.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Philip Glass/Music In Twelve Parts/04 Music In Twelve Parts, Part 4.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Ann Peebles/The Best Of Ann Peebles/10 Breaking Up Somebody's Home.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Ann Peebles/The Best Of Ann Peebles/13 I've Been There Before.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Ann Peebles/The Best Of Ann Peebles/02 I Can't Let You Go.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Ann Peebles/The Best Of Ann Peebles/19 A Love Vibration.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Ann Peebles/The Best Of Ann Peebles/11 Trouble, Heartaches & Sadness.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Ann Peebles/The Best Of Ann Peebles/04 I'll Get Along.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Ann Peebles/The Best Of Ann Peebles/07 Heartaches, Heartaches.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Ann Peebles/The Best Of Ann Peebles/20 Beware.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Ann Peebles/The Best Of Ann Peebles/23 I Don't Lend My Man.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Wim Mertens/The Belly Of An Architect/10 Andrea Doria.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Wim Mertens/The Belly Of An Architect/11 Galba.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Wim Mertens/The Belly Of An Architect/12 Caracalla.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Wim Mertens/The Belly Of An Architect/13 Hadrian.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Wim Mertens/The Belly Of An Architect/01 Augustus.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Wim Mertens/The Belly Of An Architect/14 Augustus.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Girl Talk/Feed The Animals WEB/10 In Step.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Girl Talk/Feed The Animals WEB/02 Shut The Club Down.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Girl Talk/Feed The Animals WEB/03 Still Here.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Girl Talk/Feed The Animals WEB/14 Play Your Part (Pt. 2).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Girl Talk/Feed The Animals WEB/13 Don't Stop.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Girl Talk/Feed The Animals WEB/11 Let Me See You.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Girl Talk/Feed The Animals WEB/12 Here's The Thing.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Girl Talk/Feed The Animals WEB/01 Play Your Part (Pt. 1).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Girl Talk/Feed The Animals WEB/06 No Pause.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Girl Talk/Feed The Animals WEB/05 Set It Off.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Girl Talk/Feed The Animals WEB/07 Like This.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Girl Talk/Feed The Animals WEB/08 Give Me A Beat.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Girl Talk/Feed The Animals WEB/09 Hands In The Air.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Girl Talk/Feed The Animals WEB/04 What It's All About.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Girl Talk/unstoppable/05 bang this in the club.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Girl Talk/unstoppable/all eyes on me.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Girl Talk/unstoppable/04 pump it up.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Girl Talk/unstoppable/12 can't stop.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Girl Talk/unstoppable/03 touch 2 feel.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Girl Talk/unstoppable/11 step to it.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Girl Talk/unstoppable/09 cleveland shake.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Girl Talk/unstoppable/06 bodies hit the floor.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Girl Talk/unstoppable/10 keeping the beat.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Girl Talk/unstoppable/02 non-stop party now.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Girl Talk/unstoppable/08 happen (feat. _chris glover_).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Girl Talk/unstoppable/07 the feeling.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Ceremony/10 Sweet Salvation.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Ceremony/01 Ceremony.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Ceremony/06 Full Tilt.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Ceremony/09 Indian.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Ceremony/07 Heart Of Soul.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Ceremony/04 White.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Ceremony/02 Wild Hearted Son.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Ceremony/08 Bangkok Rain.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Ceremony/05 If.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Ceremony/11 Wonderland.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Ceremony/03 Earth Mofo.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Sonic Temple/11 Medicine Train.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Sonic Temple/09 Soldier Blue.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Sonic Temple/07 New York City.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Sonic Temple/02 Fire Woman.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Sonic Temple/10 Wake Up Time For Freedom.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Sonic Temple/01 Sun King.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Sonic Temple/08 Automatic Blues.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Sonic Temple/06 Soul Asylum.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Sonic Temple/04 Edie (Ciao Baby).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Sonic Temple/03 American Horse.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Sonic Temple/05 Sweet Soul Sister.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Electric/06 Bad Fun.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Electric/04 Aphrodisiac Jacket.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Electric/08 Love Removal Machine.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Electric/01 Wild Flower.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Electric/03 Lil' Devil.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Electric/07 King Contrary Man.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Electric/09 Born To Be Wild.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Electric/05 Electric Jacket.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Electric/02 Peace Dog.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Electric/11 Memphis Hip Shake.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Electric/10 Outlaw.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Love/08 Revolution.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Love/06 Phoenix.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Love/09 She Sells Sanctuary.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Love/02 Big Neon Glitter.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Love/12 Little Face.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Love/05 Rain.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Love/04 Brother Wolf, Sister Moon.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Love/07 Hollow Man.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Love/03 Love.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Love/10 Black Angel.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Love/01 Nirvana.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Love/11 Here Comes The Rain.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Dreamtime (Remaster)/09 Rider In The Snow.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Dreamtime (Remaster)/03 83rd Dream.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Dreamtime (Remaster)/04 Butterflies.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Dreamtime (Remaster)/07 A Flower In The Desert.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Dreamtime (Remaster)/08 Dreamtime.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Dreamtime (Remaster)/02 Spiritwalker.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Dreamtime (Remaster)/01 Horse Nation.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Dreamtime (Remaster)/05 Go West.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Dreamtime (Remaster)/06 Gimmick.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Cult/Dreamtime (Remaster)/10 Bad Medicine Waltz.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Bauhaus/In The Flat Field/18 Terror Couple Kill Colonel [Remix].mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Chingon/Azteca De Oro/06 en califas.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Chingon/Azteca De Oro/14 mexicans storming (ft. temoc).mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Chingon/Azteca De Oro/17 when the shit gets real.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Chingon/Azteca De Oro/11 love the way (ft. temoc).mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Chingon/Azteca De Oro/03 soy sexy.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Chingon/Azteca De Oro/13 california breeze.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Chingon/Azteca De Oro/16 surprise, surprize (ft. goblin.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Chingon/Azteca De Oro/08 kill-a-man (ft. mr. shadow, di.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Chingon/Azteca De Oro/09 baila mujer (ft. temoc).mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Chingon/Azteca De Oro/07 get back.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Chingon/Azteca De Oro/04 v.i.p. (ft. kosme).mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Chingon/Azteca De Oro/02 yego don chingon.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Chingon/Azteca De Oro/12 villa.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Chingon/Azteca De Oro/05 got it (ft. spanky loco).mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Chingon/Azteca De Oro/01 intro.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Chingon/Azteca De Oro/15 till the end.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Chingon/Azteca De Oro/10 since day one (ft. temoc).mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Songs_ Ohia/The Lioness/01 The Black Crow.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Songs_ Ohia/The Lioness/04 Being In Love.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Songs_ Ohia/The Lioness/07 Back On Top.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Songs_ Ohia/The Lioness/05 Lioness.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Songs_ Ohia/The Lioness/02 Tigress.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Songs_ Ohia/The Lioness/09 Just A Spark.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Songs_ Ohia/The Lioness/06 Coxcomb Red.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Songs_ Ohia/The Lioness/08 Baby Take A Look.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Songs_ Ohia/The Lioness/03 Nervous Bride.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Songs_ Ohia/The Magnolia Electric Co/01 Farewell Transmission.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Songs_ Ohia/The Magnolia Electric Co/03 Just Be Simple.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Songs_ Ohia/The Magnolia Electric Co/04 Almost Was Good Enough.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Songs_ Ohia/The Magnolia Electric Co/08 Hold On Magnolia.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Songs_ Ohia/The Magnolia Electric Co/06 Peoria Lunch Box Blues.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Songs_ Ohia/The Magnolia Electric Co/02 I've Been Riding With The Ghos.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Songs_ Ohia/The Magnolia Electric Co/05 The Old Black Hen.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Songs_ Ohia/The Magnolia Electric Co/07 John Henry Split My Heart.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Songs_ Ohia/Didn't It Rain/05 Blue Factory Flame.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Songs_ Ohia/Didn't It Rain/04 Cross The Road, Molina.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Songs_ Ohia/Didn't It Rain/06 Two Blue Lights.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Songs_ Ohia/Didn't It Rain/03 Ring The Bell.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Songs_ Ohia/Ghost Tropic/08 Incantation.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Songs_ Ohia/Ghost Tropic/01 Lightning Risked It All.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Songs_ Ohia/Ghost Tropic/03 No Limit On The Words.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Songs_ Ohia/Ghost Tropic/02 The Body Burned Away.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Songs_ Ohia/Ghost Tropic/07 Ghost Tropic.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Songs_ Ohia/Ghost Tropic/05 The Ocean_s Nerves.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Songs_ Ohia/Ghost Tropic/04 Ghost Tropic.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Songs_ Ohia/Ghost Tropic/06 Not Just A Ghost's Heart.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The December Sound/The Silver Album/11 Truth Hurts.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The December Sound/The Silver Album/07 12.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The December Sound/The Silver Album/04 Do You In.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The December Sound/The Silver Album/08 Kill Me (Before I Kill You).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The December Sound/The Silver Album/12 Tape Tape.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The December Sound/The Silver Album/05 Painkiller.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The December Sound/The Silver Album/06 Reminder.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The December Sound/The Silver Album/13 Not if It's on Your Time.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The December Sound/The Silver Album/03 Drone Refusenik.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The December Sound/The Silver Album/10 Il Forte.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The December Sound/The Silver Album/01 Never.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The December Sound/The Silver Album/09 Maker.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The December Sound/The Silver Album/02 No Heaven Like Hell.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Triggerfinger/All This Dancin' Around/09 Wihtout A Sound.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Triggerfinger/All This Dancin' Around/07 Cherry.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Triggerfinger/All This Dancin' Around/02 Let It Ride.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Triggerfinger/All This Dancin' Around/11 It Hasn't Gone Away.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Triggerfinger/All This Dancin' Around/04 I'm Coming For You.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Triggerfinger/All This Dancin' Around/06 Feed Me.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Triggerfinger/All This Dancin' Around/10 Tuxedo.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Triggerfinger/All This Dancin' Around/05 All Night Long.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Triggerfinger/All This Dancin' Around/08 My Baby Got A Gun.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Triggerfinger/All This Dancin' Around/03 Love Lost In Love.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Triggerfinger/All This Dancin' Around/01 All This Dancin' Around.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Triggerfinger/What grabs ya/09 Lines.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Triggerfinger/What grabs ya/01 Short Term Memory Love.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Triggerfinger/What grabs ya/07 All My Floating.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Triggerfinger/What grabs ya/06 Is It.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Triggerfinger/What grabs ya/04 Halfway Town.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Triggerfinger/What grabs ya/02 First Taste.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Triggerfinger/What grabs ya/05 Scream.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Triggerfinger/What grabs ya/08 What Grabs Ya.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Triggerfinger/What grabs ya/03 Soon.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Cream Abdul Babar/The Catalyst To Ruins/It's Hard To Sue When You're Laughing.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Cream Abdul Babar/The Catalyst To Ruins/E Is For Intelligent.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Cream Abdul Babar/The Catalyst To Ruins/Attack Ships On Fire.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Cream Abdul Babar/The Catalyst To Ruins/Blown Goat.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Cream Abdul Babar/The Catalyst To Ruins/Blast & Damn.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Cream Abdul Babar/The Catalyst To Ruins/Todd Space Is My Night Job.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Cream Abdul Babar/The Catalyst To Ruins/TDT.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Cream Abdul Babar/The Catalyst To Ruins/A Guide To Home Ownership.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Cream Abdul Babar/The Catalyst To Ruins/Kill People.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Cream Abdul Babar/The Catalyst To Ruins/Specialization Is For Insects.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Cream Abdul Babar/The Catalyst To Ruins/Empire Of The Dead.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Silent Low/EP 2014/02 The Freak I Am.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Silent Low/EP 2014/01 Dear Devil.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Silent Low/EP 2014/03 Black Heart Beating.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Vic Chesnutt/About to Choke/12 See You Around.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Vic Chesnutt/About to Choke/05 Swelters.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Vic Chesnutt/About to Choke/04 Tarragon.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Vic Chesnutt/About to Choke/10 Giant Sands.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Vic Chesnutt/About to Choke/11 Threads.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Vic Chesnutt/About to Choke/06 (It's No Secret) Satisfaction.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Vic Chesnutt/About to Choke/09 Hot Seat.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Vic Chesnutt/About to Choke/07 Little Vacation.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Vic Chesnutt/About to Choke/08 Degenerate.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Vic Chesnutt/About to Choke/01 Myrtle.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Vic Chesnutt/About to Choke/03 Ladle.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Vic Chesnutt/About to Choke/02 New Town.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/Never Too Loud/02 City Streets.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/Never Too Loud/06 King Of Magazines.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/Never Too Loud/04 Take Me Home.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/Never Too Loud/09 Something Better.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/Never Too Loud/08 Your Tears My Smile.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/Never Too Loud/13 Sugar High (Bonus Track).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/Never Too Loud/03 Still In High School.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/Never Too Loud/07 Forest For The Threes.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/Never Too Loud/05 Let's Get Undressed.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/Never Too Loud/10 Ravenous.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/Never Too Loud/12 Run Ruin The Day (Bonus Track).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/Never Too Loud/01 Code Of The Road.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/Never Too Loud/11 Never To Loud.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/We Sweat Blood/05 Heartbreak's A Blessing.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/We Sweat Blood/04 I Want You.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/We Sweat Blood/01 Forget My Name.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/We Sweat Blood/08 Home To Hell.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/We Sweat Blood/12 We Sweat Blood.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/We Sweat Blood/02 Dance.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/We Sweat Blood/06 Wait A Minute.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/We Sweat Blood/07 Strut.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/We Sweat Blood/03 I Love Living In The City.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/We Sweat Blood/10 The Cross.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/We Sweat Blood/11 Love Travel.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/We Sweat Blood/09 Hot Damn Woman.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/I'm Alive and on Fire/01 Rock Shit Hot.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/I'm Alive and on Fire/13 My Love is Bold.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/I'm Alive and on Fire/04 Sugar Chocolate.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/I'm Alive and on Fire/08 Cadillac.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/I'm Alive and on Fire/10 Too Much Trouble.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/I'm Alive and on Fire/03 Bounce.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/I'm Alive and on Fire/11 New Woman.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/I'm Alive and on Fire/02 Samuel Sin.mp3: Audio file with ID3 version 2.2.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/I'm Alive and on Fire/06 Mango Kid.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/I'm Alive and on Fire/07 Sex Change Shake.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/I'm Alive and on Fire/09 Dr. Evening.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/I'm Alive and on Fire/12 Womanbound.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Danko Jones/I'm Alive and on Fire/05 I'm Alive and on Fire.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/N.E.R.D/In Search of.._/Tape You.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Monaural
+/moshpit/Music/Music/Nozinja/Nozinja Lodge/05 Tsekeleke.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nozinja/Nozinja Lodge/07 Nyamsoro.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nozinja/Nozinja Lodge/08 N'wanga I Jesu.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nozinja/Nozinja Lodge/06 Vamaseve Vatswelani.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nozinja/Nozinja Lodge/09 Vomaseve Hina.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nozinja/Nozinja Lodge/03 Baby Do U Feel Me.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nozinja/Nozinja Lodge/04 Xihukwani.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nozinja/Nozinja Lodge/10 Wo Va Jaha.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nozinja/Nozinja Lodge/01 Nwa Baloyi.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nozinja/Nozinja Lodge/02 Mitshetsho We Zindaba.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/J Mascis/Several Shades Of Why/09 Can I.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/J Mascis/Several Shades Of Why/04 Very Nervous and Love.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/J Mascis/Several Shades Of Why/02 Several Shades of Why.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/J Mascis/Several Shades Of Why/01 Listen to Me.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/J Mascis/Several Shades Of Why/10 What Happened.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/J Mascis/Several Shades Of Why/06 Make it Right.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/J Mascis/Several Shades Of Why/03 Not Enough.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/J Mascis/Several Shades Of Why/07 Where Are You.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/J Mascis/Several Shades Of Why/08 Too Deep.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Red Snapper/Making Bones/04 Bogeyman.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Red Snapper/Making Bones/05 The Tunnel.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Red Snapper/Making Bones/03 Image Of You.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Red Snapper/Making Bones/07 Spitalfields.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Red Snapper/Making Bones/02 Crease.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Red Snapper/Making Bones/08 Seeing Red.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Red Snapper/Making Bones/10 4 Dead Monks.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Red Snapper/Making Bones/11 Quick Temper (Bonus Track Japan Only).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Red Snapper/Making Bones/06 Like A Moving Truck.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Red Snapper/Making Bones/09 Suckerpunch.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Red Snapper/Making Bones/01 The Sleepless.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Red Snapper/Reeled And Skinned/08 Wesley Dont Surf.mp3: Audio file with ID3 version 2.2.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Red Snapper/Reeled And Skinned/01 Snapper.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Red Snapper/Reeled And Skinned/07 In Deep.mp3: Audio file with ID3 version 2.2.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Red Snapper/Reeled And Skinned/09 Lobster.mp3: Audio file with ID3 version 2.2.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Red Snapper/Reeled And Skinned/04 Hot Flush.mp3: Audio file with ID3 version 2.2.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Red Snapper/Reeled And Skinned/05 Cortina.mp3: Audio file with ID3 version 2.2.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Red Snapper/Reeled And Skinned/03 Swank.mp3: Audio file with ID3 version 2.2.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/CocoRosie/The Adventures of Ghosthorse and Stillborn/12 Miracle.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Lonely Kamel/Shit City/03 Is it Over.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Lonely Kamel/Shit City/06 Freezing.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Lonely Kamel/Shit City/02 White Lines.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Lonely Kamel/Shit City/07 BFD.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Lonely Kamel/Shit City/05 Seal The Perimeter.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Lonely Kamel/Shit City/08 Falling Down.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Lonely Kamel/Shit City/01 Shit City.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Lonely Kamel/Shit City/09 Nightjar.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Lonely Kamel/Shit City/04 I Feel Sick.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Lonely Kamel/Lonely Kamel/10 Blindfolded.mp3: Audio file with ID3 version 2.3.0, contains:\012- Audio file with ID3 version 2.4.0, unsynchronized frames, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Mariee Sioux/Gift for the End/01 Homeopathic.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Mariee Sioux/Gift for the End/07 Twin Song.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Mariee Sioux/Gift for the End/08 Tule.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Mariee Sioux/Gift for the End/03 Old Magic.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Mariee Sioux/Gift for the End/06 White Fanged Foreverness.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Mariee Sioux/Gift for the End/02 Ghosts in My Head.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Mariee Sioux/Gift for the End/04 Icarus Eye.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Mariee Sioux/Gift for the End/05 Swimming Through Stone.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Tender Prey/07 Slowly Goes The Night.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Tender Prey/01 The Mercy Seat.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Tender Prey/06 City Of Refuge.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Tender Prey/05 Mercy.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Tender Prey/10 New Morning.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Tender Prey/02 Up Jumped The Devil.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Tender Prey/03 Deanna.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Tender Prey/04 Watching Alice.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/From Her To Eternity/07 Saint Huck.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/From Her To Eternity/05 In The Ghetto.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/From Her To Eternity/08 Wings Off Flies.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/From Her To Eternity/06 The Moon Is In The Gutter.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/From Her To Eternity/09 A Box For Black Paul.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/From Her To Eternity/02 Cabin Fever!.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/From Her To Eternity/01 Avalanche.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/From Her To Eternity/04 From Her To Eternity.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/From Her To Eternity/03 Well Of Misery.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/The Firstborn Is Dead/08 The Six Strings That Drew Blo.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/The Firstborn Is Dead/07 Blind Lemon Jefferson.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/The Firstborn Is Dead/06 Wanted Man.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/The Firstborn Is Dead/01 Tupelo.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/The Firstborn Is Dead/03 Train Long-suffering.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/The Firstborn Is Dead/05 Knockin' On Joe.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/The Firstborn Is Dead/02 Say Goodbye To The Little Gir.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/The Firstborn Is Dead/04 Black Crow King.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Boatman's Call/12 Green Eyes.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Boatman's Call/07 Where Do We Go Now But Nowhere.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Boatman's Call/09 Black Hair.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Boatman's Call/06 The One I've Been Waiting For.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Boatman's Call/08 West Country Girl.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Boatman's Call/04 Brompton Oratory.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Boatman's Call/02 Lime Tree Arbour.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Boatman's Call/05 There Is A Kingdom.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Boatman's Call/11 Far From Me.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Boatman's Call/03 People Ain't No Good.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Boatman's Call/01 Into My Arms.mp3: Audio file with ID3 version 2.2.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Boatman's Call/10 Idiot Prayer.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Push The Sky Away/08 Higgs Boson Blues.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Push The Sky Away/02 Wide Lovely Eyes.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Push The Sky Away/05 Mermaids.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Push The Sky Away/01 We No Who U R.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Push The Sky Away/04 Jubilee Street.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Push The Sky Away/03 Water's Edge.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Push The Sky Away/07 Finishing Jubilee Street.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Push The Sky Away/06 We Real Cool.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Push The Sky Away/09 Push The Sky Away.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Your Funeral ... My Trial/07 Sad Waters.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Your Funeral ... My Trial/06 Hard On For Love.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Your Funeral ... My Trial/03 Jacks Shadow.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Your Funeral ... My Trial/01 Your Funeral, My Trial.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Your Funeral ... My Trial/02 Stranger Than Kindness.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Your Funeral ... My Trial/09 Scum.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Your Funeral ... My Trial/08 Long Time Man.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Your Funeral ... My Trial/05 She Fell Away.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Your Funeral ... My Trial/04 The Carny.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Good Son/02 The Good Son.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Good Son/08 The Witness Song.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Good Son/05 The Ship Song.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Good Son/09 Lucy.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Good Son/06 The Hammer Song.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Good Son/03 Sorrow's Child.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Good Son/01 Foi Na Cruz.mp3: Audio file with ID3 version 2.2.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Good Son/07 Lament.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Nick Cave & The Bad Seeds/Good Son/10 The Train Song.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Black Keys/El Camino/05 Money Maker.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Black Keys/El Camino/10 Nova Baby.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Black Keys/El Camino/01 Lonely Boy.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Black Keys/El Camino/02 Dead and Gone.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Black Keys/El Camino/06 Run Right Back.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Black Keys/El Camino/04 Little Black Submarines.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Black Keys/El Camino/11 Mind Eraser.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Black Keys/El Camino/07 Sister.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Black Keys/El Camino/03 Gold on the Ceiling.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Black Keys/El Camino/08 Hell of a Season.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Black Keys/El Camino/09 Stop Stop.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Magic Shoppe/Reverberation/1-06 Transparency.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Magic Shoppe/Reverberation/1-01 All the Way.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Magic Shoppe/Reverberation/1-03 Something's Wrong.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Magic Shoppe/Reverberation/1-02 Dead Poplar.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Magic Shoppe/Reverberation/1-08 Burn Right Through.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Magic Shoppe/Reverberation/1-07 Haunted Hollywood.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Magic Shoppe/Reverberation/1-04 Gallery.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Magic Shoppe/Reverberation/1-05 Time to Go.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kate Bush/The Kick Inside/07 James and the Cold Gun.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kate Bush/The Kick Inside/09 Oh to Be in Love.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kate Bush/The Kick Inside/03 Strange Phenomena.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kate Bush/The Kick Inside/06 Wuthering Heights.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kate Bush/The Kick Inside/13 The Kick Inside.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kate Bush/The Kick Inside/11 Them Heavy People.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kate Bush/The Kick Inside/04 Kite.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kate Bush/The Kick Inside/08 Feel It.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kate Bush/The Kick Inside/12 Room for the Life.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kate Bush/The Kick Inside/05 The Man With the Child in His Eyes.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kate Bush/The Kick Inside/02 The Saxophone Song.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kate Bush/The Kick Inside/01 Moving.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kate Bush/The Kick Inside/10 L'Amour Looks Something Like You.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kate Bush/Hounds of Love/15 Be Kind to My Mistakes.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kate Bush/Hounds of Love/17 Burning Bridge.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kate Bush/Hounds of Love/16 Under the Ivy.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kate Bush/Hounds of Love/18 My Lagan Love.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kate Bush/Hounds of Love/14 Running Up That Hill (12_ mix).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kate Bush/Hounds of Love/13 The Big Sky (Meteorogical mix).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Mercury Rev/Yerself Is Steam/06 Frittering.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Mercury Rev/Yerself Is Steam/01 Chasing A Bee.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Mercury Rev/Yerself Is Steam/05 Sweet Odysee Of A Cancer Cell T' Th' Center Of Yer Heart.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Mercury Rev/Yerself Is Steam/02 Syringe Mouth.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Mercury Rev/Yerself Is Steam/03 Coney Island Cyclone.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Mercury Rev/Yerself Is Steam/08 Very Sleepy Rivers.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Mercury Rev/Yerself Is Steam/07 Continuous Trucks And Thunder Under A Mother's Smile.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Mercury Rev/Yerself Is Steam/04 Blue And Black.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Moon Duo/Killing Time EP/01 Killing Time.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Moon Duo/Killing Time EP/04 Ripples.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Michelle Gurevich/Party Girl/04 I Kiss The Hand Of My Destroyer.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Chimp Spanner/Imperium Vorago/08 Jacob's Ladder.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Chimp Spanner/At the Dream's Edge/Arpeggio Idea.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Chimp Spanner/NA/All Roads Lead Here.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Chimp Spanner/NA/Get your strut on you slag.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Karen Dalton/In My Own Time/08 Same Old Man.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Karen Dalton/In My Own Time/04 Katie Cruel.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Karen Dalton/In My Own Time/05 How Sweet It Is.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Karen Dalton/In My Own Time/02 When A Man Loves A Woman.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Karen Dalton/In My Own Time/09 One Night Of Love.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Karen Dalton/In My Own Time/03 In My Own Dream.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Karen Dalton/In My Own Time/10 Are You Leaving For The Country.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Karen Dalton/In My Own Time/01 Something On Your Mind.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Karen Dalton/In My Own Time/06 In A Station.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Karen Dalton/In My Own Time/07 Take Me.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Two Step Slumber/6 Songs/01 The Great Spinner.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Jayhawks/Sound Of Lies/14 Sleepyhead.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Jayhawks/Sound Of Lies/17 Sound Of Lies (Rough Mix).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Jayhawks/Sound Of Lies/16 It's Up To You (Alternate Version).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Jayhawks/Sound Of Lies/15 Kirby's Tune (Studio Outtake).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/John Bramwell (with I Am Kloot)/Natural History (Reissue)/05 Loch.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/John Bramwell (with I Am Kloot)/Natural History (Reissue)/04 No Fear Of Falling.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/John Bramwell (with I Am Kloot)/Natural History (Reissue)/07 Dark Star.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/John Bramwell (with I Am Kloot)/Natural History (Reissue)/06 Storm Warning.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/John Bramwell (with I Am Kloot)/Natural History (Reissue)/14 Over My Shoulder.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/John Bramwell (with I Am Kloot)/Natural History (Reissue)/10 Twist.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/John Bramwell (with I Am Kloot)/Natural History (Reissue)/09 Sunlight Hits The Snow.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/John Bramwell (with I Am Kloot)/Natural History (Reissue)/13 Titanic.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/John Bramwell (with I Am Kloot)/Natural History (Reissue)/11 86 TV's.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/John Bramwell (with I Am Kloot)/Natural History (Reissue)/02 Morning Rain.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/John Bramwell (with I Am Kloot)/Natural History (Reissue)/03 Bigger Wheels.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/John Bramwell (with I Am Kloot)/Natural History (Reissue)/12 Because.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/John Bramwell (with I Am Kloot)/Natural History (Reissue)/15 Stand Another Drink (Proof).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/John Bramwell (with I Am Kloot)/Natural History (Reissue)/08 Stop.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Boo-Yaa T.R.I.B.E_/Angry Samoans/01 No Free Ride (Intro).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Boo-Yaa T.R.I.B.E_/Angry Samoans/10 Gang Bangin'.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Boo-Yaa T.R.I.B.E_/Angry Samoans/07 Retaliate.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Boo-Yaa T.R.I.B.E_/Angry Samoans/12 Angry Samoans.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Boo-Yaa T.R.I.B.E_/Angry Samoans/05 Full Metal Jack Move.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Boo-Yaa T.R.I.B.E_/Angry Samoans/03 Breakin' Lyfe Sykos.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Boo-Yaa T.R.I.B.E_/Angry Samoans/11 Mr. Mister Redeyes.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Boo-Yaa T.R.I.B.E_/Angry Samoans/02 Skared for Lyfe.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Boo-Yaa T.R.I.B.E_/Angry Samoans/08 Boogie Man.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Boo-Yaa T.R.I.B.E_/Angry Samoans/06 Kill for the Family.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Boo-Yaa T.R.I.B.E_/Angry Samoans/13 No Free Ride (Outro).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Boo-Yaa T.R.I.B.E_/Angry Samoans/04 Buried Alive.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Boo-Yaa T.R.I.B.E_/Angry Samoans/09 Where U Want It.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kyuss/_.. And the Circus Leaves Town/01 Hurricane.mp3: Audio file with ID3 version 2.2.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kyuss/_.. And the Circus Leaves Town/06 El Rodeo.mp3: Audio file with ID3 version 2.2.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Franz Schubert/The Lade of the Lake/05 Ellens dritter Gesang, Opus 52, No. 6, 'Ave Maria'.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kinski/Cosy Moments/04 Riff DAD.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kinski/Cosy Moments/07 Conflict Free Diamonds.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kinski/Cosy Moments/06 A Little Ticker Tape Never Hurt Anybody.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kinski/Cosy Moments/05 Throw it up.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kinski/Cosy Moments/10 Let Me Take You Through My Thought Process.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kinski/Cosy Moments/03 Skim Milf.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kinski/Cosy Moments/02 Last Day on Earth.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kinski/Cosy Moments/01 Long Term Exit Strategy.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kinski/Cosy Moments/09 We Think She's A Nurse.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kinski/Cosy Moments/08 Counterpointer.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kinski/Down Below It's Chaos/05 Argentina Turner.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kinski/Down Below It's Chaos/09 Silent Biker Type.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kinski/Down Below It's Chaos/03 Dayroom at Narita Int'l..mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kinski/Down Below It's Chaos/08 Punching Goodbye Out Front.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kinski/Down Below It's Chaos/02 Passwords & Alcohol.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kinski/Down Below It's Chaos/01 Crybaby Blowout.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kinski/Down Below It's Chaos/04 Boy, Was I Mad!.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kinski/Down Below It's Chaos/07 Plan, Steal, Drive.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Kinski/Down Below It's Chaos/06 Child Had to Catch a Train.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Can/Monster Movie/01 Father Cannot Yell.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Can/Monster Movie/03 Outside My Door.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Can/Monster Movie/02 Mary, Mary So Contrary.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Can/Monster Movie/04 Yoo Doo Right.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Can/Soundtracks/05 Soul Desert (from Madchen Mit Gewalt).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Can/Soundtracks/02 Tango Whiskeyman (from Deadlock).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Can/Soundtracks/06 Mother Sky (from Deep End).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Can/Soundtracks/03 Deadlock (instrumental title meleody).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Can/Soundtracks/07 She Brings The Rain (from Bottom).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Can/Soundtracks/04 Don't Turn The Light On, Leave (from Cream).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Can/Soundtracks/01 Deadlock (from Deadlock).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Can/Delay 1968/05 Man Named Joe.mp3: Audio file with ID3 version 2.2.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Davila 666/davila 666/18 alexandra.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Davila 666/davila 666/17 muy chistoso.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Davila 666/davila 666/15 quizas.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Davila 666/davila 666/16 no puedo ver.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Davila 666/davila 666/19 sera sera.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Donny Hathaway/Live/01 What's Goin' On.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Donny Hathaway/Live/06 We're Still Friends.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Donny Hathaway/Live/03 Hey Girl.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Donny Hathaway/Live/04 You've Got A Friend.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Donny Hathaway/Live/07 Jealous Guy.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Donny Hathaway/Live/08 Voices Inside (Everything Is E.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Donny Hathaway/Live/02 The Ghetto.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Donny Hathaway/Live/05 Little Ghetto Boy.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Donny Hathaway/Extension Of A Man/11 Lord Help Me.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Madeleine Peyroux/Half The Perfect World/06 A Little Bit.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Madeleine Peyroux/Half The Perfect World/12 Smile.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Madeleine Peyroux/Half The Perfect World/10 La Javanese.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Madeleine Peyroux/Half The Perfect World/09 Half the Perfect World.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Madeleine Peyroux/Half The Perfect World/07 Once in a While.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Madeleine Peyroux/Half The Perfect World/11 California Raining.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Madeleine Peyroux/Half The Perfect World/05 River.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Madeleine Peyroux/Half The Perfect World/08 Looking For (The Heart of Saturday Night).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Sonic Youth/The Eternal/12 Massage The History.mp3: Audio file with ID3 version 2.2.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/JEFF The Brotherhood/Heavy Days/08 Dreamscape.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/JEFF The Brotherhood/Heavy Days/07 Bone Jam.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/JEFF The Brotherhood/Heavy Days/10 Pleasure Centre.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/JEFF The Brotherhood/Heavy Days/02 U Got The Look.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/JEFF The Brotherhood/Heavy Days/09 Mind Ride.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/JEFF The Brotherhood/Heavy Days/03 Growing.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/JEFF The Brotherhood/Heavy Days/01 Heavy Days.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/JEFF The Brotherhood/Heavy Days/06 Heavy Krishna.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/JEFF The Brotherhood/Heavy Days/04 Heavy Damage.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/JEFF The Brotherhood/Heavy Days/05 The Tropics.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Fuck Buttons/Colours Move/03 Sweet Love For Planet Earth (Andrew Weatherall Remix).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Fuck Buttons/Colours Move/01 Colours Move (Radio Edit).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Fuck Buttons/Colours Move/02 Colours Move.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Fuck Buttons/Bright Tomorrow 7_/01 Bright Tomorrow.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Fuck Buttons/Bright Tomorrow 7_/02 Little Bloody Shoulder.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Fuck Buttons/Surf Solar/02 New Crossbow.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Fuck Buttons/Surf Solar/01 Surf Solar (7_ Edit).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Simian Mobile Disco/Temporary Pleasure/07 Bad Blood (featuring Alexis Taylor).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Simian Mobile Disco/Temporary Pleasure/09 Ambulance.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Simian Mobile Disco/Temporary Pleasure/01 Cream Dream (featuring Gruff Rhys).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Simian Mobile Disco/Temporary Pleasure/10 Pinball (featuring Telepathe).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Simian Mobile Disco/Temporary Pleasure/08 Turn Up The Dial (featuring Young Fathers).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Simian Mobile Disco/Temporary Pleasure/04 Cruel Intentions (featuring Beth Ditto).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Simian Mobile Disco/Temporary Pleasure/06 Synthesise.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Simian Mobile Disco/Temporary Pleasure/03 10000 Horses Can't Be Wrong.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Simian Mobile Disco/Temporary Pleasure/02 Audacity Of Huge (featuring Chris Keating).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Simian Mobile Disco/Temporary Pleasure/05 Off The Map (featuring Jamie Lidell).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Led Zeppelin/Physical Graffiti/12 The Wanton Song.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Led Zeppelin/Physical Graffiti/13 Boogie With Stu.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Led Zeppelin/Physical Graffiti/04 Houses Of The Holy.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Led Zeppelin/Physical Graffiti/15 Sick Again.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Led Zeppelin/Physical Graffiti/11 Night Flight.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Led Zeppelin/Physical Graffiti/03 In My Time Of Dying.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Led Zeppelin/Physical Graffiti/14 Black Country Woman.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Led Zeppelin/Physical Graffiti/10 Ten Years Gone.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Blood Meridian/Liquidate Paris!/05 Walk Through The Door.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Blood Meridian/Liquidate Paris!/01 everything she said.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Blood Meridian/Liquidate Paris!/06 When Tomorrow Comes.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Blood Meridian/Liquidate Paris!/03 Long Way Around.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Blood Meridian/Liquidate Paris!/08 she wears black, i wear white.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Blood Meridian/Liquidate Paris!/09 do you think you know my name_.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Blood Meridian/Liquidate Paris!/07 she calls me.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Blood Meridian/Liquidate Paris!/02 The Burning River Of Guilt.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Blood Meridian/Liquidate Paris!/04 Alice (Have We Met_).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Blood Meridian/Soldiers of Christ EP/02 Shit World.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Blood Meridian/Soldiers of Christ EP/03 Hey Waitress.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Blood Meridian/Soldiers of Christ EP/01 Soldiers of Christ.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Blood Meridian/Soldiers of Christ EP/04 My Last Stand.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Blood Meridian/Soldiers of Christ EP/05 I Hate the Blues (Dead Moon).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Vandelles/Del Black Aloha/05 Going Downtown.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Vandelles/Del Black Aloha/06 Chain Walking.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Vandelles/Del Black Aloha/03 Lovely Weather.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Vandelles/Del Black Aloha/12 Bad Volcano.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Vandelles/Del Black Aloha/02 Get Down.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Vandelles/Del Black Aloha/04 Roving Rex.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Vandelles/Del Black Aloha/11 Die for it Cowboy.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Vandelles/Del Black Aloha/07 Fever of the Beat.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Vandelles/Del Black Aloha/08 Blue LA Strip.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Vandelles/Del Black Aloha/09 Bomb the Surg.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Vandelles/Del Black Aloha/10 California Killer.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Vandelles/Del Black Aloha/01 Dash'N'Dive.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Sting/Nothing Like The Sun/07 We'll Be Together.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Sting/Nothing Like The Sun/09 Rock Steady.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Sting/Nothing Like The Sun/11 Little Wing.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Sting/Nothing Like The Sun/12 The Secret Marriage.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Sting/Nothing Like The Sun/05 They Dance Alone (Cueca Solo).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Sting/Nothing Like The Sun/01 The Lazarus Heart.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Sting/Nothing Like The Sun/08 Straight To My Heart.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Sting/Nothing Like The Sun/06 Fragile.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Sting/Nothing Like The Sun/10 Sister Moon.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Sting/Nothing Like The Sun/02 Be Still My Beating Heart.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Sting/Nothing Like The Sun/03 Englishman In New York.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Sting/Nothing Like The Sun/04 History Will Teach Us Nothing.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Ministry/Psalm 69_ The Way to Succeed & the Way to Suck Eggs/09 Grace.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Ministry/Psalm 69_ The Way to Succeed & the Way to Suck Eggs/07 Psalm 69.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Ministry/Psalm 69_ The Way to Succeed & the Way to Suck Eggs/03 TV II.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Ministry/Psalm 69_ The Way to Succeed & the Way to Suck Eggs/02 Just One Fix.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Ministry/Psalm 69_ The Way to Succeed & the Way to Suck Eggs/05 Jesus Built My Hotrod.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Ministry/Psalm 69_ The Way to Succeed & the Way to Suck Eggs/06 Scarecrow.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Ministry/Psalm 69_ The Way to Succeed & the Way to Suck Eggs/04 Hero.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Ministry/Psalm 69_ The Way to Succeed & the Way to Suck Eggs/08 Corrosion.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Ministry/Psalm 69_ The Way to Succeed & the Way to Suck Eggs/01 N.W.O..mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Yeti Season/2-01 Unathi.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Yeti Season/2-09 Silver Lining.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Yeti Season/2-08 Perfect Harmony.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Yeti Season/2-14 Unathi (Instrumental) (Bonus Track).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Yeti Season/2-03 Ala Vida.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Yeti Season/2-12 Idhar Udhar (Bonus Track).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Yeti Season/2-06 Lesson Learned.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Yeti Season/2-02 Sha Na Na.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Yeti Season/2-07 Dhuaan.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Yeti Season/2-11 Last Blast.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Yeti Season/2-10 Zaharila.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Yeti Season/2-16 Murkit Gem (Instrumental) (Bonus Track).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Yeti Season/2-15 Dhuaan (Instrumental) (Bonus Track).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Yeti Season/2-04 Fazed Out.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Yeti Season/2-05 Murkit Gem.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Yeti Season/2-13 Messy Grass (Bonus Track).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Yeti Season/2-17 Zaharila (Instrumental) (Bonus Track).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Enter The 37th Chamber/10 Heaven And Hell.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Enter The 37th Chamber/02 C.R.E.A.M..mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Enter The 37th Chamber/09 Criminology.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Enter The 37th Chamber/08 Cherchez La Ghost.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Enter The 37th Chamber/11 Bring Da Ruckus.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Enter The 37th Chamber/15 Outro.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Enter The 37th Chamber/12 Protect Ya Neck.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Enter The 37th Chamber/05 Uzi (Pinky Ring).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Enter The 37th Chamber/01 Duel Of The Iron Mics.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Enter The 37th Chamber/06 Interlude.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Enter The 37th Chamber/13 Incarcerated Scarfaces.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Enter The 37th Chamber/07 Glaciers Of Ice.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Enter The 37th Chamber/04 Can It All Be So Simple.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Enter The 37th Chamber/03 Mystery Of Chessboxin'.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Enter The 37th Chamber/14 Shimmy Shimmy Ya.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Return To The 37th Chamber/02 Iron Man.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Return To The 37th Chamber/06 Drums For Sale.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Return To The 37th Chamber/05 Snakes.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Return To The 37th Chamber/08 Sipped Up.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Return To The 37th Chamber/13 The End (Eat My Vocals).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Return To The 37th Chamber/01 4th Chamber.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Return To The 37th Chamber/11 Wu-Tang Clan Ain't Nuthing Ta F' Wit.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Return To The 37th Chamber/12 All I Need.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Return To The 37th Chamber/10 Verbal Intercourse.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Return To The 37th Chamber/04 Pork Chop Express.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Return To The 37th Chamber/03 Shaolin Brew.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Return To The 37th Chamber/07 Shadow Boxing.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/El Michels Affair/Return To The 37th Chamber/09 Tearz.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Royal Blood/Royal Blood/05 Blood Hands.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Royal Blood/Royal Blood/06 Little Monster.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Royal Blood/Royal Blood/07 Loose Change.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Royal Blood/Royal Blood/03 Figure It Out.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Royal Blood/Royal Blood/08 Careless.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Royal Blood/Royal Blood/01 Out Of The Black.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Royal Blood/Royal Blood/09 Ten Tonne Skeleton.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Royal Blood/Royal Blood/04 You Can Be So Cruel.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Royal Blood/Royal Blood/02 Come On Over.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Royal Blood/Royal Blood/10 Better Strangers.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Howling Bells/The Loudest Engine/13 Arrows (Exclusive Acoustic Version).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/RJD2/Since We Last Spoke/05 Making Days Longer.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/RJD2/Since We Last Spoke/14 Holy Toledo.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/RJD2/Since We Last Spoke/03 1976.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/RJD2/Since We Last Spoke/11 Through the Walls.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/RJD2/Since We Last Spoke/04 Ring Finger.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/RJD2/Since We Last Spoke/07 To All of You.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/RJD2/Since We Last Spoke/02 Exotic Talk.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/RJD2/Since We Last Spoke/10 Intro.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/RJD2/Since We Last Spoke/12 One Day.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/RJD2/Since We Last Spoke/06 Someone's Second Kiss.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/RJD2/Since We Last Spoke/09 Iced Lightning.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/RJD2/Since We Last Spoke/01 Since We Last Spoke.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/RJD2/Since We Last Spoke/13 De L'alouette.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/RJD2/Since We Last Spoke/08 Clean Living.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Grandaddy/Sumday/13 _Yeah_ Is What We Had.mp3: Audio file with ID3 version 2.2.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/We Hunt Buffalo/We Hunt Buffalo/07 21st Century Schizoid Man (Written by King Crimson).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/We Hunt Buffalo/We Hunt Buffalo/05 Someone Other.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/We Hunt Buffalo/We Hunt Buffalo/04 The Hitchhiker (Instrumental).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/We Hunt Buffalo/We Hunt Buffalo/08 Digital Reich.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/We Hunt Buffalo/We Hunt Buffalo/09 Harry Barry (Instrumental).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/We Hunt Buffalo/We Hunt Buffalo/02 The Search.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/We Hunt Buffalo/We Hunt Buffalo/03 Northern Desert.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/We Hunt Buffalo/We Hunt Buffalo/01 Strange Sensation.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/We Hunt Buffalo/We Hunt Buffalo/06 The Middle Son.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Heron Oblivion/Heron Oblivion/03 Sudden Lament.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Heron Oblivion/Heron Oblivion/07 Your Hollows.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Heron Oblivion/Heron Oblivion/02 Oriar.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Heron Oblivion/Heron Oblivion/06 Seventeen Landscapes.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Heron Oblivion/Heron Oblivion/01 Beneath Fields.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Heron Oblivion/Heron Oblivion/05 Faro.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Heron Oblivion/Heron Oblivion/04 Rama.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Causa Sui/Pewt'r Sessions 1/06 Latte Rock.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Causa Sui/Pewt'r Sessions 1/05 Mating Call.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Causa Sui/Pewt'r Sessions 1/02 May Sun.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Causa Sui/Pewt'r Sessions 1/01 Pewt'r Wozniacki.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Causa Sui/Pewt'r Sessions 1/03 Masted Milk.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Causa Sui/Pewt'r Sessions 1/04 Streams of Gratitude.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Causa Sui/Free Ride/01 Free Ride.mp3: Audio file with ID3 version 2.4.0, unsynchronized frames, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Causa Sui/Free Ride/03 White Sun.mp3: Audio file with ID3 version 2.4.0, unsynchronized frames, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Causa Sui/Free Ride/05 Top of the Hill.mp3: Audio file with ID3 version 2.4.0, unsynchronized frames, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Causa Sui/Free Ride/06 Flowers of Eventide.mp3: Audio file with ID3 version 2.4.0, unsynchronized frames, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Causa Sui/Free Ride/07 Newborn Road.mp3: Audio file with ID3 version 2.4.0, unsynchronized frames, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Causa Sui/Free Ride/02 Lotus.mp3: Audio file with ID3 version 2.4.0, unsynchronized frames, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Causa Sui/Free Ride/04 Passing Breeze.mp3: Audio file with ID3 version 2.4.0, unsynchronized frames, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Causa Sui/Pewt'r Sessions 3/02 Eutopia.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Causa Sui/Pewt'r Sessions 3/03 Incipiency Suite.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Causa Sui/Pewt'r Sessions 3/01 Abyssal Plain.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Causa Sui/Euporie Tide/07 Ju-Ju Blues.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Causa Sui/Euporie Tide/01 Homage.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Causa Sui/Euporie Tide/09 Euporie.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Causa Sui/Euporie Tide/06 Fichelscher Sun.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Causa Sui/Euporie Tide/10 Eternal Flow.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Causa Sui/Euporie Tide/08 Sota el cel.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Causa Sui/Euporie Tide/02 The Juice.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Causa Sui/Euporie Tide/04 Boozehound.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Causa Sui/Euporie Tide/05 Mireille.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Causa Sui/Euporie Tide/03 Echo Springs.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Causa Sui/Pewt'r Sessions 2/02 Gelassenheit.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Causa Sui/Pewt'r Sessions 2/01 Garden of Forking Paths.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Causa Sui/Pewt'r Sessions 2/03 Brassica Blues.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Soulsavers/Kubrick/06 Hal.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Soulsavers/Kubrick/03 Torrance.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Soulsavers/Kubrick/01 DeLarge.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Soulsavers/Kubrick/02 Clay.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Soulsavers/Kubrick/04 Dax.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Soulsavers/Kubrick/07 Mandrake.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Soulsavers/Kubrick/05 Joker.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Soulsavers/Kubrick/08 Ziegler.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Pogues/Rum Sodomy & The Lash/06 Sally Maclennane.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Millionaire/Paradisiac/10 Wake Up The Children.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Millionaire/Paradisiac/03 For A Maid.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Millionaire/Paradisiac/02 A Lust Unmatched.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Millionaire/Paradisiac/06 Alpha Male.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Millionaire/Paradisiac/01 I'm On A High.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Millionaire/Paradisiac/08 Ballad Of Pure Thought.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Millionaire/Paradisiac/07 Love Is A Sickness.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Millionaire/Paradisiac/09 We Don't Live There Anymore.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Slint/Spiderland/01 Breadcrumb Trail.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Slint/Spiderland/05 For Dinner....mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Slint/Spiderland/02 Nosferatu Man.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Slint/Spiderland/06 Good Morning, Captain.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Slint/Spiderland/03 Don, Aman.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Black Rainbows/Hawkdope/10 The Red Sky Above.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/ABC/The Lexicon of Love/01 Show Me.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/ABC/The Lexicon of Love/08 All of My Heart.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/ABC/The Lexicon of Love/02 Poison Arrow.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/ABC/The Lexicon of Love/10 The Look of Love, Part 4.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/ABC/The Lexicon of Love/09 4 Ever 2 Gether.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/ABC/The Lexicon of Love/06 The Look of Love, Part 1.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/ABC/The Lexicon of Love/03 Many Happy Returns.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/ABC/The Lexicon of Love/05 Valentine's Day.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/ABC/The Lexicon of Love/07 Date Stamp.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/ABC/The Lexicon of Love/04 Tears Are Not Enough.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Siouxsie and the Banshees/Tinderbox/13 Cities In Dust (Extended Version).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/S_t Erik/From Under The Tarn/03 Your Highness.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/S_t Erik/From Under The Tarn/04 Black Wall.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/S_t Erik/From Under The Tarn/05 Swan Song.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/S_t Erik/From Under The Tarn/02 The Search.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/S_t Erik/From Under The Tarn/01 Goddess.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Led Er Est/May/02 Madi La Lune.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Led Er Est/May/01 Lonesome XOXO.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Led Er Est/May/05 May.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Led Er Est/May/04 Opto 5.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Led Er Est/May/06 Drosophila Melanogaster.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Led Er Est/May/03 Plants.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Screamin' Jay Hawkins/The Rolling Stone Magazines 500 Greatest Songs Of All Time_(p)/00 I Put A Spell On You.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Screamin' Jay Hawkins/A Dirty Shame/05 Moanin'.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/James Vincent McMorrow/We Move/06 Get Low.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/James Vincent McMorrow/We Move/03 Last Story.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/James Vincent McMorrow/We Move/09 Surreal.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/James Vincent McMorrow/We Move/10 Lost Angles.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/James Vincent McMorrow/We Move/07 Killer Whales.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/James Vincent McMorrow/We Move/05 Evil.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/James Vincent McMorrow/We Move/08 Seek Another.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/James Vincent McMorrow/We Move/01 Rising Water.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/James Vincent McMorrow/We Move/02 I Lie Awake Every Night.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/James Vincent McMorrow/We Move/04 One Thousand Times.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Truckfighters/Desert Cruiser EP/04 Motor.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Truckfighters/Desert Cruiser EP/01 Desert Cruiser.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Truckfighters/Desert Cruiser EP/06 Copyright.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Truckfighters/Desert Cruiser EP/02 Mexico.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Truckfighters/Desert Cruiser EP/03 Spaceship Lord.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Truckfighters/Desert Cruiser EP/05 Gain Speed.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Truckfighters/Truckfighters do Square - Square do Truckfighters/01 Frizzy Man part 1-2.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Truckfighters/Mania/04 Majestic.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Truckfighters/Mania/07 Loose.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Truckfighters/Mania/06 Con of Man.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Truckfighters/Mania/08 Blackness.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Truckfighters/Mania/05 Monster.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Truckfighters/Mania/02 Monte Gargano.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Truckfighters/Mania/01 Last Curfew.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Truckfighters/Mania/03 The New High.mp3: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Truckfighters/The Return of the Fuzzsplit Volume One Vinyl/03 Dig You Down (Backwards).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 48 kHz, JntStereo
+/moshpit/Music/Music/Truckfighters/The Return of the Fuzzsplit Volume One Vinyl/01 Dig You Down.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 48 kHz, JntStereo
+/moshpit/Music/Music/Truckfighters/V/05 The Contract.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Truckfighters/V/04 Gehenna.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Truckfighters/V/01 Calm Before the Storm.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Truckfighters/V/06 Fiend.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Truckfighters/V/02 Hawkshaw.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Truckfighters/V/07 Storyline.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Pink Floyd/The Complete Zabriskie Point Sessions/12 Love Scene (Take Four).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Pink Floyd/The Complete Zabriskie Point Sessions/15 Unknown Song (Take One).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Pink Floyd/Wish You Were Here/04 Wish You Were Here.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Pink Floyd/Wish You Were Here/05 Shine On You Crazy Diamond (Parts 6-9).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Pink Floyd/Wish You Were Here/02 Welcome To The Machine.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Pink Floyd/Wish You Were Here/03 Have A Cigar.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Pink Floyd/Wish You Were Here/01 Shine On You Crazy Diamond (Parts 1-5).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Pink Floyd/Animals/04 Sheep.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Pink Floyd/Animals/05 Pigs On The Wing 2.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Pink Floyd/Animals/03 Pigs (Three Different Ones).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Pink Floyd/Animals/02 Dogs.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Pink Floyd/Meddle/03 Fearless.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Pink Floyd/Meddle/04 San Tropez.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Pink Floyd/Meddle/01 One of These Days.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Pink Floyd/Meddle/02 A Pillow of Winds.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Pink Floyd/Meddle/06 Echoes.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Pink Floyd/Meddle/05 Seamus.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Mainline/Psychedelica Volume Two/1-06 Black Honey.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Lovetones/Axiom/01 Everybody Hides Away.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Lovetones/Axiom/01 Wintertime In Hollywood.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Lovetones/Axiom/01 Navigator.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Lovetones/Psychedelica Volume One 1 (Disc 1)/01 Stars.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Killing Joke/Revelations/04 Chop Chop.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Killing Joke/Revelations/03 We Have Joy.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Killing Joke/Revelations/09 Good Samaritan.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Killing Joke/Revelations/10 Dregs.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Killing Joke/Revelations/06 Chapter III.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Killing Joke/Revelations/01 The Hum.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/Killing Joke/Revelations/05 The Pandys Are Coming.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Dozer/Beyond Colossal/06 Message Through the Horses.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Dozer/Beyond Colossal/05 Grand Inquisitor.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Dozer/Beyond Colossal/10 Bound for Greatness.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Dozer/Beyond Colossal/07 The Throne.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Dozer/Beyond Colossal/01 The Flood.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Dozer/Beyond Colossal/04 The Ventriloquist.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Dozer/Beyond Colossal/03 Empire's End.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Dozer/Beyond Colossal/02 Exoskeleton, Pt. II.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Dozer/Beyond Colossal/08 Fire for Crows.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Dozer/Beyond Colossal/09 Two Coins for Eyes.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Super Mash Bros_/All About The Scrilions/08 Jaein Off On My Day Off.mp3: Audio file with ID3 version 2.2.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Super Mash Bros_/All About The Scrilions/06 Adler Girl Pt. II (I Can Change!).mp3: Audio file with ID3 version 2.2.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Super Mash Bros_/All About The Scrilions/13 Bruce Willis Was Dead The Whole Time.mp3: Audio file with ID3 version 2.2.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Super Mash Bros_/All About The Scrilions/12 Livin The Dream (I'm On A Float).mp3: Audio file with ID3 version 2.2.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Super Mash Bros_/All About The Scrilions/07 This Is Definitely Not The 405.mp3: Audio file with ID3 version 2.2.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Super Mash Bros_/All About The Scrilions/05 @LaurenConrad Get Us On The Hills!.mp3: Audio file with ID3 version 2.2.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Super Mash Bros_/All About The Scrilions/02 From Honor Roll To Out Of Control.mp3: Audio file with ID3 version 2.2.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Super Mash Bros_/All About The Scrilions/03 Gucci Loafers (Our First Paycheck).mp3: Audio file with ID3 version 2.2.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Super Mash Bros_/All About The Scrilions/09 Kisses & Thugs.mp3: Audio file with ID3 version 2.2.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Super Mash Bros_/All About The Scrilions/11 Fixies & Ferraris.mp3: Audio file with ID3 version 2.2.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Super Mash Bros_/All About The Scrilions/04 NPH FTW.mp3: Audio file with ID3 version 2.2.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Super Mash Bros_/All About The Scrilions/01 Boom Boom Pau.mp3: Audio file with ID3 version 2.2.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Super Mash Bros_/All About The Scrilions/10 Still Bleeding.mp3: Audio file with ID3 version 2.2.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/MGMT/Oracular Spectacular/01 Time to Pretend.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/MGMT/Congratulations/07 Brian Eno.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/MGMT/Congratulations/05 I Found A Whistle.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/MGMT/Congratulations/03 Someone's Missing.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/MGMT/Congratulations/04 Flash Delerium.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/MGMT/Congratulations/02 Song For Dan Treacy.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/MGMT/Congratulations/01 It's Working.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/MGMT/Congratulations/06 Siberian Breaks.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/MGMT/Congratulations/08 Lady Dada's Nightmare.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/MGMT/Congratulations/09 Congratulation.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Wu-Tang Clan/Wu-Tang Forever (disc 2)/02 Triumph (feat. CappaDonna).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Wu-Tang Clan/Wu-Tang Forever (disc 1)/02 Reunited.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Wu-Tang Clan/Legend of the Wu-Tang Clan_ Greatest Hits/09 It's Yourz.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Wu-Tang Clan/Legend of the Wu-Tang Clan_ Greatest Hits/11 Gravel Pit.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Wu-Tang Clan/Legend of the Wu-Tang Clan_ Greatest Hits/02 Method Man.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Wu-Tang Clan/Legend of the Wu-Tang Clan_ Greatest Hits/13 Sucker M.C.'s.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Wu-Tang Clan/Legend of the Wu-Tang Clan_ Greatest Hits/15 Shaolin Worldwide.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Wu-Tang Clan/Legend of the Wu-Tang Clan_ Greatest Hits/05 Can It Be All So Simple.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Wu-Tang Clan/Legend of the Wu-Tang Clan_ Greatest Hits/14 Uzi (Pinky Ring).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Terry Riley/A Rainbow In Curved Air/01 A Rainbow In Curved Air.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Terry Riley/A Rainbow In Curved Air/02 Poppy Nogood And The Phantom Band.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Hot Blood/Disco Sickness/Soul Dracula.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+/moshpit/Music/Music/The Stevenson Ranch Davidians/Amerikana/09 Pillow Sittin'.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Stevenson Ranch Davidians/Amerikana/06 Om G.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Stevenson Ranch Davidians/Amerikana/02 Holy Life.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Stevenson Ranch Davidians/Amerikana/07 PsyOp.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Stevenson Ranch Davidians/Amerikana/04 Hard Livin'.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Stevenson Ranch Davidians/Amerikana/03 Love Is A Big Light.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Stevenson Ranch Davidians/Amerikana/05 Binary Bop.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Stevenson Ranch Davidians/Amerikana/08 The Highest Meadow.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Stevenson Ranch Davidians/Amerikana/01 Wack Magick.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Spores/Imagine the Future/03 Moon Shine Down.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Spores/Imagine the Future/09 Yum Yum.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Spores/Imagine the Future/10 El Matador.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Spores/Imagine the Future/02 (Don't) Kill Yourself.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Spores/Imagine the Future/01 Mandibles.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Spores/Imagine the Future/11 Entwined Like Lovers.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Spores/Imagine the Future/06 Love My Mind.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Spores/Imagine the Future/05 Imagine The Future.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Spores/Imagine the Future/04 Heat Seeker.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Spores/Imagine the Future/08 Big Brother.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/The Spores/Imagine the Future/07 Veal.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/A Fine Frenzy/Pines/12 Now is the Start.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/A Fine Frenzy/Pines/01 Pine Song.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/A Fine Frenzy/Pines/08 Sad Sea Song.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/A Fine Frenzy/Pines/09 They Can't if You Don't Let Them.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/A Fine Frenzy/Pines/02 Winds of Wander.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/A Fine Frenzy/Pines/03 Avalanches (Culla's Song).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/A Fine Frenzy/Pines/05 The Sighting.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/A Fine Frenzy/Pines/13 Untitled (Grasses Grow).mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/A Fine Frenzy/Pines/10 Dance of the Crazy Whales.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/A Fine Frenzy/Pines/07 Sailing Song.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/A Fine Frenzy/Pines/11 It's Alive.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/A Fine Frenzy/Pines/06 Dream in the Dark.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/A Fine Frenzy/Pines/04 River Song.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Red Hot Chili Peppers/Greatest Hits/02 Give it away.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Red Hot Chili Peppers/Greatest Hits/10 Breaking the girl.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Red Hot Chili Peppers/Greatest Hits/11 My Friends.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+/moshpit/Music/Music/Red Hot Chili Peppers/Greatest Hits/13 Universally Speaking.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
