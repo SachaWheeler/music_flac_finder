@@ -1,0 +1,30 @@
+deleting moshpit/Music/Music/LL COOL J/Deepest Bluest/01 Deepest Bluest (Album Version).mp3
+deleting moshpit/Music/Music/LL COOL J/Deepest Bluest/
+deleting moshpit/Music/Music/LL Cool J/Radio/11 I Want You.mp3
+deleting moshpit/Music/Music/LL Cool J/Radio/10 You_ll Rock.mp3
+deleting moshpit/Music/Music/LL Cool J/Radio/09 That_s a Lie.mp3
+deleting moshpit/Music/Music/LL Cool J/Radio/08 I Need a Beat.mp3
+deleting moshpit/Music/Music/LL Cool J/Radio/07 Rock the Bells.mp3
+deleting moshpit/Music/Music/LL Cool J/Radio/06 El Shabazz.mp3
+deleting moshpit/Music/Music/LL Cool J/Radio/05 Dangerous.mp3
+deleting moshpit/Music/Music/LL Cool J/Radio/04 I Can Give You More.mp3
+deleting moshpit/Music/Music/LL Cool J/Radio/03 Dear Yvette.mp3
+deleting moshpit/Music/Music/LL Cool J/Radio/02 You Can_t Dance.mp3
+deleting moshpit/Music/Music/LL Cool J/Radio/01 I Can_t Live Without My Radio.mp3
+deleting moshpit/Music/Music/LL Cool J/Radio/
+deleting moshpit/Music/Music/LL Cool J/Deep Blue Sea/Deepest Bluest.mp3
+deleting moshpit/Music/Music/LL Cool J/Deep Blue Sea/
+deleting moshpit/Music/Music/Landless/Luireach/10 Ej Husári.mp3
+deleting moshpit/Music/Music/Landless/Luireach/03 Lúireach Bhríde.mp3
+deleting moshpit/Music/Music/Mozart/100 Best Mozart/2-21 Don Giovanni, Opera, K.527, Act II_ Scene 2. In Quali Eccessi, O Numi...Mi Tradì, Quell'alma Ingrata (Donna Elvira).mp3
+deleting moshpit/Music/Music/Mozart/100 Best Mozart/2-13 Così Fan Tutte, Opera, K.588, Act 1_ Scene 3. No.17 Aria. Un'aura Amorosa Del Nostro Tesoro (Ferrando).mp3
+deleting moshpit/Music/Music/Mozart/100 Best Mozart/2-12 Così Fan Tutte, Opera, K.588, Act 1_ Scene 3. Recitativo. L'intatta Fede Che..._No.14 Aria. Come Scoglio Immoto Resta (Fiordiligi).mp3
+deleting moshpit/Music/Music/Mozart/100 Best Mozart/2-11 Così Fan Tutte, Opera, K.588, Act 1_ Scene 3. No.11 Aria. Smanie Implacabili Che M'agitate (Dorabella).mp3
+deleting moshpit/Music/Music/Mozart/100 Best Mozart/2-10 Così Fan Tutte, Opera, K.588, Act 1_ Scene 2. No.10 Terzettino. Soave Sia Il Vento (Dorabella_Don Alfonso_Fiordiligi).mp3
+deleting moshpit/Music/Music/Mozart/100 Best Mozart/2-09 Così Fan Tutte, Opera, K.588, Act 1_ Scene 2. No.8 Coro. Bella Vita Militar! (Coro).mp3
+deleting moshpit/Music/Music/Neu!/Neu! 2/02 Spitzenqualität.mp3
+deleting moshpit/Music/Music/Os Mutantes/A Divina Comedia Au Ando Meio/09 Jogo De Calçada.mp3
+deleting moshpit/Music/Music/Plastilina Mosh/Tasty + B Sides/10 Aló.mp3
+deleting moshpit/movies/La Belle et la Bete/La Belle et la Bête.srt
+deleting moshpit/tv/Parks and Recreation/Season 6/Parks and Recreation S06E04 Doppelgängers.mp4
+
