@@ -1,3 +1,4 @@
+import subprocess
 from plexapi.server import PlexServer
 import time
 
@@ -8,6 +9,11 @@ PLEX_TOKEN = "dQfP1K7DXj3emyx6zfh2"
 # Connect to Plex
 plex = PlexServer(PLEX_URL, PLEX_TOKEN)
 prev_message = None
+
+def send_notification(title, message):
+    """Send a desktop notification using notify-send."""
+    subprocess.run(["notify-send", "-u", "normal", title, message])
+
 
 def get_low_bitrate_tracks():
     """Checks if any currently playing track is below 320 kbps."""
@@ -23,8 +29,10 @@ def get_low_bitrate_tracks():
 
             if bitrate and bitrate < 320:
                 message = f"⚠️  Now Playing: {artist} - {track} ({bitrate} kbps) [LOW BITRATE]"
+                send_notification("⚠️  Low Bitrate Track Detected", f"{artist} - {track} ({bitrate} kbps)")
             else:
                 message = f"🎵 Now Playing: {artist} - {track} ({bitrate} kbps)"
+
             if message != prev_message:
                 print(message)
                 prev_message = message
