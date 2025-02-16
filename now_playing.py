@@ -28,8 +28,10 @@ def get_low_bitrate_tracks():
             bitrate = session.media[0].bitrate if session.media else None
 
             if bitrate and bitrate < 320:
-                message = f"⚠️  Now Playing: {artist} - {track} ({bitrate} kbps) [LOW BITRATE]"
-                send_notification("⚠️  Low Bitrate Track Detected", f"{artist} - {track} ({bitrate} kbps)")
+                message = f"⚠️  Now Playing: {artist} - {album} - {track} ({bitrate} kbps)"
+                if message != prev_message:
+                    send_notification("⚠️  Low Bitrate", f"{artist} - {album} - {track} ({bitrate} kbps)")
+                    print("\a")
             else:
                 message = f"🎵 Now Playing: {artist} - {track} ({bitrate} kbps)"
 
