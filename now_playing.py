@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import subprocess
 from plexapi.server import PlexServer
 import time
