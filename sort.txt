@@ -1,5 +1,0 @@
-sort -t':' -k2,2n input.txt -o sorted_output.txt
-
-
-grep "128 kbps" bitrates.txt | cut -d"/" -f6,7 | sort | uniq -c | sort -rn
-
