@@ -2,11 +2,7 @@
 import subprocess
 from plexapi.server import PlexServer
 import time
-
-# Configure your Plex details
-PLEX_URL = "http://127.0.0.1:32400"
-#PLEX_TOKEN = "dQfP1K7DXj3emyx6zfh2"
-PLEX_TOKEN = "_iqZ4xQXCYy9UtYuMFpM"
+from credentials import PLEX_URL, PLEX_TOKEN
 
 # Connect to Plex
 plex = PlexServer(PLEX_URL, PLEX_TOKEN)

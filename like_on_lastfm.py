@@ -2,10 +2,7 @@ from plexapi.server import PlexServer
 import urllib.parse
 import hashlib
 import requests
-
-# Plex credentials
-PLEX_URL = "http://your-plex-server:32400"
-PLEX_TOKEN = "your_plex_token"
+from credentials import PLEX_URL, PLEX_TOKEN
 
 # Last.fm API credentials
 API_KEY = "your_api_key"
