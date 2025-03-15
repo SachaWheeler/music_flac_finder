@@ -1,4 +1,3 @@
-Tracks with 'Unknown' in Artist or Album Name (Case-Insensitive):
 Path: /media/sacha/moshpit/Music/Music/Classical Collection/Khachaturian & Shostakovitch - Violin Concertos/01 01. KHACHATURIAN - Violin Concerto (1940) - I.mp3, Bitrate: 320 kbps, Title: 01. KHACHATURIAN - Violin Concerto (1940) - I, Artist: Unknown, Album: Khachaturian & Shostakovitch - Violin Concertos
 Path: /media/sacha/moshpit/Music/Music/Classical Collection/Khachaturian & Shostakovitch - Violin Concertos/02 02. KHACHATURIAN - Violin Concerto (1940) - II.mp3, Bitrate: 320 kbps, Title: 02. KHACHATURIAN - Violin Concerto (1940) - II, Artist: Unknown, Album: Khachaturian & Shostakovitch - Violin Concertos
 Path: /media/sacha/moshpit/Music/Music/Classical Collection/Khachaturian & Shostakovitch - Violin Concertos/03 03. KHACHATURIAN - Violin Concerto (1940) - III.mp3, Bitrate: 320 kbps, Title: 03. KHACHATURIAN - Violin Concerto (1940) - III, Artist: Unknown, Album: Khachaturian & Shostakovitch - Violin Concertos
@@ -6,20 +5,6 @@ Path: /media/sacha/moshpit/Music/Music/Classical Collection/Khachaturian & Shost
 Path: /media/sacha/moshpit/Music/Music/Classical Collection/Khachaturian & Shostakovitch - Violin Concertos/05 05. SHOSTAKOVICH - Violin Concerto No. 1, Opus 99 - II.mp3, Bitrate: 320 kbps, Title: 05. SHOSTAKOVICH - Violin Concerto No. 1, Opus 99 - II, Artist: Unknown, Album: Khachaturian & Shostakovitch - Violin Concertos
 Path: /media/sacha/moshpit/Music/Music/Classical Collection/Khachaturian & Shostakovitch - Violin Concertos/06 06. SHOSTAKOVICH - Violin Concerto No. 1, Opus 99 - III.mp3, Bitrate: 320 kbps, Title: 06. SHOSTAKOVICH - Violin Concerto No. 1, Opus 99 - III, Artist: Unknown, Album: Khachaturian & Shostakovitch - Violin Concertos
 Path: /media/sacha/moshpit/Music/Music/Classical Collection/Khachaturian & Shostakovitch - Violin Concertos/07 07. SHOSTAKOVICH - Violin Concerto No. 1, Opus 99 - IV & V.mp3, Bitrate: 320 kbps, Title: 07. SHOSTAKOVICH - Violin Concerto No. 1, Opus 99 - IV & V, Artist: Unknown, Album: Khachaturian & Shostakovitch - Violin Concertos
-Path: /media/sacha/moshpit/Music/Music/Soundgarden/Superunknown/01 Let Me Drown.mp3, Bitrate: 320 kbps, Title: Let Me Drown, Artist: Soundgarden, Album: Superunknown
-Path: /media/sacha/moshpit/Music/Music/Soundgarden/Superunknown/02 My Wave.mp3, Bitrate: 320 kbps, Title: My Wave, Artist: Soundgarden, Album: Superunknown
-Path: /media/sacha/moshpit/Music/Music/Soundgarden/Superunknown/03 Fell On Black Days.mp3, Bitrate: 320 kbps, Title: Fell on Black Days, Artist: Soundgarden, Album: Superunknown
-Path: /media/sacha/moshpit/Music/Music/Soundgarden/Superunknown/04 Mailman.mp3, Bitrate: 320 kbps, Title: Mailman, Artist: Soundgarden, Album: Superunknown
-Path: /media/sacha/moshpit/Music/Music/Soundgarden/Superunknown/05 Superunknown.mp3, Bitrate: 320 kbps, Title: Superunknown, Artist: Soundgarden, Album: Superunknown
-Path: /media/sacha/moshpit/Music/Music/Soundgarden/Superunknown/06 Head Down.mp3, Bitrate: 320 kbps, Title: Head Down, Artist: Soundgarden, Album: Superunknown
-Path: /media/sacha/moshpit/Music/Music/Soundgarden/Superunknown/07 Black Hole Sun.mp3, Bitrate: 320 kbps, Title: Black Hole Sun, Artist: Soundgarden, Album: Superunknown
-Path: /media/sacha/moshpit/Music/Music/Soundgarden/Superunknown/08 Spoonman.mp3, Bitrate: 320 kbps, Title: Spoonman, Artist: Soundgarden, Album: Superunknown
-Path: /media/sacha/moshpit/Music/Music/Soundgarden/Superunknown/09 Limo Wreck.mp3, Bitrate: 320 kbps, Title: Limo Wreck, Artist: Soundgarden, Album: Superunknown
-Path: /media/sacha/moshpit/Music/Music/Soundgarden/Superunknown/10 The Day I Tried To Live.mp3, Bitrate: 320 kbps, Title: The Day I Tried to Live, Artist: Soundgarden, Album: Superunknown
-Path: /media/sacha/moshpit/Music/Music/Soundgarden/Superunknown/11 Kickstand.mp3, Bitrate: 320 kbps, Title: Kickstand, Artist: Soundgarden, Album: Superunknown
-Path: /media/sacha/moshpit/Music/Music/Soundgarden/Superunknown/12 Fresh Tendrils.mp3, Bitrate: 320 kbps, Title: Fresh Tendrils, Artist: Soundgarden, Album: Superunknown
-Path: /media/sacha/moshpit/Music/Music/Soundgarden/Superunknown/14 Half.mp3, Bitrate: 320 kbps, Title: Half, Artist: Soundgarden, Album: Superunknown
-Path: /media/sacha/moshpit/Music/Music/Soundgarden/Superunknown/15 Like Suicide.mp3, Bitrate: 320 kbps, Title: Like Suicide, Artist: Soundgarden, Album: Superunknown
 Path: /media/sacha/moshpit/Music/Music/Various Artists/Casino/1-08 Ain't Got No Home.mp3, Bitrate: 320 kbps, Title: Ain't Got No Home, Artist: Various Artists, Album: [Unknown Album]
 Path: /media/sacha/moshpit/Music/Music/Various Artists/Inherent Vice_ Original Motion Picture Soundtrack/1-17 Any Day Now.mp3, Bitrate: 320 kbps, Title: Any Day Now, Artist: Various Artists, Album: [Unknown Album]
 Path: /media/sacha/moshpit/Music/Music/Various Artists/Watchmen, Music From The Motion Picture/13 The Beginning Is The End Is The Beginning.mp3, Bitrate: 320 kbps, Title: The Beginning Is The End Is The Beginning, Artist: Various Artists, Album: [Unknown Album]
