@@ -12,4 +12,4 @@ ARG=$1
 # Print the argument
 echo "You provided: $ARG"
 
-grep -v "$ARG kbps" bitrates.txt | cut -d"|" -f3| cut -d"-" -f1,2 | sort | uniq -c | sort -rn | less
+grep  "$ARG kbps" bitrates.txt | cut -d"|" -f3| cut -d"-" -f1,2 | sort | uniq -c | sort -rn | less
