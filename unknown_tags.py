@@ -27,7 +27,8 @@ for track in music_library.searchTracks():
 if unknown_tracks:
     print("Tracks with 'Unknown' in Artist or Album Name (Case-Insensitive):")
     for file_path, bitrate, title, artist, album in unknown_tracks:
-        print(f"Path: {file_path}, Bitrate: {bitrate} kbps, Title: {title}, Artist: {artist}, Album: {album}")
+        print(
+            f"Path: {file_path}, Bitrate: {bitrate} kbps, Title: {title}, Artist: {artist}, Album: {album}"
+        )
 else:
     print("No tracks with 'Unknown' in artist or album name found.")
-

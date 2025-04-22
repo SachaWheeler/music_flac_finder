@@ -3,6 +3,7 @@ import sys
 from mutagen.easyid3 import EasyID3
 from mutagen.id3 import ID3NoHeaderError
 
+
 def set_id3_tags(file, artist=None, album_title=None, album_artist=None):
     try:
         # Load existing ID3 tags or create new ones
@@ -13,17 +14,18 @@ def set_id3_tags(file, artist=None, album_title=None, album_artist=None):
 
         # Update tags if arguments are provided
         if artist:
-            tags['artist'] = artist
+            tags["artist"] = artist
         if album_title:
-            tags['album'] = album_title
+            tags["album"] = album_title
         if album_artist:
-            tags['albumartist'] = album_artist
+            tags["albumartist"] = album_artist
 
         # Save changes
         tags.save(file)
         print(f"Updated tags for: {file}")
     except Exception as e:
         print(f"Error updating {file}: {e}")
+
 
 def main():
     # Argument parser setup
@@ -42,9 +44,9 @@ def main():
             file,
             artist=args.Artist,
             album_title=args.AlbumTitle,
-            album_artist=args.AlbumArtist
+            album_artist=args.AlbumArtist,
         )
+
 
 if __name__ == "__main__":
     main()
-
