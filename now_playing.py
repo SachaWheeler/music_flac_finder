@@ -28,7 +28,7 @@ def get_low_bitrate_tracks():
             album = session.parentTitle
             bitrate = session.media[0].bitrate if session.media else None
 
-            like_status = "⭐" if session.userRating == 10.0 else "Not Liked"
+            like_status = "⭐" if session.userRating == 10.0 else ""
             rating = session.userRating
 
             # print(track, artist, album, bitrate)
