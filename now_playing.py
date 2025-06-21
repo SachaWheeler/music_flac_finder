@@ -27,6 +27,10 @@ def get_low_bitrate_tracks():
             artist = session.grandparentTitle
             album = session.parentTitle
             bitrate = session.media[0].bitrate if session.media else None
+
+            like_status = "⭐" if session.userRating == 10.0 else "Not Liked"
+            rating = session.userRating
+
             # print(track, artist, album, bitrate)
 
             if bitrate and bitrate < 320:
@@ -35,7 +39,7 @@ def get_low_bitrate_tracks():
                     send_notification("⚠️  Low Bitrate", f"{artist} - {album} - {track} ({bitrate} kbps)")
                     print("\a")
             else:
-                message = f"🎵 Now Playing: {artist} - {track} ({bitrate} kbps)"
+                message = f"🎵 Now Playing: {artist} - {track} ({bitrate} kbps) {like_status}"
 
             if message != prev_message:
                 print(message)
